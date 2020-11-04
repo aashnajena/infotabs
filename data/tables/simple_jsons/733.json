@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Lime flavoured, citrus flavoured cola Cola",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "The Coca-Cola Company",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "United States, United Kingdom",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "2005, 2007",
+  "(4, 0, 1)": "Variants",
+  "(4, 1, 1)": "Diet Coke with Lime, Diet Coke with Citrus Zest",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Coca-Cola with Lemon"
+}

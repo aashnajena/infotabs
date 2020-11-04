@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Hyperthyroidism",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "Overactive thyroid, hyperthyreosis",
+  "(2, 0, 1)": "Specialty",
+  "(2, 1, 1)": "Endocrinology",
+  "(3, 0, 1)": "Symptoms",
+  "(3, 1, 1)": "Irritability, muscle weakness, sleeping problems, fast heartbeat, heat intolerance, diarrhea, enlargement of the thyroid, weight loss",
+  "(4, 0, 1)": "Complications",
+  "(4, 1, 1)": "Thyroid storm",
+  "(5, 0, 1)": "Usual onset",
+  "(5, 1, 1)": "20–50 years old",
+  "(6, 0, 1)": "Causes",
+  "(6, 1, 1)": "Graves' disease, multinodular goiter, toxic adenoma, inflammation of the thyroid, eating too much iodine, too much synthetic thyroid hormone",
+  "(7, 0, 1)": "Diagnostic method",
+  "(7, 1, 1)": "Based on symptoms and confirmed by blood tests",
+  "(8, 0, 1)": "Treatment",
+  "(8, 1, 1)": "Radioiodine therapy, medications, thyroid surgery",
+  "(9, 0, 1)": "Medication",
+  "(9, 1, 1)": "Beta blockers, methimazole",
+  "(10, 0, 1)": "Frequency",
+  "(10, 1, 1)": "1.2% (USA)"
+}

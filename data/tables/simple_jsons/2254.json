@@ -1,0 +1,17 @@
+{
+  "(0, 0, 2)": "Cumulus",
+  "(1, 0, 1)": "Abbreviation",
+  "(1, 1, 1)": "Cu",
+  "(2, 0, 1)": "Genus",
+  "(2, 1, 1)": "Cumulus (heap)",
+  "(3, 0, 1)": "Species",
+  "(3, 1, 1)": "Fractus, Humilis, Mediocris, Congestus, ",
+  "(4, 0, 1)": "Variety",
+  "(4, 1, 1)": "Radiatus, ",
+  "(5, 0, 1)": "Altitude",
+  "(5, 1, 1)": "200-2,000 m,  (2,000-7,000 ft)",
+  "(6, 0, 1)": "Classification",
+  "(6, 1, 1)": "Family C (Low-level)",
+  "(7, 0, 1)": "Precipitation cloud?",
+  "(7, 1, 1)": "Uncommon"
+}

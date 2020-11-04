@@ -1,0 +1,16 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Powdered drink mix",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Kraft Foods",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "United States",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1975",
+  "(4, 0, 1)": "Color",
+  "(4, 1, 1)": "Yellow 5 Lake",
+  "(5, 0, 1)": "Flavor",
+  "(5, 1, 1)": "Lemonade, Pink Lemonade, Lemonade Iced Tea, Strawberry Lemonade, Raspberry Lemonade.",
+  "(6, 0, 1)": "Website",
+  "(6, 1, 1)": "CountryTime.com"
+}

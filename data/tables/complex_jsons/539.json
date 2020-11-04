@@ -1,0 +1,18 @@
+{
+  "(0, 0, 2)": "Claude Chappe",
+  "(1, 0, 1)": "Born",
+  "(1, 1, 1)": "25 December 1763",
+  "(1, 2, 1)": "Brûlon, Sarthe",
+  "(2, 0, 1)": "Died",
+  "(2, 1, 1)": "23 January 1805 (1805-01-24) (aged 41)",
+  "(2, 2, 1)": "Paris",
+  "(3, 0, 1)": "Nationality",
+  "(3, 1, 1)": "France",
+  "(4, 0, 1)": "Occupation",
+  "(4, 1, 1)": "Engineer",
+  "(5, 0, 2)": "Engineering career",
+  "(6, 0, 1)": "Projects",
+  "(6, 1, 1)": "semaphore system",
+  "(7, 0, 1)": "Significant advance",
+  "(7, 1, 1)": "telecommunications"
+}

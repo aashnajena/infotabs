@@ -1,0 +1,15 @@
+{
+  "(0, 0, 2)": "Julius Caesar",
+  "(1, 0, 2)": "In office",
+  "(1, 1, 1)": "October 49 BC – 15 March 44 BC",
+  "(2, 0, 1)": "Lieutenant",
+  "(2, 1, 1)": "Marcus Antonius",
+  "(2, 2, 1)": "Marcus Aemilius Lepidus",
+  "(2, 3, 1)": "Gnaeus Domitius Calvinus",
+  "(3, 0, 1)": "Preceded by",
+  "(3, 1, 1)": "Sulla",
+  "(3, 2, 1)": "(82/81–81 BC; as previous Dictator)",
+  "(4, 0, 1)": "Succeeded by",
+  "(4, 1, 1)": "Augustus",
+  "(4, 2, 1)": "(27 BC–AD 14; as Roman emperor)"
+}

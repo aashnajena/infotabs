@@ -1,0 +1,15 @@
+{
+  "(0, 0, 2)": "Dearborn, Michigan",
+  "(1, 0, 1)": "Country",
+  "(1, 1, 1)": "United States",
+  "(2, 0, 1)": "State",
+  "(2, 1, 1)": "Michigan",
+  "(3, 0, 1)": "County",
+  "(3, 1, 1)": "Wayne",
+  "(4, 0, 1)": "First settled",
+  "(4, 1, 1)": "1786",
+  "(5, 0, 1)": "Incorporation (village)",
+  "(5, 1, 1)": "1893",
+  "(6, 0, 1)": "Incorporation (city)",
+  "(6, 1, 1)": "1927"
+}

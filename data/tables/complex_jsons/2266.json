@@ -1,0 +1,13 @@
+{
+  "(0, 0, 1)": "Names",
+  "(0, 1, 1)": "Stunt performer, stuntman, daredevil",
+  "(1, 0, 1)": "Activity sectors",
+  "(1, 1, 1)": "Entertainment",
+  "(2, 0, 1)": "Competencies",
+  "(2, 1, 1)": "Physical fitness, daring, acting skills",
+  "(3, 0, 1)": "Fields of",
+  "(3, 1, 1)": "employment",
+  "(3, 2, 1)": "Film, television, theatre",
+  "(4, 0, 1)": "Related jobs",
+  "(4, 1, 1)": "Stunt double, stunt coordinator, actor, movie star, extra"
+}

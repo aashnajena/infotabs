@@ -1,0 +1,18 @@
+{
+  "(0, 0, 2)": "Captain Confederacy",
+  "(1, 0, 1)": "Publisher",
+  "(1, 1, 1)": "SteelDragon Press (first series)",
+  "(1, 2, 1)": "Epic Comics (second series)",
+  "(2, 0, 1)": "Schedule",
+  "(2, 1, 1)": "Monthly",
+  "(3, 0, 1)": "Format",
+  "(3, 1, 1)": "mini-series",
+  "(4, 0, 1)": "Genre",
+  "(4, 1, 1)": "Alternate history",
+  "(5, 0, 1)": "Publication date",
+  "(5, 1, 1)": "1986 (first series) ",
+  "(5, 2, 1)": "November 1991 – February 1992 (second series)",
+  "(6, 0, 1)": "No. of issues",
+  "(6, 1, 1)": "12 (first series)",
+  "(6, 2, 1)": "4 (second series)"
+}

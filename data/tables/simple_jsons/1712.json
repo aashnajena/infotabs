@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Manufacturer",
+  "(0, 1, 1)": "Sinebrychoff",
+  "(1, 0, 1)": "Introduced",
+  "(1, 1, 1)": "1898",
+  "(2, 0, 1)": "Alcohol by volume",
+  "(2, 1, 1)": "8.0% (Tosi Vahva Karhu),  5.4% (Karhu IVA),  4.6% (Karhu III)",
+  "(3, 0, 1)": "Style",
+  "(3, 1, 1)": "Pale lager",
+  "(4, 0, 1)": "Original gravity",
+  "(4, 1, 1)": "16.5% PI (Tosi Vahva Karhu), 12.3% PI (Karhu IVA), 10.5% PI (Karhu III)",
+  "(5, 0, 1)": "IBU scale",
+  "(5, 1, 1)": "18 (Karhu III)"
+}

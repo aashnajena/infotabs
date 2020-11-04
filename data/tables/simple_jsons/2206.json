@@ -1,0 +1,17 @@
+{
+  "(0, 0, 2)": "Schizoaffective disorder",
+  "(1, 0, 1)": "Specialty",
+  "(1, 1, 1)": "Psychiatry",
+  "(2, 0, 1)": "Symptoms",
+  "(2, 1, 1)": "Hallucinations, delusions, disorganized thinking, depressed mood, manic behavior",
+  "(3, 0, 1)": "Complications",
+  "(3, 1, 1)": "Social isolation, suicide",
+  "(4, 0, 1)": "Types",
+  "(4, 1, 1)": "Bipolar type, depressive type",
+  "(5, 0, 1)": "Causes",
+  "(5, 1, 1)": "Unknown",
+  "(6, 0, 1)": "Risk factors",
+  "(6, 1, 1)": "Genetics, brain chemistry and structure, stress, drug use, trauma from abuse",
+  "(7, 0, 1)": "Medication",
+  "(7, 1, 1)": "Antipsychotics, mood stabilizers"
+}

@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Field",
+  "(0, 1, 1)": "Number theory",
+  "(1, 0, 1)": "Conjectured by",
+  "(1, 1, 1)": "Joseph  Oesterlé",
+  "(1, 2, 1)": "David Masser",
+  "(2, 0, 1)": "Conjectured in",
+  "(2, 1, 1)": "1985",
+  "(3, 0, 1)": "Equivalent to",
+  "(3, 1, 1)": "Modified Szpiro conjecture",
+  "(4, 0, 1)": "Consequences",
+  "(4, 1, 1)": "Beal conjecture",
+  "(4, 2, 1)": "Faltings's theorem",
+  "(4, 3, 1)": "Fermat's Last Theorem",
+  "(4, 4, 1)": "Fermat–Catalan conjecture",
+  "(4, 5, 1)": "Roth's theorem",
+  "(4, 6, 1)": "Tijdeman's theorem"
+}

@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Coffee Liqueur",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Pernod Ricard",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Mexico",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1936; 83 years ago (1936)",
+  "(4, 0, 1)": "Alcohol by volume",
+  "(4, 1, 1)": "20.0%",
+  "(5, 0, 1)": "Website",
+  "(5, 1, 1)": "www.kahlua.com"
+}

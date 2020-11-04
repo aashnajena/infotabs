@@ -1,0 +1,20 @@
+{
+  "(0, 0, 2)": "Infinite Crisis",
+  "(1, 0, 1)": "Publisher",
+  "(1, 1, 1)": "DC Comics",
+  "(2, 0, 1)": "Schedule",
+  "(2, 1, 1)": "Monthly",
+  "(3, 0, 1)": "Format",
+  "(3, 1, 1)": "Limited series",
+  "(4, 0, 1)": "Publication date",
+  "(4, 1, 1)": "December 2005 – June 2006",
+  "(5, 0, 1)": "No. of issues",
+  "(5, 1, 1)": "7",
+  "(6, 0, 1)": "Main character(s)",
+  "(6, 1, 1)": "Superman",
+  "(6, 2, 1)": "Batman",
+  "(6, 3, 1)": "Wonder Woman",
+  "(6, 4, 1)": "Alexander Luthor",
+  "(6, 5, 1)": "Superboy-Prime",
+  "(6, 6, 1)": "rest of DC Universe"
+}

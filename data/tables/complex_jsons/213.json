@@ -1,0 +1,21 @@
+{
+  "(0, 0, 2)": "John McCain",
+  "(1, 0, 2)": "In office",
+  "(1, 1, 1)": "January 3, 2003 – January 3, 2005",
+  "(2, 0, 1)": "Preceded by",
+  "(2, 1, 1)": "Fritz Hollings",
+  "(3, 0, 1)": "Succeeded by",
+  "(3, 1, 1)": "Ted Stevens",
+  "(4, 0, 2)": "In office",
+  "(4, 1, 1)": "January 20, 2001 – June 3, 2001",
+  "(5, 0, 1)": "Preceded by",
+  "(5, 1, 1)": "Fritz Hollings",
+  "(6, 0, 1)": "Succeeded by",
+  "(6, 1, 1)": "Fritz Hollings",
+  "(7, 0, 2)": "In office",
+  "(7, 1, 1)": "January 3, 1997 – January 3, 2001",
+  "(8, 0, 1)": "Preceded by",
+  "(8, 1, 1)": "Larry Pressler",
+  "(9, 0, 1)": "Succeeded by",
+  "(9, 1, 1)": "Fritz Hollings"
+}

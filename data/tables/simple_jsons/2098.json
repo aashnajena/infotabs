@@ -1,0 +1,21 @@
+{
+  "(0, 0, 2)": "Cushing's syndrome",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "Hypercortisolism, Itsenko-Cushing syndrome, hyperadrenocorticism",
+  "(2, 0, 1)": "Specialty",
+  "(2, 1, 1)": "Endocrinology",
+  "(3, 0, 1)": "Symptoms",
+  "(3, 1, 1)": "High blood pressure, abdominal obesity with thin arms and legs, reddish stretch marks, round red face, fat lump between the shoulders, weak muscles, acne, fragile skin",
+  "(4, 0, 1)": "Usual onset",
+  "(4, 1, 1)": "20–50 years",
+  "(5, 0, 1)": "Causes",
+  "(5, 1, 1)": "Prolonged exposure to cortisol",
+  "(6, 0, 1)": "Diagnostic method",
+  "(6, 1, 1)": "Requires a number of steps",
+  "(7, 0, 1)": "Treatment",
+  "(7, 1, 1)": "Based on underlying cause",
+  "(8, 0, 1)": "Prognosis",
+  "(8, 1, 1)": "Generally good with treatment",
+  "(9, 0, 1)": "Frequency",
+  "(9, 1, 1)": "2–3 per million people per year"
+}

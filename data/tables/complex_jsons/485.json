@@ -1,0 +1,21 @@
+{
+  "(0, 0, 2)": "Daniel",
+  "(1, 0, 1)": "Author(s)",
+  "(1, 1, 1)": "anonymous",
+  "(2, 0, 1)": "Language",
+  "(2, 1, 1)": "Old English",
+  "(3, 0, 1)": "State of existence",
+  "(3, 1, 1)": "two poems, A and B; possibly unfinished",
+  "(4, 0, 1)": "Manuscript(s)",
+  "(4, 1, 1)": "Junius manuscript",
+  "(5, 0, 1)": "Genre",
+  "(5, 1, 1)": "poetry",
+  "(6, 0, 1)": "Verse form",
+  "(6, 1, 1)": "alliterative",
+  "(7, 0, 1)": "Length",
+  "(7, 1, 1)": "764 lines",
+  "(8, 0, 1)": "Subject",
+  "(8, 1, 1)": "based on the Book of Daniel",
+  "(9, 0, 1)": "Personages",
+  "(9, 1, 1)": "Daniel, Three Youths, Nebuchadnezzar II"
+}

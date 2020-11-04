@@ -1,0 +1,16 @@
+{
+  "(0, 0, 2)": "Cleveland, Ohio",
+  "(1, 0, 1)": "Country",
+  "(1, 1, 1)": "United States",
+  "(2, 0, 1)": "State",
+  "(2, 1, 1)": "Ohio",
+  "(3, 0, 1)": "County",
+  "(3, 1, 1)": "Cuyahoga",
+  "(4, 0, 1)": "Founded",
+  "(4, 1, 1)": "July 22, 1796",
+  "(5, 0, 1)": "Incorporated",
+  "(5, 1, 1)": "December 23, 1814 (village)",
+  "(6, 1, 1)": "March 6, 1836 (city)",
+  "(7, 0, 1)": "Named for",
+  "(7, 1, 1)": "Moses Cleaveland"
+}

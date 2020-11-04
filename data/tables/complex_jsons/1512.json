@@ -1,0 +1,15 @@
+{
+  "(0, 0, 2)": "John McCain",
+  "(1, 0, 2)": "In office",
+  "(1, 1, 1)": "January 3, 2005 – January 3, 2007",
+  "(2, 0, 1)": "Preceded by",
+  "(2, 1, 1)": "Ben Nighthorse Campbell",
+  "(3, 0, 1)": "Succeeded by",
+  "(3, 1, 1)": "Byron Dorgan",
+  "(4, 0, 2)": "In office",
+  "(4, 1, 1)": "January 3, 1995 – January 3, 1997",
+  "(5, 0, 1)": "Preceded by",
+  "(5, 1, 1)": "Daniel Inouye",
+  "(6, 0, 1)": "Succeeded by",
+  "(6, 1, 1)": "Ben Nighthorse Campbell"
+}

@@ -1,0 +1,22 @@
+{
+  "(0, 0, 1)": "Species",
+  "(0, 1, 1)": "Dog",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Wire Fox Terrier",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Male",
+  "(3, 0, 1)": "Born",
+  "(3, 1, 1)": "Caesar of Notts",
+  "(3, 2, 1)": "1898",
+  "(4, 0, 1)": "Died",
+  "(4, 1, 1)": "April 1914",
+  "(5, 0, 1)": "Resting place",
+  "(5, 1, 1)": "Marlborough House, London",
+  "(5, 2, 1)": "51°30′18″N 0°8′9″W﻿ / ﻿51.50500°N 0.13583°W﻿ / 51.50500; -0.13583",
+  "(6, 0, 1)": "Nation from",
+  "(6, 1, 1)": "Irish",
+  "(7, 0, 1)": "Owner",
+  "(7, 1, 1)": "King Edward VII",
+  "(8, 0, 1)": "Parent(s)",
+  "(8, 1, 1)": "Cackler of Notts (sire)"
+}

@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Bourbon Liqueur",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Heublein",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Stamford, Connecticut, United States",
+  "(3, 0, 1)": "Alcohol by volume",
+  "(3, 1, 1)": "45.0% and 50.0%",
+  "(4, 0, 1)": "Proof (US)",
+  "(4, 1, 1)": "90 and 100",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Seagram and Diageo"
+}

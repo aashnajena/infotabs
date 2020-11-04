@@ -1,0 +1,19 @@
+{
+  "(0, 0, 2)": "Jaundice",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "Icterus",
+  "(2, 0, 1)": "Pronunciation",
+  "(2, 1, 1)": "/ˈdʒɔːndɪs/ ",
+  "(3, 0, 1)": "Specialty",
+  "(3, 1, 1)": "Gastroenterology, hepatology, general surgery",
+  "(4, 0, 1)": "Symptoms",
+  "(4, 1, 1)": "Yellowish coloration of skin and whites of the eyes, itchiness",
+  "(5, 0, 1)": "Causes",
+  "(5, 1, 1)": "High bilirubin levels",
+  "(6, 0, 1)": "Diagnostic method",
+  "(6, 1, 1)": "Blood bilirubin, liver panel",
+  "(7, 0, 1)": "Differential diagnosis",
+  "(7, 1, 1)": "Carotenemia, taking rifampin",
+  "(8, 0, 1)": "Treatment",
+  "(8, 1, 1)": "Based on the underlying cause"
+}

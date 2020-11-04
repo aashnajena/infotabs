@@ -1,0 +1,13 @@
+{
+  "(0, 0, 2)": "Columbus, Georgia",
+  "(1, 0, 1)": "Country",
+  "(1, 1, 1)": "United States",
+  "(2, 0, 1)": "State",
+  "(2, 1, 1)": "Georgia",
+  "(3, 0, 1)": "County",
+  "(3, 1, 1)": "Muscogee",
+  "(4, 0, 1)": "Founded",
+  "(4, 1, 1)": "1828",
+  "(5, 0, 1)": "Named for",
+  "(5, 1, 1)": "Christopher Columbus"
+}

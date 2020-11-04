@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Brandy",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Various",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "France",
+  "(3, 0, 1)": "Alcohol by volume",
+  "(3, 1, 1)": "40%",
+  "(4, 0, 1)": "Flavour",
+  "(4, 1, 1)": "Varies, though typically with characteristics combining nuts, fruit, caramel, honey, vanilla or other spices",
+  "(5, 0, 1)": "Variants",
+  "(5, 1, 1)": "VS, VSOP, XO",
+  "(6, 0, 1)": "Related products",
+  "(6, 1, 1)": "Armagnac, Vinjak",
+  "(7, 0, 1)": "Website",
+  "(7, 1, 1)": "www.cognac.fr/cognac/_en/intro.aspx"
+}

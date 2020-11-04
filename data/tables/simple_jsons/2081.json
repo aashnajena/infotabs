@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Cataract",
+  "(1, 0, 1)": "Specialty",
+  "(1, 1, 1)": "Ophthalmology",
+  "(2, 0, 1)": "Symptoms",
+  "(2, 1, 1)": "Faded colors, blurry vision, halos around light, trouble with bright lights, trouble seeing at night",
+  "(3, 0, 1)": "Complications",
+  "(3, 1, 1)": "Falling, depression, blindness",
+  "(4, 0, 1)": "Usual onset",
+  "(4, 1, 1)": "Gradual",
+  "(5, 0, 1)": "Causes",
+  "(5, 1, 1)": "Aging, trauma, radiation exposure, following eye surgery",
+  "(6, 0, 1)": "Risk factors",
+  "(6, 1, 1)": "Diabetes, smoking tobacco, prolonged exposure to sunlight, alcohol",
+  "(7, 0, 1)": "Diagnostic method",
+  "(7, 1, 1)": "Eye examination",
+  "(8, 0, 1)": "Prevention",
+  "(8, 1, 1)": "Sunglasses, not smoking",
+  "(9, 0, 1)": "Treatment",
+  "(9, 1, 1)": "Glasses, cataract surgery",
+  "(10, 0, 1)": "Frequency",
+  "(10, 1, 1)": "60 million (2015)"
+}

@@ -1,0 +1,11 @@
+{
+  "(0, 0, 2)": "Nash equilibrium",
+  "(1, 0, 1)": "Subset of",
+  "(1, 1, 1)": "Rationalizability, Epsilon-equilibrium, Correlated equilibrium",
+  "(2, 0, 1)": "Superset of",
+  "(2, 1, 1)": "Evolutionarily stable strategy, Subgame perfect equilibrium, Perfect Bayesian equilibrium, Trembling hand perfect equilibrium, Stable Nash equilibrium, Strong Nash equilibrium, Cournot equilibrium",
+  "(3, 0, 1)": "Proposed by",
+  "(3, 1, 1)": "John Forbes Nash Jr.",
+  "(4, 0, 1)": "Used for",
+  "(4, 1, 1)": "All non-cooperative games"
+}

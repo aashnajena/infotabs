@@ -1,0 +1,20 @@
+{
+  "(0, 0, 2)": "Ex Machina",
+  "(1, 0, 1)": "Publisher",
+  "(1, 1, 1)": "DC Comics/Wildstorm",
+  "(2, 0, 1)": "Schedule",
+  "(2, 1, 1)": "Monthly",
+  "(3, 0, 1)": "Format",
+  "(3, 1, 1)": "Ongoing series",
+  "(4, 0, 1)": "Genre",
+  "(4, 1, 1)": "Superhero, political drama",
+  "(5, 0, 1)": "Publication date",
+  "(5, 1, 1)": "August 2004 to August 2010",
+  "(6, 0, 1)": "No. of issues",
+  "(6, 1, 1)": "50 (plus 4 specials)",
+  "(7, 0, 1)": "Main character(s)",
+  "(7, 1, 1)": "Mitchell Hundred",
+  "(7, 2, 1)": "Rick Bradbury",
+  "(7, 3, 1)": "Ivan \"Kremlin\" Tereshkov",
+  "(7, 4, 1)": "Dave Wylie"
+}

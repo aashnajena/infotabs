@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Conservation status",
+  "(0, 1, 1)": "FAO (2007): not at risk",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "French: Chèvre chamoisée, German: Gämsfarbige Gebirgsziege, Italian: Camosciata delle Alpi, ",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Switzerland",
+  "(3, 0, 1)": "Distribution",
+  "(3, 1, 1)": "Switzerland, Austria, Italy, ",
+  "(4, 0, 1)": "Standard",
+  "(4, 1, 1)": "MIPAAF, ",
+  "(5, 0, 1)": "Use",
+  "(5, 1, 1)": "milk"
+}

@@ -1,0 +1,21 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Public",
+  "(1, 0, 1)": "Traded as",
+  "(1, 1, 1)": "NYSE: EPD",
+  "(2, 0, 1)": "Industry",
+  "(2, 1, 1)": "Oil and gas",
+  "(3, 0, 1)": "Founded",
+  "(3, 1, 1)": "1968",
+  "(4, 0, 1)": "Headquarters",
+  "(4, 1, 1)": "Enterprise Plaza",
+  "(4, 2, 1)": "Houston, Texas, United States",
+  "(5, 0, 1)": "Products",
+  "(5, 1, 1)": "Crude oil, refined products and certain petrochemicals.",
+  "(6, 0, 1)": "Services",
+  "(6, 1, 1)": "Oil and gas transportation",
+  "(7, 0, 1)": "Owner",
+  "(7, 1, 1)": "Duncan Family",
+  "(8, 0, 1)": "Website",
+  "(8, 1, 1)": "www.enterpriseproducts.com"
+}

@@ -1,0 +1,11 @@
+{
+  "(0, 0, 2)": "Perfect Bayesian Equilibrium",
+  "(1, 0, 1)": "Subset of",
+  "(1, 1, 1)": "Bayesian Nash equilibrium",
+  "(2, 0, 1)": "Proposed by",
+  "(2, 1, 1)": "Cho and Kreps[citation needed]",
+  "(3, 0, 1)": "Used for",
+  "(3, 1, 1)": "Dynamic Bayesian games",
+  "(4, 0, 1)": "Example",
+  "(4, 1, 1)": "signaling game"
+}

@@ -1,0 +1,22 @@
+{
+  "(0, 0, 1)": "Species",
+  "(0, 1, 1)": "Dog",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Terrier",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Male",
+  "(3, 0, 1)": "Born",
+  "(3, 1, 1)": "1941, Ikingi Maryut, Egypt",
+  "(4, 0, 1)": "Died",
+  "(4, 1, 1)": "Unknown, Corryong, Victoria",
+  "(5, 0, 1)": "Nation from",
+  "(5, 1, 1)": "Egypt",
+  "(6, 0, 1)": "Occupation",
+  "(6, 1, 1)": "Unofficial mascot of the 2/1st Machine Gun Battalion.",
+  "(7, 0, 1)": "Employer",
+  "(7, 1, 1)": "Australian Army",
+  "(8, 0, 1)": "Years active",
+  "(8, 1, 1)": "1941–42",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Jim Moody"
+}

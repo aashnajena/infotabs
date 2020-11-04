@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Species",
+  "(0, 1, 1)": "Dog",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Dachshund",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Female",
+  "(3, 0, 1)": "Born",
+  "(3, 1, 1)": "(1988-05-06)May 6, 1988, Newport News, Virginia",
+  "(4, 0, 1)": "Died",
+  "(4, 1, 1)": "August 28, 2009(2009-08-28) (aged 21), Port Jefferson Station, New York",
+  "(5, 0, 1)": "Known for",
+  "(5, 1, 1)": "once thought to be world's oldest dog"
+}

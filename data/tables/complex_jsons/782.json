@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Cola",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Ülker",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Turkey",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "25 June 2003",
+  "(4, 0, 1)": "Color",
+  "(4, 1, 1)": "Red and white",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Coca-Cola Pepsi"
+}

@@ -1,0 +1,17 @@
+{
+  "(0, 0, 2)": "Cincinnati, Ohio",
+  "(1, 0, 1)": "Country",
+  "(1, 1, 1)": "United States",
+  "(2, 0, 1)": "State",
+  "(2, 1, 1)": "Ohio",
+  "(3, 0, 1)": "County",
+  "(3, 1, 1)": "Hamilton",
+  "(4, 0, 1)": "Settled",
+  "(4, 1, 1)": "1788",
+  "(5, 0, 1)": "Incorporated (town)",
+  "(5, 1, 1)": "January 1, 1802",
+  "(6, 0, 1)": "Incorporated (city)",
+  "(6, 1, 1)": "March 1, 1819",
+  "(7, 0, 1)": "Named for",
+  "(7, 1, 1)": "Society of the Cincinnati"
+}

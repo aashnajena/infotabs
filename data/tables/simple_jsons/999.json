@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Bitters",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Campari Group",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Italy",
+  "(3, 0, 1)": "Alcohol by volume",
+  "(3, 1, 1)": "20.5–28%",
+  "(4, 0, 1)": "Proof (US)",
+  "(4, 1, 1)": "56",
+  "(5, 0, 1)": "Colour",
+  "(5, 1, 1)": "Carmine",
+  "(6, 0, 1)": "Flavour",
+  "(6, 1, 1)": "Bitter, spicy and sweet",
+  "(7, 0, 1)": "Website",
+  "(7, 1, 1)": "campari.com"
+}

@@ -1,0 +1,15 @@
+{
+  "(0, 0, 2)": "Rabies",
+  "(1, 0, 1)": "Specialty",
+  "(1, 1, 1)": "Infectious disease",
+  "(2, 0, 1)": "Symptoms",
+  "(2, 1, 1)": "Fever, fear of water, confusion, excessive salivation, hallucinations, trouble sleeping, paralysis, coma",
+  "(3, 0, 1)": "Causes",
+  "(3, 1, 1)": "Rabies virus and Australian bat lyssavirus",
+  "(4, 0, 1)": "Prevention",
+  "(4, 1, 1)": "Rabies vaccine, animal control, rabies immunoglobulin",
+  "(5, 0, 1)": "Prognosis",
+  "(5, 1, 1)": "Nearly always death",
+  "(6, 0, 1)": "Deaths",
+  "(6, 1, 1)": "17,400 (2015)"
+}

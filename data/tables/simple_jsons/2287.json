@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Gin",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Irish Distillers",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Ireland",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "Circa. 1793",
+  "(4, 0, 1)": "Alcohol by volume",
+  "(4, 1, 1)": "37.5%",
+  "(5, 0, 1)": "Colour",
+  "(5, 1, 1)": "Clear"
+}

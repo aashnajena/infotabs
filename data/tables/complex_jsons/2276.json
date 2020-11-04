@@ -1,0 +1,18 @@
+{
+  "(0, 0, 2)": "Cardiff",
+  "(0, 1, 1)": "Caerdydd",
+  "(1, 0, 1)": "Sovereign state",
+  "(1, 1, 1)": "United Kingdom",
+  "(2, 0, 1)": "Country",
+  "(2, 1, 1)": "Wales",
+  "(3, 0, 1)": "Region",
+  "(3, 1, 1)": "South Wales",
+  "(4, 0, 1)": "Ceremonial county",
+  "(4, 1, 1)": "South Glamorgan",
+  "(5, 0, 1)": "Historic County",
+  "(5, 1, 1)": "Glamorgan",
+  "(6, 0, 1)": "Local government",
+  "(6, 1, 1)": "Cardiff Council",
+  "(7, 0, 1)": "City status",
+  "(7, 1, 1)": "1905"
+}

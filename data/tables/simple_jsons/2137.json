@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Interborough Rapid Transit Company",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Underground and above-ground metro",
+  "(2, 0, 1)": "Status",
+  "(2, 1, 1)": "Incorporated into the New York City Subway",
+  "(3, 0, 1)": "Opened",
+  "(3, 1, 1)": "1903; 116 years ago (1903), (acquisition of the Manhattan Railway Company)",
+  "(4, 0, 1)": "Closed",
+  "(4, 1, 1)": "1940; 79 years ago (1940), (acquisition by the NYC Board of Transportation)",
+  "(5, 0, 1)": "Owner",
+  "(5, 1, 1)": "City of New York",
+  "(6, 0, 1)": "Operator(s)",
+  "(6, 1, 1)": "New York City Transit Authority",
+  "(7, 0, 1)": "Depot(s)",
+  "(7, 1, 1)": "239th Street Yard, 240th Street Yard,, Corona Yard, East 180th Street Yard,, Jerome Yard, Livonia Yard, Westchester Yard",
+  "(8, 0, 1)": "Rolling stock",
+  "(8, 1, 1)": "R62, R62A, R142, R142A, R188",
+  "(9, 0, 1)": "Track gauge",
+  "(9, 1, 1)": "4 ft 8 1⁄2 in (1,435 mm) standard gauge",
+  "(10, 0, 1)": "Minimum radius",
+  "(10, 1, 1)": "147.25 ft (44.88 m)"
+}

@@ -1,0 +1,19 @@
+{
+  "(0, 0, 2)": "Sleep paralysis",
+  "(1, 0, 1)": "Specialty",
+  "(1, 1, 1)": "Sleep medicine",
+  "(2, 0, 1)": "Symptoms",
+  "(2, 1, 1)": "Awareness but inability to move during waking or falling asleep",
+  "(3, 0, 1)": "Duration",
+  "(3, 1, 1)": "Less than a couple of minutes",
+  "(4, 0, 1)": "Risk factors",
+  "(4, 1, 1)": "Narcolepsy, obstructive sleep apnea, alcohol use, sleep deprivation",
+  "(5, 0, 1)": "Diagnostic method",
+  "(5, 1, 1)": "Based on description",
+  "(6, 0, 1)": "Differential diagnosis",
+  "(6, 1, 1)": "Narcolepsy, atonic seizure, hypokalemic periodic paralysis, night terrors",
+  "(7, 0, 1)": "Treatment",
+  "(7, 1, 1)": "Reassurance, sleep hygiene, cognitive behavioral therapy, antidepressants",
+  "(8, 0, 1)": "Frequency",
+  "(8, 1, 1)": "8–50%"
+}

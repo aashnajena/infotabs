@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Down syndrome",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "Down's syndrome, Down's, trisomy 21",
+  "(2, 0, 1)": "Specialty",
+  "(2, 1, 1)": "Medical genetics, pediatrics",
+  "(3, 0, 1)": "Symptoms",
+  "(3, 1, 1)": "Delayed physical growth, characteristic facial features, mild to moderate intellectual disability",
+  "(4, 0, 1)": "Causes",
+  "(4, 1, 1)": "Third copy of chromosome 21",
+  "(5, 0, 1)": "Risk factors",
+  "(5, 1, 1)": "Older mother, prior affected child",
+  "(6, 0, 1)": "Diagnostic method",
+  "(6, 1, 1)": "Prenatal screening, genetic testing",
+  "(7, 0, 1)": "Treatment",
+  "(7, 1, 1)": "Educational support, sheltered work environment",
+  "(8, 0, 1)": "Prognosis",
+  "(8, 1, 1)": "Life expectancy 50 to 60 (developed world)",
+  "(9, 0, 1)": "Frequency",
+  "(9, 1, 1)": "5.4 million (0.1%)",
+  "(10, 0, 1)": "Deaths",
+  "(10, 1, 1)": "26,500 (2015)"
+}

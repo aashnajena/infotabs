@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Designer(s)",
+  "(0, 1, 1)": "Leslie Scott",
+  "(1, 0, 1)": "Players",
+  "(1, 1, 1)": "1 or more",
+  "(2, 0, 1)": "Setup time",
+  "(2, 1, 1)": "< 2 minutes",
+  "(3, 0, 1)": "Playing time",
+  "(3, 1, 1)": "Usually 5–15 minutes",
+  "(4, 0, 1)": "Random chance",
+  "(4, 1, 1)": "None",
+  "(5, 0, 1)": "Skill(s) required",
+  "(5, 1, 1)": "Manual dexterity, eye–hand coordination, precision, strategy"
+}

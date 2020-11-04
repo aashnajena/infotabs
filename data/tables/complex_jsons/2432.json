@@ -1,0 +1,20 @@
+{
+  "(0, 0, 2)": "Don",
+  "(0, 1, 1)": "Hernán Cortés,",
+  "(0, 2, 1)": "Marquis of the Valley of Oaxaca",
+  "(1, 0, 2)": "In office",
+  "(1, 1, 1)": "13 August 1521 – 24 December 1521",
+  "(2, 0, 1)": "Preceded by",
+  "(2, 1, 1)": "Office established",
+  "(3, 0, 1)": "Succeeded by",
+  "(3, 1, 1)": "Cristóbal de Tapia",
+  "(4, 0, 2)": "In office",
+  "(4, 1, 1)": "30 December 1521 – 12 October 1524",
+  "(5, 0, 1)": "Preceded by",
+  "(5, 1, 1)": "Cristóbal de Tapia",
+  "(6, 0, 1)": "Succeeded by",
+  "(6, 1, 1)": "Triumvirate:",
+  "(6, 2, 1)": "Alonso de Estrada",
+  "(6, 3, 1)": " Rodrigo de Albornoz",
+  "(6, 4, 1)": " Alonso de Zuazo"
+}

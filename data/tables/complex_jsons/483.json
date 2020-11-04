@@ -1,0 +1,16 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Vodka",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Polmos Łańcut",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Łańcut, Poland",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "Inspired by a type of Polish vodka from 1886",
+  "(4, 0, 1)": "Alcohol by volume",
+  "(4, 1, 1)": "40%",
+  "(5, 0, 1)": "Proof (US)",
+  "(5, 1, 1)": "80",
+  "(6, 0, 1)": "Related products",
+  "(6, 1, 1)": "List of vodkas"
+}

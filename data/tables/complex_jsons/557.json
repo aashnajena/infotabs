@@ -1,0 +1,20 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Carbonated soft drink",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Britvic Ireland",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Ireland",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1940",
+  "(4, 0, 1)": "Colour",
+  "(4, 1, 1)": "Orange",
+  "(5, 0, 1)": "Variants",
+  "(5, 1, 1)": "Club diet",
+  "(5, 2, 1)": "Club Zero",
+  "(6, 0, 1)": "Related products",
+  "(6, 1, 1)": "Club Lemon",
+  "(6, 2, 1)": "Club RockShandy",
+  "(6, 3, 1)": "Club Apple",
+  "(6, 4, 1)": "Club Energise"
+}

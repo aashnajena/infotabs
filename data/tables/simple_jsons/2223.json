@@ -1,0 +1,16 @@
+{
+  "(0, 0, 1)": "Names",
+  "(0, 1, 1)": "Teacher, schoolteacher",
+  "(1, 0, 1)": "Occupation type",
+  "(1, 1, 1)": "Profession",
+  "(2, 0, 1)": "Activity sectors",
+  "(2, 1, 1)": "Education",
+  "(3, 0, 1)": "Competencies",
+  "(3, 1, 1)": "Pedagogy, subject knowledge; competence in teaching the subject, in curriculum, in learner assessment; psychology; planning; leadership.",
+  "(4, 0, 1)": "Education required",
+  "(4, 1, 1)": "(varies by country) Teaching certification",
+  "(5, 0, 1)": "Fields of, employment",
+  "(5, 1, 1)": "Schools",
+  "(6, 0, 1)": "Related jobs",
+  "(6, 1, 1)": "Professor, academic, lecturer, tutor"
+}

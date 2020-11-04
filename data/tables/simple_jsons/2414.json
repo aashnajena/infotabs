@@ -1,0 +1,17 @@
+{
+  "(0, 0, 2)": "Hardrock Hundred Mile Endurance Run",
+  "(1, 0, 1)": "Date",
+  "(1, 1, 1)": "July",
+  "(2, 0, 1)": "Location",
+  "(2, 1, 1)": "Silverton, Colorado",
+  "(3, 0, 1)": "Event type",
+  "(3, 1, 1)": "Ultramarathon trail run",
+  "(4, 0, 1)": "Distance",
+  "(4, 1, 1)": "100.5-mile (161.7 km)",
+  "(5, 0, 1)": "Established",
+  "(5, 1, 1)": "1992",
+  "(6, 0, 1)": "Course records",
+  "(6, 1, 1)": "Kilian Jornet 23:28:10 (2015, counter-clockwise), Kilian Jornet 22:41:33 (2014, clockwise)",
+  "(7, 0, 1)": "Official site",
+  "(7, 1, 1)": "http://www.hardrock100.com/"
+}

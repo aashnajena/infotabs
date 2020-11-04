@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Tomato juice/clam broth hybrid",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Mott's (Keurig Dr Pepper)",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "United States",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1966",
+  "(4, 0, 1)": "Variants",
+  "(4, 1, 1)": "Beefamato, Nutrimato, X-tra Spicy, The Works",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Kraut juice, Caesar"
+}

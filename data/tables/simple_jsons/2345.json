@@ -1,0 +1,14 @@
+{
+  "(0, 0, 1)": "Course",
+  "(0, 1, 1)": "Staple dish",
+  "(1, 0, 1)": "Place of origin",
+  "(1, 1, 1)": "Spain",
+  "(2, 0, 1)": "Region or state",
+  "(2, 1, 1)": "Andalusia, Castile-La Mancha, Region of Murcia, parts of Extremadura and Valencia",
+  "(3, 0, 1)": "Serving temperature",
+  "(3, 1, 1)": "Warm",
+  "(4, 0, 1)": "Main ingredients",
+  "(4, 1, 1)": "Wheat flour, grass pea flour or corn flour",
+  "(5, 0, 1)": "Variations",
+  "(5, 1, 1)": "Sweet gachas (gachas dulces)"
+}

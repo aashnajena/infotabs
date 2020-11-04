@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Obsessive–compulsive disorder",
+  "(1, 0, 1)": "Specialty",
+  "(1, 1, 1)": "Psychiatry",
+  "(2, 0, 1)": "Symptoms",
+  "(2, 1, 1)": "Feel the need to check things repeatedly, perform certain routines repeatedly, have certain thoughts repeatedly",
+  "(3, 0, 1)": "Complications",
+  "(3, 1, 1)": "Tics, anxiety disorder, suicide",
+  "(4, 0, 1)": "Usual onset",
+  "(4, 1, 1)": "Before 35 years",
+  "(5, 0, 1)": "Causes",
+  "(5, 1, 1)": "Unknown",
+  "(6, 0, 1)": "Risk factors",
+  "(6, 1, 1)": "Child abuse, stress",
+  "(7, 0, 1)": "Diagnostic method",
+  "(7, 1, 1)": "Based on the symptoms",
+  "(8, 0, 1)": "Differential diagnosis",
+  "(8, 1, 1)": "Anxiety disorder, major depressive disorder, eating disorders, obsessive–compulsive personality disorder",
+  "(9, 0, 1)": "Treatment",
+  "(9, 1, 1)": "Counseling, selective serotonin reuptake inhibitors, tricyclic antidepressants",
+  "(10, 0, 1)": "Frequency",
+  "(10, 1, 1)": "2.3%"
+}

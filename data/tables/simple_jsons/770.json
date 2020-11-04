@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Triple sec liqueur",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Rémy Cointreau",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Angers, France",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1875",
+  "(4, 0, 1)": "Alcohol by volume",
+  "(4, 1, 1)": "40%",
+  "(5, 0, 1)": "Proof (US)",
+  "(5, 1, 1)": "80",
+  "(6, 0, 1)": "Colour",
+  "(6, 1, 1)": "Colourless",
+  "(7, 0, 1)": "Flavour",
+  "(7, 1, 1)": "Orange"
+}

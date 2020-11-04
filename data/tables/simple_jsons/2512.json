@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Industry",
+  "(0, 1, 1)": "Freight Transportation, Passenger/Car Transportation",
+  "(1, 0, 1)": "Genre",
+  "(1, 1, 1)": "Ferry Company",
+  "(2, 0, 1)": "Predecessor",
+  "(2, 1, 1)": "DFDS Tor Line, DFDS Lisco, Scandinavian Seaways, Norfolkline",
+  "(3, 0, 1)": "Headquarters",
+  "(3, 1, 1)": "Copenhagen, Denmark",
+  "(4, 0, 1)": "Area served",
+  "(4, 1, 1)": "Baltic Sea, English Channel, North Sea",
+  "(5, 0, 1)": "Parent",
+  "(5, 1, 1)": "DFDS",
+  "(6, 0, 1)": "Divisions",
+  "(6, 1, 1)": "DFDS Seaways France",
+  "(7, 0, 1)": "Website",
+  "(7, 1, 1)": "www.dfdsseaways.com"
+}

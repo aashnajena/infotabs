@@ -1,0 +1,21 @@
+{
+  "(0, 0, 2)": "Jerusalem",
+  "(0, 1, 1)": "ירושלים (Hebrew)",
+  "(0, 2, 1)": "القُدس (Arabic)",
+  "(1, 0, 1)": "Claimed by",
+  "(1, 1, 1)": "Israel and Palestine",
+  "(2, 0, 1)": "Palestinian governorate",
+  "(2, 1, 1)": "Jerusalem",
+  "(3, 0, 1)": "Gihon Spring settlement",
+  "(3, 1, 1)": "3000-2800 BCE",
+  "(4, 0, 1)": "City of David",
+  "(4, 1, 1)": "c. 1000 BCE",
+  "(5, 0, 1)": "Present Old City walls built",
+  "(5, 1, 1)": "1541",
+  "(6, 0, 1)": "East-West Jerusalem division",
+  "(6, 1, 1)": "1948",
+  "(7, 0, 1)": "Reunification",
+  "(7, 1, 1)": "1967",
+  "(8, 0, 1)": "Jerusalem Law",
+  "(8, 1, 1)": "1980"
+}

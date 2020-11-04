@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Dyslexia",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "Reading disorder, alexia",
+  "(2, 0, 1)": "Specialty",
+  "(2, 1, 1)": "Neurology, pediatrics",
+  "(3, 0, 1)": "Symptoms",
+  "(3, 1, 1)": "Trouble reading",
+  "(4, 0, 1)": "Usual onset",
+  "(4, 1, 1)": "School age",
+  "(5, 0, 1)": "Causes",
+  "(5, 1, 1)": "Genetic and environmental factors",
+  "(6, 0, 1)": "Risk factors",
+  "(6, 1, 1)": "Family history, attention deficit hyperactivity disorder",
+  "(7, 0, 1)": "Diagnostic method",
+  "(7, 1, 1)": "Series memory, spelling, vision, and reading test",
+  "(8, 0, 1)": "Differential diagnosis",
+  "(8, 1, 1)": "Hearing or vision problems, insufficient teaching",
+  "(9, 0, 1)": "Treatment",
+  "(9, 1, 1)": "Adjusting teaching methods",
+  "(10, 0, 1)": "Frequency",
+  "(10, 1, 1)": "3–7%"
+}

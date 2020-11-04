@@ -1,0 +1,17 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Energy soft drink",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "PepsiCo",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "United States",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1995",
+  "(4, 0, 1)": "Discontinued",
+  "(4, 1, 1)": "1999",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Vault",
+  "(5, 2, 1)": "Bawls",
+  "(5, 3, 1)": "Surge",
+  "(5, 4, 1)": "Jolt"
+}

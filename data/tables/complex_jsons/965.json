@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Boston",
+  "(1, 0, 1)": "Released",
+  "(1, 1, 1)": "August 25, 1976",
+  "(2, 0, 1)": "Recorded",
+  "(2, 1, 1)": "October 1975 – April 1976",
+  "(3, 0, 1)": "Studio",
+  "(3, 1, 1)": "Foxglove Studios",
+  "(3, 2, 1)": "Foxglove Studios",
+  "(3, 3, 1)": "Capitol Studios",
+  "(3, 4, 1)": "The Record Plant",
+  "(3, 5, 1)": "(Los Angeles, California)",
+  "(4, 0, 1)": "Genre",
+  "(4, 1, 1)": "Hard rock",
+  "(4, 2, 1)": "arena rock",
+  "(5, 0, 1)": "Length",
+  "(5, 1, 1)": "37:41",
+  "(6, 0, 1)": "Label",
+  "(6, 1, 1)": "Epic",
+  "(7, 0, 1)": "Producer",
+  "(7, 1, 1)": "John Boylan",
+  "(7, 2, 1)": "Tom Scholz"
+}

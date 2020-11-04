@@ -1,0 +1,15 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Scotch whisky",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Diageo",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Scotland",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1820: Grocery store ",
+  "(3, 2, 1)": "1865: Whisky blending",
+  "(4, 0, 1)": "Related products",
+  "(4, 1, 1)": "Ballantine's, Buchanan's, Chivas Regal, Cutty Sark, Dewar's, Vat 69",
+  "(5, 0, 1)": "Website",
+  "(5, 1, 1)": "johnniewalker.com"
+}

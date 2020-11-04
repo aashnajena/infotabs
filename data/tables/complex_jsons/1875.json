@@ -1,0 +1,22 @@
+{
+  "(0, 0, 2)": "Identity Crisis",
+  "(1, 0, 1)": "Publisher",
+  "(1, 1, 1)": "DC Comics",
+  "(2, 0, 1)": "Schedule",
+  "(2, 1, 1)": "Monthly",
+  "(3, 0, 1)": "Format",
+  "(3, 1, 1)": "Limited series",
+  "(4, 0, 1)": "Genre",
+  "(4, 1, 1)": "Superhero",
+  "(5, 0, 1)": "Publication date",
+  "(5, 1, 1)": "June – December 2004",
+  "(6, 0, 1)": "No. of issues",
+  "(6, 1, 1)": "7",
+  "(7, 0, 1)": "Main character(s)",
+  "(7, 1, 1)": "Justice League",
+  "(7, 2, 1)": "Green Arrow",
+  "(7, 3, 1)": "Batman",
+  "(7, 4, 1)": "Elongated Man",
+  "(7, 5, 1)": "Dr. Light",
+  "(7, 6, 1)": "Jean Loring"
+}

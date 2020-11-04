@@ -1,0 +1,13 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Pastry",
+  "(1, 0, 1)": "Serving temperature",
+  "(1, 1, 1)": "Dry and cold",
+  "(2, 0, 1)": "Main ingredients",
+  "(2, 1, 1)": "Flour, sugar",
+  "(3, 0, 1)": "Variations",
+  "(3, 1, 1)": "waffle cone, cake or wafer cone, pretzel cone, sugar cone, chocolate-coated cone, double cone, vanilla cone",
+  "(4, 0, 1)": "Food energy",
+  "(4, 1, 1)": "(per serving)",
+  "(4, 2, 1)": "23 kcal (96 kJ)"
+}

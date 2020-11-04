@@ -1,0 +1,10 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Energy Drink",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Monster Beverage",
+  "(2, 0, 1)": "Introduced",
+  "(2, 1, 1)": "2001",
+  "(3, 0, 1)": "Variants",
+  "(3, 1, 1)": "Burn Original, Burn Tropical, Burn Berry, Burn Blue, Burn Mocha Energy (Coffee-flavored and non-carbonated), Burn Sugarfree, Burn Lemon Ice"
+}

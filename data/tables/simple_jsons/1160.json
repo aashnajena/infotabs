@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Product type",
+  "(0, 1, 1)": "Disinfectant, all-purpose cleaners",
+  "(1, 0, 1)": "Owner",
+  "(1, 1, 1)": "Reckitt Benckiser",
+  "(2, 0, 1)": "Country",
+  "(2, 1, 1)": "U.S.",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1889; 130 years ago (1889)",
+  "(4, 0, 1)": "Markets",
+  "(4, 1, 1)": "Worldwide",
+  "(5, 0, 1)": "Previous owners",
+  "(5, 1, 1)": "Lehn & Fink (later subsidiary of Sterling Drug)",
+  "(6, 0, 1)": "Tagline",
+  "(6, 1, 1)": "\"Healthing\"",
+  "(7, 0, 1)": "Website",
+  "(7, 1, 1)": "www.lysol.com"
+}

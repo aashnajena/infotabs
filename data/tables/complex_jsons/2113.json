@@ -1,0 +1,21 @@
+{
+  "(0, 0, 2)": "Exploding head syndrome",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "Episodic cranial sensory shock, snapping of the brain, auditory sleep start",
+  "(2, 0, 1)": "Specialty",
+  "(2, 1, 1)": "Sleep medicine",
+  "(3, 0, 1)": "Symptoms",
+  "(3, 1, 1)": "Hearing loud noises when falling asleep or waking up",
+  "(4, 0, 1)": "Duration",
+  "(4, 1, 1)": "Short",
+  "(5, 0, 1)": "Causes",
+  "(5, 1, 1)": "Unknown",
+  "(6, 0, 1)": "Differential diagnosis",
+  "(6, 1, 1)": "Nocturnal epilepsy, hypnic headaches, nightmare disorder, PTSD",
+  "(7, 0, 1)": "Treatment",
+  "(7, 1, 1)": "Reassurance, clomipramine, calcium channel blockers",
+  "(8, 0, 1)": "Prognosis",
+  "(8, 1, 1)": "Good",
+  "(9, 0, 1)": "Frequency",
+  "(9, 1, 1)": "~10% of people"
+}

@@ -1,0 +1,20 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Wholly owned subsidiary",
+  "(1, 0, 1)": "Industry",
+  "(1, 1, 1)": "Luxury Watches",
+  "(2, 0, 1)": "Founded",
+  "(2, 1, 1)": "Le Locle, Neuchâtel, Switzerland, 1865",
+  "(3, 0, 1)": "Founder",
+  "(3, 1, 1)": "Georges Favre-Jacot",
+  "(4, 0, 1)": "Headquarters",
+  "(4, 1, 1)": "Le Locle, Switzerland",
+  "(5, 0, 1)": "Area served",
+  "(5, 1, 1)": "Worldwide",
+  "(6, 0, 1)": "Key people",
+  "(6, 1, 1)": "Julien Tornare (current CEO)",
+  "(7, 0, 1)": "Parent",
+  "(7, 1, 1)": "LVMH",
+  "(8, 0, 1)": "Website",
+  "(8, 1, 1)": "zenith-watches.com"
+}

@@ -1,0 +1,22 @@
+{
+  "(0, 0, 2)": "Ivar Jacobson",
+  "(1, 0, 1)": "Born",
+  "(1, 1, 1)": " (1939-09-02) September 2, 1939 (age 79), Ystad, Sweden",
+  "(2, 0, 1)": "Residence",
+  "(2, 1, 1)": "Switzerland",
+  "(3, 0, 1)": "Nationality",
+  "(3, 1, 1)": "Swedish",
+  "(4, 0, 1)": "Alma mater",
+  "(4, 1, 1)": "Chalmers Institute of Technology in Gothenburg, Royal Institute of Technology in Stockholm",
+  "(5, 0, 1)": "Known for",
+  "(5, 1, 1)": "components and component architecture, use-cases and use-case driven development, SDL, a major contributor to UML, Objectory, RUP, aspect-oriented software development, SEMAT, Essence",
+  "(6, 0, 2)": "Scientific career",
+  "(7, 0, 1)": "Fields",
+  "(7, 1, 1)": "Electrical Engineering, Computer Science, Software Engineering",
+  "(8, 0, 1)": "Institutions",
+  "(8, 1, 1)": "Ericsson, Objective Systems, Rational Software, IBM, Ivar Jacobson International",
+  "(9, 0, 1)": "Influences",
+  "(9, 1, 1)": "Göran Hemdahl, Dines Bjørner, Grady Booch, James Rumbaugh",
+  "(10, 0, 1)": "Influenced",
+  "(10, 1, 1)": "Grady Booch, James Rumbaugh"
+}

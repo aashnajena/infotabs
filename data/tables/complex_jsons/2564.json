@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Subsidiary",
+  "(1, 0, 1)": "Founded",
+  "(1, 1, 1)": "1970",
+  "(2, 0, 1)": "Founder",
+  "(2, 1, 1)": "Hindustan Thompson Associates",
+  "(3, 0, 1)": "Headquarters",
+  "(3, 1, 1)": "Mumbai, Maharashtra, India",
+  "(4, 0, 1)": "Services",
+  "(4, 1, 1)": "Research, business consulting and survey",
+  "(5, 0, 1)": "Number of employees",
+  "(5, 1, 1)": "1200",
+  "(6, 0, 1)": "Parent",
+  "(6, 1, 1)": "Kantar Group",
+  "(7, 0, 1)": "Website",
+  "(7, 1, 1)": "Official website"
+}

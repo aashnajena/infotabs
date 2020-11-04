@@ -1,0 +1,13 @@
+{
+  "(0, 0, 2)": "Quadriplegia",
+  "(1, 0, 1)": "Other names",
+  "(1, 1, 1)": "Tetraplegia",
+  "(2, 0, 1)": "Specialty",
+  "(2, 1, 1)": "Neurosurgery",
+  "(3, 0, 1)": "Types",
+  "(3, 1, 1)": "Complete, incomplete",
+  "(4, 0, 1)": "Causes",
+  "(4, 1, 1)": "Damage to spinal cord or brain by illness or injury; Guillain-Barre Syndrome",
+  "(5, 0, 1)": "Diagnostic method",
+  "(5, 1, 1)": "Based on symptoms, medical imaging"
+}

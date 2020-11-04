@@ -1,0 +1,13 @@
+{
+  "(0, 0, 2)": "Subgame Perfect Equilibrium",
+  "(1, 0, 1)": "Subset of",
+  "(1, 1, 1)": "Nash equilibrium",
+  "(2, 0, 1)": "Intersects with",
+  "(2, 1, 1)": "Evolutionarily stable strategy",
+  "(3, 0, 1)": "Proposed by",
+  "(3, 1, 1)": "Reinhard Selten",
+  "(4, 0, 1)": "Used for",
+  "(4, 1, 1)": "Extensive form games",
+  "(5, 0, 1)": "Example",
+  "(5, 1, 1)": "Ultimatum game"
+}

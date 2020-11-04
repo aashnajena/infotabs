@@ -1,0 +1,15 @@
+{
+  "(0, 0, 2)": "Casín cheese",
+  "(1, 0, 1)": "Country of origin",
+  "(1, 1, 1)": "Spain",
+  "(2, 0, 1)": "Region",
+  "(2, 1, 1)": "Asturias",
+  "(3, 0, 1)": "Source of milk",
+  "(3, 1, 1)": "Cows",
+  "(4, 0, 1)": "Texture",
+  "(4, 1, 1)": "Semi-hard",
+  "(5, 0, 1)": "Dimensions",
+  "(5, 1, 1)": "10-20 cm   4-7 cm",
+  "(6, 0, 1)": "Weight",
+  "(6, 1, 1)": "250-1000 g."
+}

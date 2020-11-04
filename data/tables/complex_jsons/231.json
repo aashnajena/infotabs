@@ -1,0 +1,16 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Bourbon whiskey",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Diageo",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "United States",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1999",
+  "(4, 0, 1)": "Alcohol by volume",
+  "(4, 1, 1)": "45%",
+  "(5, 0, 1)": "Proof (US)",
+  "(5, 1, 1)": "90",
+  "(6, 0, 1)": "Color",
+  "(6, 1, 1)": "Russet (dark brown)"
+}

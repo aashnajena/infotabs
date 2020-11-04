@@ -1,0 +1,18 @@
+{
+  "(0, 0, 2)": "Altostratus undulatus cloud",
+  "(1, 0, 1)": "Abbreviation",
+  "(1, 1, 1)": "As",
+  "(2, 0, 1)": "Genus",
+  "(2, 1, 1)": "Alto- (high), -stratus (layered)",
+  "(3, 0, 1)": "Species",
+  "(3, 1, 1)": "undulatus (waves)",
+  "(4, 0, 1)": "Altitude",
+  "(4, 1, 1)": "2400-6100 m",
+  "(4, 2, 1)": " (8,000-20,000 ft)",
+  "(5, 0, 1)": "Classification",
+  "(5, 1, 1)": "Family B (Medium-level)",
+  "(6, 0, 1)": "Appearance",
+  "(6, 1, 1)": "Wavy, like ripples in a pond",
+  "(7, 0, 1)": "Precipitation cloud?",
+  "(7, 1, 1)": "Usually no"
+}

@@ -1,0 +1,13 @@
+{
+  "(0, 0, 2)": "Columbus, Ohio",
+  "(1, 0, 1)": "Country",
+  "(1, 1, 1)": "United States",
+  "(2, 0, 1)": "State",
+  "(2, 1, 1)": "Ohio",
+  "(3, 0, 1)": "Counties",
+  "(3, 1, 1)": "Delaware, Fairfield, Franklin, Pickaway",
+  "(4, 0, 1)": "Settled",
+  "(4, 1, 1)": "February 14, 1812",
+  "(5, 0, 1)": "Named for",
+  "(5, 1, 1)": "Christopher Columbus"
+}

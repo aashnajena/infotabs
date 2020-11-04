@@ -1,0 +1,20 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Private",
+  "(1, 0, 1)": "Industry",
+  "(1, 1, 1)": "Private Equity",
+  "(2, 0, 1)": "Predecessor",
+  "(2, 1, 1)": "Granite Global Ventures",
+  "(3, 0, 1)": "Founded",
+  "(3, 1, 1)": "2000",
+  "(4, 0, 1)": "Headquarters",
+  "(4, 1, 1)": "Menlo Park, California, United States",
+  "(5, 0, 1)": "Key people",
+  "(5, 1, 1)": "Jixun Foo (Managing Partner), Hans Tung (Managing Partner), Jenny Lee (Managing Partner), Glenn Solomon (Managing Partner), Eric Xu (Managing Partner), Jeff Richards (Managing Partner), ",
+  "(6, 0, 1)": "Products",
+  "(6, 1, 1)": "Investments, Venture Capital",
+  "(7, 0, 1)": "AUM",
+  "(7, 1, 1)": "US $6.2 billion",
+  "(8, 0, 1)": "Website",
+  "(8, 1, 1)": "www.ggvc.com"
+}

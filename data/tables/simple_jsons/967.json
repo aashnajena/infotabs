@@ -1,0 +1,17 @@
+{
+  "(0, 0, 1)": "Conservation status",
+  "(0, 1, 1)": "FAO (2007): not at risk",
+  "(1, 0, 1)": "Weight",
+  "(1, 1, 1)": "Male: minimum 75 kg, Female: minimum 55 kg, ",
+  "(2, 0, 1)": "Height",
+  "(2, 1, 1)": "Male: 85 cm, Female: 75 cm, ",
+  "(3, 0, 1)": "Wool color",
+  "(3, 1, 1)": "brown with black dorsal stripe and lower limbs",
+  "(4, 0, 1)": "Face color",
+  "(4, 1, 1)": "brown with black facial stripes",
+  "(5, 0, 1)": "Horn status",
+  "(5, 1, 1)": "horned and hornless types",
+  "(6, 0, 1)": "Beard",
+  "(6, 1, 1)": "males bearded",
+  "(7, 0, 2)": "Goat, Capra aegagrus hircus, "
+}

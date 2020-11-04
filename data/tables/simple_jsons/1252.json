@@ -1,0 +1,20 @@
+{
+  "(0, 0, 2)": "Charles Francis Jenkins",
+  "(1, 0, 1)": "Born",
+  "(1, 1, 1)": "August 22, 1867, Dayton, Ohio",
+  "(2, 0, 1)": "Died",
+  "(2, 1, 1)": "June 6, 1934 (age 66), Washington, D.C.",
+  "(3, 0, 1)": "Nationality",
+  "(3, 1, 1)": "American",
+  "(4, 0, 1)": "Education",
+  "(4, 1, 1)": "Bliss Electrical School",
+  "(5, 0, 1)": "Occupation",
+  "(5, 1, 1)": "Engineer",
+  "(6, 0, 2)": "Engineering career",
+  "(7, 0, 1)": "Projects",
+  "(7, 1, 1)": "Over 400 patents related to a variety of inventions",
+  "(8, 0, 1)": "Significant advance",
+  "(8, 1, 1)": "Motion picture projector and television",
+  "(9, 0, 1)": "Awards",
+  "(9, 1, 1)": "Elliott Cresson Medal (1897), John Scott Medal (1913)"
+}

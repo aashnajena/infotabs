@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Subsidiary",
+  "(1, 0, 1)": "Industry",
+  "(1, 1, 1)": "Human Resource.",
+  "(2, 0, 1)": "Founded",
+  "(2, 1, 1)": "1987",
+  "(3, 0, 1)": "Founder",
+  "(3, 1, 1)": "Nooruddin S. Karsan, Co-Founder, Rhea Varghese, Co-Founder, Chairman of the Board and Chief Executive Officer",
+  "(4, 0, 1)": "Headquarters",
+  "(4, 1, 1)": "Wayne, Pennsylvania, United States",
+  "(5, 0, 1)": "Products",
+  "(5, 1, 1)": "Talent Acquisition, Talent Development, CRM, Brassring, Employee Assessments, Talent Frameworks, Watson Talent, Watson Career Coach, Watson Candidate Assistance.",
+  "(6, 0, 1)": "Parent",
+  "(6, 1, 1)": "IBM",
+  "(7, 0, 1)": "Website",
+  "(7, 1, 1)": "www.ibm.com/talent-management/"
+}

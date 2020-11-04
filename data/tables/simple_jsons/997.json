@@ -1,0 +1,15 @@
+{
+  "(0, 0, 2)": "Buffalo, New York",
+  "(1, 0, 1)": "Country",
+  "(1, 1, 1)": "United States",
+  "(2, 0, 1)": "State",
+  "(2, 1, 1)": "New York",
+  "(3, 0, 1)": "County",
+  "(3, 1, 1)": "Erie",
+  "(4, 0, 1)": "First settled (village)",
+  "(4, 1, 1)": "1789",
+  "(5, 0, 1)": "Founded",
+  "(5, 1, 1)": "1801",
+  "(6, 0, 1)": "Incorporated (city)",
+  "(6, 1, 1)": "1832"
+}

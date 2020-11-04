@@ -1,0 +1,14 @@
+{
+  "(0, 0, 2)": "David and Goliath",
+  "(1, 0, 2)": "Italian: David e Golia",
+  "(2, 0, 1)": "Artist",
+  "(2, 1, 1)": "Caravaggio",
+  "(3, 0, 1)": "Year",
+  "(3, 1, 1)": "1599",
+  "(4, 0, 1)": "Medium",
+  "(4, 1, 1)": "Oil on canvas",
+  "(5, 0, 1)": "Dimensions",
+  "(5, 1, 1)": "110 cm 91 cm (43 in 36 in)",
+  "(6, 0, 1)": "Location",
+  "(6, 1, 1)": "Prado"
+}

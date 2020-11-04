@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Crisis on Infinite Earths",
+  "(1, 0, 1)": "Publisher",
+  "(1, 1, 1)": "DC Comics",
+  "(2, 0, 1)": "Schedule",
+  "(2, 1, 1)": "Monthly",
+  "(3, 0, 1)": "Format",
+  "(3, 1, 1)": "Limited series",
+  "(4, 0, 1)": "Publication date",
+  "(4, 1, 1)": "April 1985 – March 1986",
+  "(5, 0, 1)": "No. of issues",
+  "(5, 1, 1)": "12",
+  "(6, 0, 1)": "Main character(s)",
+  "(6, 1, 1)": "Monitor",
+  "(6, 2, 1)": "Harbinger",
+  "(6, 3, 1)": "Pariah",
+  "(6, 4, 1)": "Superman (Kal-El)",
+  "(6, 5, 1)": "Superboy-Prime",
+  "(6, 6, 1)": "Alexander Luthor Jr.",
+  "(6, 7, 1)": "Flash (Barry Allen)",
+  "(6, 8, 1)": "Psycho-Pirate",
+  "(6, 9, 1)": "Anti-Monitor"
+}

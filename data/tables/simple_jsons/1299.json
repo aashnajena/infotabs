@@ -1,0 +1,18 @@
+{
+  "(0, 0, 1)": "Years active",
+  "(0, 1, 1)": "at least 5,000",
+  "(1, 0, 1)": "Genre(s)",
+  "(1, 1, 1)": "Board game , Abstract strategy game , Mind sport",
+  "(2, 0, 1)": "Players",
+  "(2, 1, 1)": "2",
+  "(3, 0, 1)": "Setup time",
+  "(3, 1, 1)": "<1 minute",
+  "(4, 0, 1)": "Playing time",
+  "(4, 1, 1)": "30 minutes – 2 hours",
+  "(5, 0, 1)": "Random chance",
+  "(5, 1, 1)": "None",
+  "(6, 0, 1)": "Skill(s) required",
+  "(6, 1, 1)": "Strategy, tactics",
+  "(7, 0, 1)": "Synonym(s)",
+  "(7, 1, 1)": "Checkers , Chequers"
+}

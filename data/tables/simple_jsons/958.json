@@ -1,0 +1,17 @@
+{
+  "(0, 0, 1)": "Species",
+  "(0, 1, 1)": "Dog",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Border Collie",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Female",
+  "(3, 0, 1)": "Born",
+  "(3, 1, 1)": "Chaser, May, 2004",
+  "(4, 0, 1)": "Nation from",
+  "(4, 1, 1)": "American",
+  "(5, 0, 1)": "Title",
+  "(5, 1, 1)": "The Smartest Dog In The World",
+  "(6, 0, 1)": "Owner",
+  "(6, 1, 1)": "Dr. John W. Pilley",
+  "(7, 0, 2)": "chaserthebordercollie.com"
+}

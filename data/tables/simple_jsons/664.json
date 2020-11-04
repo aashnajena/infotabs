@@ -1,0 +1,23 @@
+{
+  "(0, 0, 2)": "Crisp",
+  "(1, 0, 1)": "Sire",
+  "(1, 1, 1)": "Rose Argent (GB)",
+  "(2, 0, 1)": "Grandsire",
+  "(2, 1, 1)": "Owen Tudor",
+  "(3, 0, 1)": "Dam",
+  "(3, 1, 1)": "Wheat Germ (GB)",
+  "(4, 0, 1)": "Damsire",
+  "(4, 1, 1)": "Trigo (IRE)",
+  "(5, 0, 1)": "Sex",
+  "(5, 1, 1)": "Gelding",
+  "(6, 0, 1)": "Foaled",
+  "(6, 1, 1)": "1963",
+  "(7, 0, 1)": "Country",
+  "(7, 1, 1)": "Australia",
+  "(8, 0, 1)": "Colour",
+  "(8, 1, 1)": "Bay",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Thomas Chester Manifold Jnr.",
+  "(10, 0, 1)": "Trainer",
+  "(10, 1, 1)": "Fred Winter"
+}

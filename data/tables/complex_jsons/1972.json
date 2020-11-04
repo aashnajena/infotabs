@@ -1,0 +1,23 @@
+{
+  "(0, 0, 1)": "Type",
+  "(0, 1, 1)": "Indian whisky",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Pernod Ricard",
+  "(2, 0, 1)": "Distributor",
+  "(2, 1, 1)": "Pernod Ricard",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "India",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "1997",
+  "(5, 0, 1)": "Alcohol by volume",
+  "(5, 1, 1)": "42.8%",
+  "(6, 0, 1)": "Ingredients",
+  "(6, 1, 1)": "Indian grain spirits, Scotch malt",
+  "(7, 0, 1)": "Related products",
+  "(7, 1, 1)": "Royal Stag",
+  "(7, 2, 1)": "Blenders Pride",
+  "(7, 3, 1)": "Chivas Regal",
+  "(7, 4, 1)": "100 Pipers",
+  "(8, 0, 1)": "Website",
+  "(8, 1, 1)": "Pernod-Ricard.com/Imperial-Blue"
+}

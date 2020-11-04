@@ -1,0 +1,19 @@
+{
+  "(0, 0, 2)": "Breast cancer",
+  "(1, 0, 1)": "Specialty",
+  "(1, 1, 1)": "Oncology",
+  "(2, 0, 1)": "Symptoms",
+  "(2, 1, 1)": "Lump in a breast, change in breast shape, dimpling of the skin, fluid coming from the nipple, a newly inverted nipple, red scaly patch of skin",
+  "(3, 0, 1)": "Risk factors",
+  "(3, 1, 1)": "Female, obesity, lack of exercise, alcohol, hormone replacement therapy during menopause, ionizing radiation, early age at first menstruation, having children late or not at all, older age, prior breast cancer, family history, Klinefelter syndrome",
+  "(4, 0, 1)": "Diagnostic method",
+  "(4, 1, 1)": "Tissue biopsy",
+  "(5, 0, 1)": "Treatment",
+  "(5, 1, 1)": "Surgery, radiation therapy, chemotherapy, hormonal therapy, targeted therapy",
+  "(6, 0, 1)": "Prognosis",
+  "(6, 1, 1)": "Five-year survival rate ≈85% (US, UK)",
+  "(7, 0, 1)": "Frequency",
+  "(7, 1, 1)": "2.1 million affected as of 2015",
+  "(8, 0, 1)": "Deaths",
+  "(8, 1, 1)": "627,000 (2018)"
+}

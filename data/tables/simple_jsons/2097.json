@@ -1,0 +1,19 @@
+{
+  "(0, 0, 2)": "Cumulonimbus Cloud",
+  "(1, 0, 1)": "Abbreviation",
+  "(1, 1, 1)": "Cb",
+  "(2, 0, 1)": "Genus",
+  "(2, 1, 1)": "Cumulonimbus (heaped, rain)",
+  "(3, 0, 1)": "Species",
+  "(3, 1, 1)": "Calvus, Capillatus, ",
+  "(4, 0, 1)": "Variety",
+  "(4, 1, 1)": "None",
+  "(5, 0, 1)": "Altitude",
+  "(5, 1, 1)": "500-16,000 m,  (2,000-52,000 ft)",
+  "(6, 0, 1)": "Classification",
+  "(6, 1, 1)": "Family C (Low-level)",
+  "(7, 0, 1)": "Appearance",
+  "(7, 1, 1)": "Very tall and large clouds",
+  "(8, 0, 1)": "Precipitation cloud?",
+  "(8, 1, 1)": "Very common, heavy at times"
+}
