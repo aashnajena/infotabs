@@ -1,1 +1,23 @@
-{}
+{
+  "(0, 0, 2)": "Contract bridge",
+  "(1, 0, 1)": "Alternative names",
+  "(1, 1, 1)": "Bridge",
+  "(2, 0, 1)": "Type",
+  "(2, 1, 1)": "Trick-taking",
+  "(3, 0, 1)": "Players",
+  "(3, 1, 1)": "4",
+  "(4, 0, 1)": "Skills required",
+  "(4, 1, 1)": "tactics, communication, memory, probability",
+  "(5, 0, 1)": "Cards",
+  "(5, 1, 1)": "52",
+  "(6, 0, 1)": "Deck",
+  "(6, 1, 1)": "French",
+  "(7, 0, 1)": "Play",
+  "(7, 1, 1)": "Clockwise",
+  "(8, 0, 1)": "Card rank (highest first)",
+  "(8, 1, 1)": "A K Q J 10 9 8 7 6 5 4 3 2",
+  "(9, 0, 1)": "Playing time",
+  "(9, 1, 1)": "WBF tournament games =  7 1 2 minutes per deal",
+  "(10, 0, 1)": "Random chance",
+  "(10, 1, 1)": "Low to moderate (depending on variant played)"
+}

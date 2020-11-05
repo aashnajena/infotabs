@@ -1,1 +1,25 @@
-{}
+{
+  "(0, 0, 2)": "Chicado V",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Quarter Horse",
+  "(2, 0, 1)": "Discipline",
+  "(2, 1, 1)": "Racing",
+  "(3, 0, 1)": "Sire",
+  "(3, 1, 1)": "Chicaro Bill",
+  "(4, 0, 1)": "Grandsire",
+  "(4, 1, 1)": "Chicaro (TB)",
+  "(5, 0, 1)": "Dam",
+  "(5, 1, 1)": "Do Good",
+  "(6, 0, 1)": "Maternal grandsire",
+  "(6, 1, 1)": "St. Louis",
+  "(7, 0, 1)": "Sex",
+  "(7, 1, 1)": "Mare",
+  "(8, 0, 1)": "Foaled",
+  "(8, 1, 1)": "1950",
+  "(9, 0, 1)": "Country",
+  "(9, 1, 1)": "United States",
+  "(10, 0, 1)": "Color",
+  "(10, 1, 1)": "Brown",
+  "(11, 0, 1)": "Breeder",
+  "(11, 1, 1)": "Frank Vessels"
+}

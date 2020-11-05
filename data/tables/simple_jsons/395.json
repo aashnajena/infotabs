@@ -1,1 +1,27 @@
-{}
+{
+  "(0, 0, 2)": "Jed Wolf",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Wolfdog",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Male",
+  "(3, 0, 1)": "Born",
+  "(3, 1, 1)": "1977, United States",
+  "(4, 0, 1)": "Died",
+  "(4, 1, 1)": "June 1995 (aged 17 18), United States",
+  "(5, 0, 1)": "Occupation",
+  "(5, 1, 1)": "Animal actor",
+  "(6, 0, 1)": "Employer",
+  "(6, 1, 1)": "Walt Disney Pictures. Universal Pictures.",
+  "(7, 0, 1)": "Notable role",
+  "(7, 1, 1)": "White Fang",
+  "(8, 0, 1)": "Years active",
+  "(8, 1, 1)": "1982-1994",
+  "(9, 0, 1)": "Training",
+  "(9, 1, 1)": "Action and stunt",
+  "(10, 0, 1)": "Owner",
+  "(10, 1, 1)": "Clint Rowe",
+  "(11, 0, 1)": "Residence",
+  "(11, 1, 1)": "United States",
+  "(12, 0, 1)": "Appearance",
+  "(12, 1, 1)": "Grey and white coat"
+}

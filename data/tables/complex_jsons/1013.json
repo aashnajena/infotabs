@@ -1,1 +1,26 @@
-{}
+{
+  "(0, 0, 2)": "Cass Ole",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Arabian",
+  "(2, 0, 1)": "Sire",
+  "(2, 1, 1)": "Al-Marah Cassanova [1]",
+  "(3, 0, 1)": "Grandsire",
+  "(3, 1, 1)": "Rapture",
+  "(4, 0, 1)": "Dam",
+  "(4, 1, 1)": "La Bahia",
+  "(5, 0, 1)": "Maternal grandsire",
+  "(5, 1, 1)": "Hanrah",
+  "(6, 0, 1)": "Sex",
+  "(6, 1, 1)": "Stallion",
+  "(7, 0, 1)": "Foaled",
+  "(7, 1, 1)": "March 6, 1969",
+  "(8, 0, 1)": "Country",
+  "(8, 1, 1)": "United States",
+  "(9, 0, 1)": "Color",
+  "(9, 1, 1)": "Black",
+  "(10, 0, 1)": "Breeder",
+  "(10, 1, 1)": "Donoghue Arabians",
+  "(11, 0, 1)": "Owner",
+  "(11, 1, 1)": "San Antonio Arabians",
+  "(12, 0, 2)": "Last updated on: January 13, 2008."
+}

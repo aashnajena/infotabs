@@ -1,1 +1,18 @@
-{}
+{
+  "(0, 0, 2)": "Casper",
+  "(1, 0, 1)": "Other name(s)",
+  "(1, 1, 1)": "Cassie",
+  "(2, 0, 1)": "Species",
+  "(2, 1, 1)": "Felis silvestris catus",
+  "(3, 0, 1)": "Sex",
+  "(3, 1, 1)": "Male",
+  "(4, 0, 1)": "Born",
+  "(4, 1, 1)": "c. 1997",
+  "(5, 0, 1)": "Died",
+  "(5, 1, 1)": "14 January 2010 (aged 12 13)",
+  "(5, 2, 1)": "Plymouth, Devon, England",
+  "(6, 0, 1)": "Years active",
+  "(6, 1, 1)": "2006 2010",
+  "(7, 0, 1)": "Owner",
+  "(7, 1, 1)": "Susan Finden (2002 2010)"
+}

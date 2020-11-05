@@ -1,1 +1,24 @@
-{}
+{
+  "(0, 0, 2)": "Dewey Readmore Books",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Cat",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Male",
+  "(3, 0, 1)": "Born",
+  "(3, 1, 1)": "November 18, 1987, Spencer, Iowa, US",
+  "(4, 0, 1)": "Died",
+  "(4, 1, 1)": "November 29, 2006(2006-11-29) (aged 19), Spencer, Iowa, US",
+  "(5, 0, 1)": "Occupation",
+  "(5, 1, 1)": "Library cat",
+  "(6, 0, 1)": "Employer",
+  "(6, 1, 1)": "Spencer Public Library",
+  "(7, 0, 1)": "Title",
+  "(7, 1, 1)": "Staff Supervisor",
+  "(8, 0, 1)": "Term",
+  "(8, 1, 1)": "1988 2006",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Vicki Myron",
+  "(10, 0, 1)": "Named after",
+  "(10, 1, 1)": "Melvil Dewey",
+  "(11, 0, 2)": "http://www.spencerlibrary.com/dewey.shtml"
+}

@@ -1,1 +1,25 @@
-{}
+{
+  "(0, 0, 2)": "Brigitte",
+  "(1, 0, 1)": "Other name(s)",
+  "(1, 1, 1)": "Bijou",
+  "(2, 0, 1)": "Species",
+  "(2, 1, 1)": "Dog",
+  "(3, 0, 1)": "Breed",
+  "(3, 1, 1)": "French Bulldog",
+  "(4, 0, 1)": "Sex",
+  "(4, 1, 1)": "Female",
+  "(5, 0, 1)": "Born",
+  "(5, 1, 1)": "2010 (age 8 9), Grimsley, Tennessee",
+  "(6, 0, 1)": "Nation from",
+  "(6, 1, 1)": "United States",
+  "(7, 0, 1)": "Occupation",
+  "(7, 1, 1)": "Actress",
+  "(8, 0, 1)": "Known for",
+  "(8, 1, 1)": "Modern Family",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Sarah Clifford",
+  "(10, 0, 1)": "Appearance",
+  "(10, 1, 1)": "Piebald",
+  "(11, 0, 1)": "Awards",
+  "(11, 1, 1)": "2012 Golden Collar Awards for Best Dog in a Television Series"
+}

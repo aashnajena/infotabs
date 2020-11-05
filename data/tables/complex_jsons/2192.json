@@ -1,1 +1,25 @@
-{}
+{
+  "(0, 0, 2)": "Psychiatrist",
+  "(1, 0, 1)": "Names",
+  "(1, 1, 1)": "Psychiatrist",
+  "(1, 2, 1)": "alienist (archaic)",
+  "(2, 0, 1)": "Occupation type",
+  "(2, 1, 1)": "Profession",
+  "(2, 2, 1)": "specialization",
+  "(3, 0, 1)": "Activity sectors",
+  "(3, 1, 1)": "Medicine",
+  "(3, 2, 1)": "psychiatry",
+  "(4, 0, 1)": "Competencies",
+  "(4, 1, 1)": "Analytical mind",
+  "(4, 2, 1)": "patience",
+  "(5, 0, 1)": "Education required",
+  "(5, 1, 1)": "Doctor of Medicine (M.D.)",
+  "(5, 2, 1)": "Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB)",
+  "(5, 3, 1)": "Doctor of Osteopathic Medicine (D.O.)",
+  "(6, 0, 1)": "Fields of",
+  "(6, 1, 1)": "employment",
+  "(6, 2, 1)": "Psychiatric clinics",
+  "(7, 0, 1)": "Related jobs",
+  "(7, 1, 1)": "Psychologist",
+  "(7, 2, 1)": "psychotherapist"
+}

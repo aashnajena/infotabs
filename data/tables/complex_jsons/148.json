@@ -1,1 +1,22 @@
-{}
+{
+  "(0, 0, 2)": "Jean, the Vitagraph Dog",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Dog",
+  "(2, 0, 1)": "Breed",
+  "(2, 1, 1)": "Scotch Collie",
+  "(3, 0, 1)": "Sex",
+  "(3, 1, 1)": "Female",
+  "(4, 0, 1)": "Born",
+  "(4, 1, 1)": "1902",
+  "(4, 2, 1)": "Eastport, Maine",
+  "(5, 0, 1)": "Died",
+  "(5, 1, 1)": "1916",
+  "(6, 0, 1)": "Occupation",
+  "(6, 1, 1)": "Dog actor",
+  "(7, 0, 1)": "Employer",
+  "(7, 1, 1)": "Vitagraph Studios",
+  "(8, 0, 1)": "Years active",
+  "(8, 1, 1)": "1909 1916",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Laurence Trimble"
+}

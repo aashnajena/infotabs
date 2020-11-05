@@ -1,1 +1,18 @@
-{}
+{
+  "(0, 0, 2)": "Chetak",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Horse",
+  "(2, 0, 1)": "Breed",
+  "(2, 1, 1)": "unknown",
+  "(3, 0, 1)": "Sex",
+  "(3, 1, 1)": "Male",
+  "(4, 0, 1)": "Died",
+  "(4, 1, 1)": "1576",
+  "(4, 2, 1)": "Rajsamand, Rajasthan",
+  "(5, 0, 1)": "Nation from",
+  "(5, 1, 1)": "Mewari",
+  "(6, 0, 1)": "Employer",
+  "(6, 1, 1)": "Maharana Pratap",
+  "(7, 0, 1)": "Notable role",
+  "(7, 1, 1)": "War horse"
+}

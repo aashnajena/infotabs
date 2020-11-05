@@ -1,1 +1,15 @@
-{}
+{
+  "(0, 0, 2)": "Clinical pharmaceutical scientist",
+  "(1, 0, 1)": "Names",
+  "(1, 1, 1)": "pharmacist-scientist, apothecary-scientist",
+  "(2, 0, 1)": "Occupation type",
+  "(2, 1, 1)": "profession",
+  "(3, 0, 1)": "Activity sectors",
+  "(3, 1, 1)": "academia, industry, government (including regulators), healthcare",
+  "(4, 0, 1)": "Competencies",
+  "(4, 1, 1)": "Translational medicine, independent research skills, pharmacy practice, residency or fellowship training",
+  "(5, 0, 1)": "Education required",
+  "(5, 1, 1)": "Doctor of Pharmacy, often with an academic research certificate, master's or doctorate degree",
+  "(6, 0, 1)": "Related jobs",
+  "(6, 1, 1)": "scientist, pharmacist, physician-scientist"
+}

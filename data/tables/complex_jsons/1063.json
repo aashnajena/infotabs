@@ -1,1 +1,24 @@
-{}
+{
+  "(0, 0, 2)": "Chess960",
+  "(1, 0, 1)": "Years active",
+  "(1, 1, 1)": "Since June 19, 1996",
+  "(2, 0, 1)": "Genre(s)",
+  "(2, 1, 1)": "Board game",
+  "(2, 2, 1)": "Chess variant",
+  "(3, 0, 1)": "Players",
+  "(3, 1, 1)": "2",
+  "(4, 0, 1)": "Setup time",
+  "(4, 1, 1)": "~1 min + 1 min to determine starting position",
+  "(5, 0, 1)": "Playing time",
+  "(5, 1, 1)": "Casual games: 10 60 min",
+  "(5, 2, 1)": "Tournament games: from 10 min (fast chess) to >6 h",
+  "(6, 0, 1)": "Random chance",
+  "(6, 1, 1)": "None",
+  "(7, 0, 1)": "Skill(s) required",
+  "(7, 1, 1)": "Strategy, tactics",
+  "(8, 0, 1)": "Synonym(s)",
+  "(8, 1, 1)": "Fischer Random Chess (FRC)",
+  "(8, 2, 1)": "FR Chess",
+  "(8, 3, 1)": "Fischerandom",
+  "(8, 4, 1)": "New Chess"
+}

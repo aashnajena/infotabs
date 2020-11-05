@@ -1,1 +1,17 @@
-{}
+{
+  "(0, 0, 2)": "Chess",
+  "(1, 0, 1)": "Years active",
+  "(1, 1, 1)": "c. 6th-century to present",
+  "(2, 0, 1)": "Genre(s)",
+  "(2, 1, 1)": "Board game",
+  "(2, 2, 1)": "Abstract strategy game",
+  "(2, 3, 1)": "Mind sport",
+  "(3, 0, 1)": "Players",
+  "(3, 1, 1)": "2",
+  "(4, 0, 1)": "Playing time",
+  "(4, 1, 1)": "Casual games usually last 10 to 60 minutes; tournament games last anywhere from about ten minutes (fast chess) to six hours or more.",
+  "(5, 0, 1)": "Random chance",
+  "(5, 1, 1)": "None",
+  "(6, 0, 1)": "Skill(s) required",
+  "(6, 1, 1)": "Strategy, tactics"
+}

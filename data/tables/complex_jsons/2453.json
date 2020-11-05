@@ -1,1 +1,11 @@
-{}
+{
+  "(0, 0, 2)": "Jallikattu",
+  "(1, 0, 1)": "Nicknames",
+  "(1, 1, 1)": "Sallikkattu; eru thazhuvuthal; manju virattu",
+  "(2, 0, 1)": "Country or region",
+  "(2, 1, 1)": "Tamil Nadu, India",
+  "(3, 0, 1)": "Olympic",
+  "(3, 1, 1)": "No",
+  "(4, 0, 1)": "Paralympic",
+  "(4, 1, 1)": "No"
+}

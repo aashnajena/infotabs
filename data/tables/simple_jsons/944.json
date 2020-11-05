@@ -1,1 +1,15 @@
-{}
+{
+  "(0, 0, 2)": "Buttermilk",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Quarter Horse",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Gelding",
+  "(3, 0, 1)": "Foaled",
+  "(3, 1, 1)": "April 13, 1941, Wyoming",
+  "(4, 0, 1)": "Died",
+  "(4, 1, 1)": "October 7, 1972 , California",
+  "(5, 0, 1)": "Color",
+  "(5, 1, 1)": "Buckskin",
+  "(6, 0, 1)": "Owner",
+  "(6, 1, 1)": "Dale Evans"
+}

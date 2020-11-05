@@ -1,1 +1,27 @@
-{}
+{
+  "(0, 0, 2)": "WIMA",
+  "(1, 0, 1)": "Founded",
+  "(1, 1, 1)": "1950",
+  "(2, 0, 1)": "Location",
+  "(2, 1, 1)": "United States",
+  "(3, 0, 1)": "Founder",
+  "(3, 1, 1)": "Louise Scherbyn",
+  "(4, 0, 1)": "Leader",
+  "(4, 1, 1)": "Asa  hqvist (2017)",
+  "(5, 0, 1)": "Leader title",
+  "(5, 1, 1)": "President",
+  "(6, 0, 1)": "Key people",
+  "(6, 1, 1)": "Theresa Wallach, first International Vice-President",
+  "(7, 0, 1)": "Type",
+  "(7, 1, 1)": "Association",
+  "(8, 0, 1)": "Region",
+  "(8, 1, 1)": "Worldwide",
+  "(9, 0, 1)": "Purpose",
+  "(9, 1, 1)": "Women motorcyclist",
+  "(10, 0, 1)": "Activities",
+  "(10, 1, 1)": "Pink RIbbon Rides",
+  "(11, 0, 1)": "Website",
+  "(11, 1, 1)": "www.wimaworld.com",
+  "(12, 0, 1)": "Abbreviation",
+  "(12, 1, 1)": "WIMA"
+}

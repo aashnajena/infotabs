@@ -1,1 +1,19 @@
-{}
+{
+  "(0, 0, 2)": "Huaso",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Thoroughbred",
+  "(2, 0, 1)": "Sire",
+  "(2, 1, 1)": "Henry Lee",
+  "(3, 0, 1)": "Grandsire",
+  "(3, 1, 1)": "Your Majesty",
+  "(4, 0, 1)": "Dam",
+  "(4, 1, 1)": "Tr mula",
+  "(5, 0, 1)": "Maternal grandsire",
+  "(5, 1, 1)": "Lomond",
+  "(6, 0, 1)": "Sex",
+  "(6, 1, 1)": "Stallion",
+  "(7, 0, 1)": "Foaled",
+  "(7, 1, 1)": "1933",
+  "(8, 0, 1)": "Colour",
+  "(8, 1, 1)": "Chestnut"
+}

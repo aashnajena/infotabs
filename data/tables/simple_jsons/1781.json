@@ -1,1 +1,15 @@
-{}
+{
+  "(0, 0, 2)": "HR 8799 e",
+  "(1, 0, 2)": "Exoplanet",
+  "(1, 1, 1)": "List of exoplanets",
+  "(2, 0, 2)": "Discovery date",
+  "(2, 1, 1)": "November 1, 2010 (announced), November 22, 2010 (published)",
+  "(3, 0, 2)": "Discoverer(s)",
+  "(3, 1, 1)": "Marois et al.",
+  "(4, 0, 2)": "Discovery method",
+  "(4, 1, 1)": "Direct imaging",
+  "(5, 0, 2)": "Discovery site",
+  "(5, 1, 1)": "Keck and Gemini, observatories in Hawaii",
+  "(6, 0, 2)": "Discovery status",
+  "(6, 1, 1)": "Published"
+}

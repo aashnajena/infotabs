@@ -1,1 +1,15 @@
-{}
+{
+  "(0, 0, 2)": "Combined driving",
+  "(1, 0, 1)": "Highest governing body",
+  "(1, 1, 1)": "International Federation for Equestrian Sports (FEI)",
+  "(2, 0, 1)": "Contact",
+  "(2, 1, 1)": "no",
+  "(3, 0, 1)": "Team members",
+  "(3, 1, 1)": "individual and team at international levels",
+  "(4, 0, 1)": "Mixed gender",
+  "(4, 1, 1)": "yes",
+  "(5, 0, 1)": "Type",
+  "(5, 1, 1)": "outdoor",
+  "(6, 0, 1)": "Equipment",
+  "(6, 1, 1)": "horse, carriage, horse harness equipment"
+}

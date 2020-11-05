@@ -1,1 +1,19 @@
-{}
+{
+  "(0, 0, 2)": "Colonel Meow",
+  "(1, 0, 1)": "Other name(s)",
+  "(1, 1, 1)": "The Colonel",
+  "(2, 0, 1)": "Species",
+  "(2, 1, 1)": "Felis catus",
+  "(3, 0, 1)": "Breed",
+  "(3, 1, 1)": "Himalayan Persian",
+  "(4, 0, 1)": "Sex",
+  "(4, 1, 1)": "Male",
+  "(5, 0, 1)": "Born",
+  "(5, 1, 1)": "2011, Seattle, Washington, USA",
+  "(6, 0, 1)": "Died",
+  "(6, 1, 1)": "January 29, 2014 (aged 2), Los Angeles, California, USA",
+  "(7, 0, 1)": "Known for",
+  "(7, 1, 1)": "His scowl and long hair",
+  "(8, 0, 1)": "Owner",
+  "(8, 1, 1)": "Anne Marie Avey"
+}

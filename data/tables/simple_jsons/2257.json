@@ -1,1 +1,25 @@
-{}
+{
+  "(0, 0, 2)": "Eastern Air Lines Flight 304",
+  "(1, 0, 1)": "Date",
+  "(1, 1, 1)": "February 25, 1964",
+  "(2, 0, 1)": "Summary",
+  "(2, 1, 1)": "Pitch Trim Failure",
+  "(3, 0, 1)": "Site",
+  "(3, 1, 1)": "Lake Pontchartrain, near New Orleans, Louisiana, USA",
+  "(4, 0, 1)": "Aircraft type",
+  "(4, 1, 1)": "Douglas DC-8",
+  "(5, 0, 1)": "Operator",
+  "(5, 1, 1)": "Eastern Air Lines",
+  "(6, 0, 1)": "Registration",
+  "(6, 1, 1)": "N8607",
+  "(7, 0, 1)": "Passengers",
+  "(7, 1, 1)": "51",
+  "(8, 0, 1)": "Crew",
+  "(8, 1, 1)": "7",
+  "(9, 0, 1)": "Fatalities",
+  "(9, 1, 1)": "58",
+  "(10, 0, 1)": "Injuries",
+  "(10, 1, 1)": "0",
+  "(11, 0, 1)": "Survivors",
+  "(11, 1, 1)": "0"
+}

@@ -1,1 +1,13 @@
-{}
+{
+  "(0, 0, 2)": "Game of the Generals",
+  "(1, 0, 1)": "Players",
+  "(1, 1, 1)": "1 versus 1, plus an optional arbiter or referee",
+  "(2, 0, 1)": "Setup time",
+  "(2, 1, 1)": "2 to 3 minutes",
+  "(3, 0, 1)": "Playing time",
+  "(3, 1, 1)": "30 to 120 minutes (player-dependent)",
+  "(4, 0, 1)": "Random chance",
+  "(4, 1, 1)": "Yes",
+  "(5, 0, 1)": "Skill(s) required",
+  "(5, 1, 1)": "Strategy, tactics, memory, bluffing, inter-player communication"
+}

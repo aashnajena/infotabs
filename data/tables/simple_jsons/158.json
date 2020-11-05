@@ -1,1 +1,23 @@
-{}
+{
+  "(0, 0, 2)": "Fala",
+  "(1, 0, 1)": "Other name(s)",
+  "(1, 1, 1)": "Murray the Outlaw of Falahill (full name)",
+  "(2, 0, 1)": "Species",
+  "(2, 1, 1)": "Dog",
+  "(3, 0, 1)": "Breed",
+  "(3, 1, 1)": "Scottish Terrier",
+  "(4, 0, 1)": "Sex",
+  "(4, 1, 1)": "Male",
+  "(5, 0, 1)": "Born",
+  "(5, 1, 1)": "Big Boy, (1940-04-07)April 7, 1940",
+  "(6, 0, 1)": "Died",
+  "(6, 1, 1)": "April 5, 1952(1952-04-05) (aged 11)",
+  "(7, 0, 1)": "Resting place",
+  "(7, 1, 1)": "Springwood",
+  "(8, 0, 1)": "Occupation",
+  "(8, 1, 1)": "Presidential pet",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Franklin D. Roosevelt, Eleanor Roosevelt",
+  "(10, 0, 1)": "Named after",
+  "(10, 1, 1)": "John Murray of Falahill"
+}

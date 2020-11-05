@@ -1,1 +1,19 @@
-{}
+{
+  "(0, 0, 2)": "abc conjecture",
+  "(1, 0, 1)": "Field",
+  "(1, 1, 1)": "Number theory",
+  "(2, 0, 1)": "Conjectured by",
+  "(2, 1, 1)": "Joseph  Oesterl",
+  "(2, 2, 1)": "David Masser",
+  "(3, 0, 1)": "Conjectured in",
+  "(3, 1, 1)": "1985",
+  "(4, 0, 1)": "Equivalent to",
+  "(4, 1, 1)": "Modified Szpiro conjecture",
+  "(5, 0, 1)": "Consequences",
+  "(5, 1, 1)": "Beal conjecture",
+  "(5, 2, 1)": "Faltings's theorem",
+  "(5, 3, 1)": "Fermat's Last Theorem",
+  "(5, 4, 1)": "Fermat Catalan conjecture",
+  "(5, 5, 1)": "Roth's theorem",
+  "(5, 6, 1)": "Tijdeman's theorem"
+}

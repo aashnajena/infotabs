@@ -1,1 +1,18 @@
-{}
+{
+  "(0, 0, 2)": "India \"Willie\" Bush",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Cat",
+  "(2, 0, 1)": "Breed",
+  "(2, 1, 1)": "American Shorthair",
+  "(3, 0, 1)": "Sex",
+  "(3, 1, 1)": "Female",
+  "(4, 0, 1)": "Born",
+  "(4, 1, 1)": "July 13, 1990",
+  "(5, 0, 1)": "Died",
+  "(5, 1, 1)": "January 4, 2009(2009-01-04) (aged 18)",
+  "(5, 2, 1)": "White House, Washington, D.C., U.S.",
+  "(6, 0, 1)": "Owner",
+  "(6, 1, 1)": "George W. Bush and Laura Bush",
+  "(7, 0, 1)": "Appearance",
+  "(7, 1, 1)": "black fur"
+}

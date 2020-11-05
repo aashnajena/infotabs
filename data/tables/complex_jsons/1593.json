@@ -1,1 +1,11 @@
-{}
+{
+  "(0, 0, 2)": "Jugger",
+  "(1, 0, 1)": "First played",
+  "(1, 1, 1)": "1995",
+  "(2, 0, 1)": "Type",
+  "(2, 1, 1)": "Ball game, team sport",
+  "(3, 0, 1)": "Equipment",
+  "(3, 1, 1)": "Skull-shaped ball, prop weapons, stakes",
+  "(4, 0, 1)": "Venue",
+  "(4, 1, 1)": "Field"
+}

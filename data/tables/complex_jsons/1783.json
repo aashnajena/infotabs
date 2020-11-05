@@ -1,1 +1,17 @@
-{}
+{
+  "(0, 0, 2)": "Ice hockey",
+  "(1, 0, 1)": "Highest governing body",
+  "(1, 1, 1)": "International Ice Hockey Federation",
+  "(2, 0, 1)": "Contact",
+  "(2, 1, 1)": "Full contact",
+  "(3, 0, 1)": "Team members",
+  "(3, 1, 1)": "3 Forwards",
+  "(3, 2, 1)": "2 Defensemen",
+  "(3, 3, 1)": "1 Goaltender",
+  "(4, 0, 1)": "Type",
+  "(4, 1, 1)": "Team sport, stick sport, puck sport, winter sport",
+  "(5, 0, 1)": "Equipment",
+  "(5, 1, 1)": "Hockey pucks, sticks, skates, shin pads, shoulder pads, gloves, helmets (with visor or cage, depending on age of player and league), elbow pads, jock or jill, socks, shorts, neck guard (depends on league), mouthguard (depends on league)",
+  "(6, 0, 1)": "Venue",
+  "(6, 1, 1)": "Hockey rink or arena, and is sometimes played on a frozen lake or pond for recreation"
+}

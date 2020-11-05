@@ -1,1 +1,19 @@
-{}
+{
+  "(0, 0, 2)": "Just Nuisance",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Canis lupus familiaris",
+  "(2, 0, 1)": "Breed",
+  "(2, 1, 1)": "Great Dane",
+  "(3, 0, 1)": "Sex",
+  "(3, 1, 1)": "male",
+  "(4, 0, 1)": "Born",
+  "(4, 1, 1)": "(1937-04-01)1 April 1937, Rondebosch, Cape Town",
+  "(5, 0, 1)": "Died",
+  "(5, 1, 1)": "1 April 1944(1944-04-01) (aged 7), Simon's Town Naval Hospital, Simon's Town",
+  "(6, 0, 1)": "Resting place",
+  "(6, 1, 1)": "Klaver Camp, Simon's Town",
+  "(7, 0, 1)": "Nation from",
+  "(7, 1, 1)": "South Africa",
+  "(8, 0, 1)": "Occupation",
+  "(8, 1, 1)": "Ordinary Seaman"
+}

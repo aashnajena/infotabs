@@ -1,1 +1,15 @@
-{}
+{
+  "(0, 0, 2)": "Bubbles",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Common chimpanzee",
+  "(2, 0, 1)": "Sex",
+  "(2, 1, 1)": "Male",
+  "(3, 0, 1)": "Born",
+  "(3, 1, 1)": "(1983-04-30) April 30, 1983 (age 35), Austin, Texas, United States",
+  "(4, 0, 1)": "Known for",
+  "(4, 1, 1)": "Pet of Michael Jackson",
+  "(5, 0, 1)": "Owner",
+  "(5, 1, 1)": "Michael Jackson (1988-2005), Center for Great Apes (2005-present)",
+  "(6, 0, 1)": "Weight",
+  "(6, 1, 1)": "160 lb (73 kg) - 170 lb (77 kg)"
+}

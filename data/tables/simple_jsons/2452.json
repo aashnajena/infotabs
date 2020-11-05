@@ -1,1 +1,11 @@
-{}
+{
+  "(0, 0, 2)": "Jallikattu",
+  "(1, 0, 1)": "Nicknames",
+  "(1, 1, 1)": "Sallikkattu; eru thazhuvuthal; manju virattu",
+  "(2, 0, 1)": "Mixed gender",
+  "(2, 1, 1)": "No",
+  "(3, 0, 1)": "Type",
+  "(3, 1, 1)": "Traditional sport",
+  "(4, 0, 1)": "Venue",
+  "(4, 1, 1)": "Open ground"
+}

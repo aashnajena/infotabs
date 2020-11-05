@@ -1,1 +1,23 @@
-{}
+{
+  "(0, 0, 2)": "Jake",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Canis lupus familiaris",
+  "(2, 0, 1)": "Breed",
+  "(2, 1, 1)": "Labrador Retriever",
+  "(3, 0, 1)": "Sex",
+  "(3, 1, 1)": "Male",
+  "(4, 0, 1)": "Born",
+  "(4, 1, 1)": "1995",
+  "(5, 0, 1)": "Died",
+  "(5, 1, 1)": "July 25, 2007",
+  "(6, 0, 1)": "Occupation",
+  "(6, 1, 1)": "Search and rescue dog",
+  "(7, 0, 1)": "Employer",
+  "(7, 1, 1)": "Utah Task Force 1",
+  "(8, 0, 1)": "Years active",
+  "(8, 1, 1)": "1997-2006",
+  "(9, 0, 1)": "Known for",
+  "(9, 1, 1)": "Rescue efforts following the September 11 attacks and Hurricane Katrina",
+  "(10, 0, 1)": "Owner",
+  "(10, 1, 1)": "Mary Flood"
+}

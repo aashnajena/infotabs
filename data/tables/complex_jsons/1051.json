@@ -1,1 +1,14 @@
-{}
+{
+  "(0, 0, 2)": "Boxing",
+  "(1, 0, 1)": "Also known as",
+  "(1, 1, 1)": "Western Boxing, Pugilism See note.",
+  "(2, 0, 1)": "Focus",
+  "(2, 1, 1)": "Punching, striking",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Prehistoric",
+  "(4, 0, 1)": "Parenthood",
+  "(4, 1, 1)": "Bare-knuckle boxing",
+  "(5, 0, 1)": "Olympic sport",
+  "(5, 1, 1)": "688 BC (Ancient Greece)",
+  "(5, 2, 1)": "1904 (modern)"
+}

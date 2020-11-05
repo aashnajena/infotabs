@@ -1,1 +1,21 @@
-{}
+{
+  "(0, 0, 2)": "Cabral",
+  "(1, 0, 1)": "Breed",
+  "(1, 1, 1)": "Trakehner",
+  "(2, 0, 1)": "Sire",
+  "(2, 1, 1)": "Bujak (Trakehner)",
+  "(3, 0, 1)": "Grandsire",
+  "(3, 1, 1)": "Sir Shostakovich (Thoroughbred)",
+  "(4, 0, 1)": "Dam",
+  "(4, 1, 1)": "Casona (Trakehner)",
+  "(5, 0, 1)": "Maternal grandsire",
+  "(5, 1, 1)": "Agar (Trakehner)",
+  "(6, 0, 1)": "Sex",
+  "(6, 1, 1)": "Gelding",
+  "(7, 0, 1)": "Foaled",
+  "(7, 1, 1)": "2001",
+  "(8, 0, 1)": "Colour",
+  "(8, 1, 1)": "Dark Bay",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Mr Christian Landolt, Mr & Mrs P. Baker & Mrs D. Alder"
+}

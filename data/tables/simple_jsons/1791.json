@@ -1,1 +1,25 @@
-{}
+{
+  "(0, 0, 2)": "Huddersfield Ben",
+  "(1, 0, 1)": "Species",
+  "(1, 1, 1)": "Dog",
+  "(2, 0, 1)": "Breed",
+  "(2, 1, 1)": "Yorkshire Terrier",
+  "(3, 0, 1)": "Sex",
+  "(3, 1, 1)": "Male",
+  "(4, 0, 1)": "Born",
+  "(4, 1, 1)": "1865, Huddersfield, England",
+  "(5, 0, 1)": "Died",
+  "(5, 1, 1)": "23 September 1871",
+  "(6, 0, 1)": "Nation from",
+  "(6, 1, 1)": "United Kingdom",
+  "(7, 0, 1)": "Occupation",
+  "(7, 1, 1)": "Show dog",
+  "(8, 0, 1)": "Known for",
+  "(8, 1, 1)": "Foundation sire of the Yorkshire Terrier breed",
+  "(9, 0, 1)": "Owner",
+  "(9, 1, 1)": "Mr. and Mrs. M.A. Foster",
+  "(10, 0, 1)": "Parent(s)",
+  "(10, 1, 1)": "Lady and Mr. Boscovitch's Dog",
+  "(11, 0, 1)": "Named after",
+  "(11, 1, 1)": "Maternal Grandfather"
+}
