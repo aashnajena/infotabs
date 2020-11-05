@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "16G, 16H Columbia Pike–Pentagon City line",
+  "(0, 0, 2)": "16G, 16H Columbia Pike Pentagon City line",
   "(1, 0, 1)": "System",
   "(1, 1, 1)": "Metrobus",
   "(2, 0, 1)": "Operator",
@@ -15,13 +15,13 @@
   "(7, 0, 1)": "Ended service",
   "(7, 1, 1)": "16K: June 24, 2018",
   "(8, 0, 1)": "Locale",
-  "(8, 1, 1)": "Fairfax County, Arlington County ",
+  "(8, 1, 1)": "Fairfax County, Arlington County",
   "(9, 0, 1)": "Communities served",
   "(9, 1, 1)": "Skyline City, Columbia Forest, Arlington Mill, Barcroft, Arlington Heights, Penrose, Pentagon City",
   "(10, 0, 1)": "Landmarks served",
   "(10, 1, 1)": "United States Air Force Memorial, Pentagon City station",
   "(11, 0, 1)": "Start",
-  "(11, 1, 1)": "Arlington Mill (16G) , Skyline City (16H) ",
+  "(11, 1, 1)": "Arlington Mill (16G) , Skyline City (16H)",
   "(12, 0, 1)": "Via",
   "(12, 1, 1)": "Columbia Pike",
   "(13, 0, 1)": "End",
@@ -29,11 +29,11 @@
   "(14, 0, 1)": "Level",
   "(14, 1, 1)": "Daily",
   "(15, 0, 1)": "Frequency",
-  "(15, 1, 1)": "10-15 minutes (Rush Hour) , 20-25 minutes (Midday and Weekday Evening Service) , 30 minutes (Weekends) ",
+  "(15, 1, 1)": "10-15 minutes (Rush Hour) , 20-25 minutes (Midday and Weekday Evening Service) , 30 minutes (Weekends)",
   "(16, 0, 1)": "Operates",
-  "(16, 1, 1)": "4:52 AM – 11:24 PM (Weekdays) , 5:35 AM – 11:22 PM (Weekends) ",
+  "(16, 1, 1)": "4:52 AM   11:24 PM (Weekdays) , 5:35 AM   11:22 PM (Weekends)",
   "(17, 0, 1)": "Transfers",
   "(17, 1, 1)": "SmarTrip only",
   "(18, 0, 1)": "Timetable",
-  "(18, 1, 1)": "Columbia Pike–Pentagon City Line"
+  "(18, 1, 1)": "Columbia Pike Pentagon City Line"
 }

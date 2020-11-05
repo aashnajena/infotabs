@@ -15,13 +15,13 @@
   "(7, 0, 1)": "Design",
   "(7, 1, 1)": "Cable-stayed main spans; concrete-steel precast segment viaducts at either end",
   "(8, 0, 1)": "Total length",
-  "(8, 1, 1)": "5.6 kilometres (3.5 mi)",
+  "(8, 1, 1)": "5.6 kilometres (3.5 mi)",
   "(9, 0, 1)": "Width",
-  "(9, 1, 1)": "2 x 20 metres (66 ft)",
+  "(9, 1, 1)": "2 x 20 metres (66 ft)",
   "(10, 0, 1)": "Height",
-  "(10, 1, 1)": "126 metres (413 ft)",
+  "(10, 1, 1)": "126 metres (413 ft)",
   "(11, 0, 1)": "Longest span",
-  "(11, 1, 1)": "2 x 250 metres (820 ft)",
+  "(11, 1, 1)": "2 x 250 metres (820 ft)",
   "(12, 0, 1)": "Designer",
   "(12, 1, 1)": "Seshadri Srinivasan",
   "(13, 0, 1)": "Constructed by",
@@ -31,7 +31,7 @@
   "(15, 0, 1)": "Construction end",
   "(15, 1, 1)": "24 March 2010",
   "(16, 0, 1)": "Opened",
-  "(16, 1, 1)": "30 June 2009  ( 2009-06-30) ",
+  "(16, 1, 1)": "30 June 2009  ( 2009-06-30)",
   "(17, 0, 1)": "Toll",
-  "(17, 1, 1)": "₹70  (US$1.00) Car  , ₹110  (US$1.60) LCV  , ₹145  (US$2.10) Heavy vehicle "
+  "(17, 1, 1)": "70  (US$1.00) Car  ,  110  (US$1.60) LCV  ,  145  (US$2.10) Heavy vehicle"
 }

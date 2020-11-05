@@ -1,14 +1,14 @@
 {
   "(0, 0, 2)": "Kamloops",
-  "(1, 0, 1)": " • Type",
+  "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Elected city council",
-  "(2, 0, 1)": " • Mayor",
+  "(2, 0, 1)": "Mayor",
   "(2, 1, 1)": "Ken Christian",
-  "(3, 0, 1)": " • Governing body",
+  "(3, 0, 1)": "Governing body",
   "(3, 1, 1)": "Kamloops City Council",
-  "(4, 0, 1)": " • MP",
+  "(4, 0, 1)": "MP",
   "(4, 1, 1)": "Cathy McLeod",
-  "(5, 0, 1)": " • MLAs",
+  "(5, 0, 1)": "MLAs",
   "(5, 1, 1)": "Peter Milobar",
   "(5, 2, 1)": "Todd Stone"
 }

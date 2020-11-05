@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "Catalonia, Catalunya (Catalan), Catalonha (Occitan), Cataluña (Spanish), ",
+  "(0, 0, 2)": "Catalonia, Catalunya (Catalan), Catalonha (Occitan), Catalu a (Spanish)",
   "(1, 0, 1)": "Country",
   "(1, 1, 1)": "Spain",
   "(2, 0, 1)": "Status",
@@ -9,7 +9,7 @@
   "(4, 0, 1)": "Statute of Autonomy",
   "(4, 1, 1)": "9 September 1932 ,  18 September 1979, 9 August 2006 (current version)",
   "(5, 0, 1)": "Capital, and largest city",
-  "(5, 1, 1)": "Barcelona, 41°23′N 2°11′E﻿ / ﻿41.383°N 2.183°E﻿ / 41.383; 2.183",
+  "(5, 1, 1)": "Barcelona, 41 23 N 2 11 E  /  41.383 N 2.183 E  / 41.383; 2.183",
   "(6, 0, 1)": "Provinces",
   "(6, 1, 1)": "Barcelona, Girona, Lleida, Tarragona"
 }

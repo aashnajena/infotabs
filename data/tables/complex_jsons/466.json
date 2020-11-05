@@ -1,14 +1,13 @@
 {
   "(0, 0, 2)": "Chongqing",
-  "(0, 1, 1)": "重庆市",
-  "(1, 0, 1)": " • Type",
+  "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Municipality",
-  "(2, 0, 1)": " • CPC Secretary",
+  "(2, 0, 1)": "CPC Secretary",
   "(2, 1, 1)": "Chen Min'er",
-  "(3, 0, 1)": " • Mayor",
+  "(3, 0, 1)": "Mayor",
   "(3, 1, 1)": "Tang Liangzhi",
-  "(4, 0, 1)": " • Congress chairman",
+  "(4, 0, 1)": "Congress chairman",
   "(4, 1, 1)": "Zhang Xuan",
-  "(5, 0, 1)": " • Conference chairman",
+  "(5, 0, 1)": "Conference chairman",
   "(5, 1, 1)": "Xu Jingye"
 }

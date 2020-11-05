@@ -14,8 +14,8 @@
   "(5, 0, 1)": "Music by",
   "(5, 1, 1)": "Michel Colombier",
   "(6, 0, 1)": "Production",
-  "(6, 1, 1)": "company ",
-  "(6, 2, 1)": "Penta Pictures ",
+  "(6, 1, 1)": "company",
+  "(6, 2, 1)": "Penta Pictures",
   "(7, 0, 1)": "Distributed by",
   "(7, 1, 1)": "20th Century Fox",
   "(8, 0, 1)": "Release date",
@@ -27,5 +27,5 @@
   "(11, 0, 1)": "Budget",
   "(11, 1, 1)": "$15 million",
   "(12, 0, 1)": "Box office",
-  "(12, 1, 1)": "$6,132,924 "
+  "(12, 1, 1)": "$6,132,924"
 }

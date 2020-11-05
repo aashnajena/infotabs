@@ -3,7 +3,7 @@
   "(1, 0, 1)": "Birth name",
   "(1, 1, 1)": "Park Jae-beom",
   "(2, 0, 1)": "Born",
-  "(2, 1, 1)": " (1987-04-25) April 25, 1987 (age 31)",
+  "(2, 1, 1)": "(1987-04-25) April 25, 1987 (age 31)",
   "(2, 2, 1)": "Edmonds, Washington, U.S.",
   "(3, 0, 1)": "Origin",
   "(3, 1, 1)": "Seattle, Washington, U.S.",
@@ -22,7 +22,7 @@
   "(5, 8, 1)": "Choreographer",
   "(5, 9, 1)": "Entrepreneur",
   "(6, 0, 1)": "Years active",
-  "(6, 1, 1)": "2008–present",
+  "(6, 1, 1)": "2008 present",
   "(7, 0, 1)": "Labels",
   "(7, 1, 1)": "JYP Entertainment",
   "(7, 2, 1)": "SidusHQ",
@@ -44,5 +44,5 @@
   "(8, 12, 1)": "Loco",
   "(9, 0, 1)": "Website",
   "(9, 1, 1)": "jaypark.com",
-  "(10, 0, 2)": "‹ The template Infobox Korean name is being considered for merging. ›"
+  "(10, 0, 2)": "The template Infobox Korean name is being considered for merging."
 }

@@ -1,6 +1,6 @@
 {
   "(0, 0, 2)": "ATR 42",
-  "(1, 0, 2)": "A HOP! ATR 42–500 on final approach at Toulouse–Blagnac Airport in 2013",
+  "(1, 0, 2)": "A HOP! ATR 42 500 on final approach at Toulouse Blagnac Airport in 2013",
   "(2, 0, 1)": "Role",
   "(2, 1, 1)": "Regional airliner",
   "(3, 0, 1)": "National origin",
@@ -13,14 +13,14 @@
   "(6, 1, 1)": "3 December 1985",
   "(7, 0, 1)": "Status",
   "(7, 1, 1)": "In service",
-  "(8, 0, 1)": "Primary users",
+  "(8, 0, 1)": "Primary users",
   "(8, 1, 1)": "FedEx Feeder, Aeromar, First Air, HOP!",
   "(9, 0, 1)": "Produced",
-  "(9, 1, 1)": "1984–present",
+  "(9, 1, 1)": "1984 present",
   "(10, 0, 1)": "Number built",
   "(10, 1, 1)": "476 (as of July 2017)",
   "(11, 0, 1)": "Unit cost",
-  "(11, 1, 1)": "42–600: $19.5 million (2012)",
+  "(11, 1, 1)": "42 600: $19.5 million (2012)",
   "(12, 0, 1)": "Variants",
   "(12, 1, 1)": "ATR 72"
 }

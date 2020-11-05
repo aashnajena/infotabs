@@ -1,9 +1,9 @@
 {
   "(0, 0, 2)": "Hypatia",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": "c. 350–370 AD, Alexandria, Province of Egypt, Eastern Roman Empire",
+  "(1, 1, 1)": "c. 350 370 AD, Alexandria, Province of Egypt, Eastern Roman Empire",
   "(2, 0, 1)": "Died",
-  "(2, 1, 1)": "March 415 AD (aged 44–65), Alexandria, Province of Egypt, Eastern Roman Empire",
+  "(2, 1, 1)": "March 415 AD (aged 44 65), Alexandria, Province of Egypt, Eastern Roman Empire",
   "(3, 0, 1)": "Era",
   "(3, 1, 1)": "Ancient philosophy",
   "(4, 0, 1)": "Region",
@@ -11,7 +11,7 @@
   "(5, 0, 1)": "School",
   "(5, 1, 1)": "Neoplatonism",
   "(6, 0, 1)": "Main interests",
-  "(6, 1, 1)": "Mathematics, Astronomy, ",
-  "(7, 0, 2)": "InfluencesPlato, Plotinus, Aristotle, Theon of Alexandria, , ",
-  "(8, 0, 2)": "InfluencedDamascius, Synesius of Cyrene, , "
+  "(6, 1, 1)": "Mathematics, Astronomy",
+  "(7, 0, 2)": "InfluencesPlato, Plotinus, Aristotle, Theon of Alexandria, ",
+  "(8, 0, 2)": "InfluencedDamascius, Synesius of Cyrene, "
 }

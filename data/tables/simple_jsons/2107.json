@@ -1,8 +1,8 @@
 {
   "(0, 0, 2)": "Eid al-Fitr",
   "(1, 0, 1)": "Official name",
-  "(1, 1, 1)": "Arabic: عيد الفطر‎, romanized: ‘Īd al-Fiṭr",
-  "(2, 0, 1)": "Observed by",
+  "(1, 1, 1)": "Arabic:    , romanized: d al-Fi r",
+  "(2, 0, 1)": "Observed by",
   "(2, 1, 1)": "Muslims",
   "(3, 0, 1)": "Type",
   "(3, 1, 1)": "Islamic",
@@ -14,10 +14,10 @@
   "(6, 1, 1)": "Eid prayers, charity-giving",
   "(7, 0, 1)": "Date",
   "(7, 1, 1)": "1 Shawwal",
-  "(8, 0, 1)": "2019 date",
+  "(8, 0, 1)": "2019 date",
   "(8, 1, 1)": "4 June (Saudi Arabia and some other countries)5 June (Pakistan and some other countries)",
-  "(9, 0, 1)": "2020 date",
-  "(9, 1, 1)": "24 May (expected – may differ 1 day dependent on sighting of lunar crescent)",
-  "(10, 0, 1)": "Related to",
+  "(9, 0, 1)": "2020 date",
+  "(9, 1, 1)": "24 May (expected  may differ 1 day dependent on sighting of lunar crescent)",
+  "(10, 0, 1)": "Related to",
   "(10, 1, 1)": "Ramadan, Eid al-Adha"
 }

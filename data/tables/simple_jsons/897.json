@@ -1,15 +1,15 @@
 {
   "(0, 0, 2)": "Bristol",
-  "(1, 0, 1)": " • Type",
+  "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Unitary authority",
-  "(2, 0, 1)": " • Governing body",
+  "(2, 0, 1)": "Governing body",
   "(2, 1, 1)": "Bristol City Council",
-  "(3, 0, 1)": " • Admin HQ",
-  "(3, 1, 1)": "City Hall,, College Green, ",
-  "(4, 0, 1)": " • Leadership",
+  "(3, 0, 1)": "Admin HQ",
+  "(3, 1, 1)": "City Hall,, College Green",
+  "(4, 0, 1)": "Leadership",
   "(4, 1, 1)": "Mayor and Cabinet",
-  "(5, 0, 1)": " • Mayor",
+  "(5, 0, 1)": "Mayor",
   "(5, 1, 1)": "Marvin Rees (Lab)",
-  "(6, 0, 1)": " • MPs",
+  "(6, 0, 1)": "MPs",
   "(6, 1, 1)": "Kerry McCarthy (Lab), Darren Jones (Lab), Karin Smyth (Lab), Thangam Debbonaire (Lab)Urban,  Chris Skidmore (Con) ,  Jack Lopresti (Con)"
 }

@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Jacques Cousteau",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": "Jacques-Yves Cousteau, (1910-06-11)11 June 1910, Saint-André-de-Cubzac, France",
+  "(1, 1, 1)": "Jacques-Yves Cousteau, (1910-06-11)11 June 1910, Saint-Andr -de-Cubzac, France",
   "(2, 0, 1)": "Died",
   "(2, 1, 1)": "25 June 1997(1997-06-25) (aged 87), Paris, France",
   "(3, 0, 1)": "Nationality",
@@ -9,7 +9,7 @@
   "(4, 0, 1)": "Occupation",
   "(4, 1, 1)": "Oceanographer",
   "(5, 0, 1)": "Spouse(s)",
-  "(5, 1, 1)": "Simone Melchior Cousteau (1937–1990, her death), Francine Triplet Cousteau (1991–1997), ",
+  "(5, 1, 1)": "Simone Melchior Cousteau (1937 1990, her death), Francine Triplet Cousteau (1991 1997)",
   "(6, 0, 1)": "Children",
   "(6, 1, 1)": "4, Jean-Michel, Philippe Cousteau, Diane, and Pierre-Yves."
 }

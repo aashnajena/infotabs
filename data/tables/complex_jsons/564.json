@@ -3,7 +3,7 @@
   "(1, 0, 1)": "Birth name",
   "(1, 1, 1)": "Daniel Robert Elfman",
   "(2, 0, 1)": "Born",
-  "(2, 1, 1)": " (1953-05-29) May 29, 1953 (age 65)",
+  "(2, 1, 1)": "(1953-05-29) May 29, 1953 (age 65)",
   "(2, 2, 1)": "Los Angeles, California, U.S.",
   "(3, 0, 1)": "Genres",
   "(3, 1, 1)": "Rock",
@@ -20,7 +20,7 @@
   "(5, 4, 1)": "vocals",
   "(5, 5, 1)": "keyboards",
   "(6, 0, 1)": "Years active",
-  "(6, 1, 1)": "1972–present",
+  "(6, 1, 1)": "1972 present",
   "(7, 0, 1)": "Associated acts",
   "(7, 1, 1)": "Oingo Boingo",
   "(7, 2, 1)": "James Newton Howard"

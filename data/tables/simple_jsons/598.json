@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Cillian Murphy",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": " (1976-05-25) 25 May 1976 (age 42), Douglas, County Cork, Ireland",
+  "(1, 1, 1)": "(1976-05-25) 25 May 1976 (age 42), Douglas, County Cork, Ireland",
   "(2, 0, 1)": "Nationality",
   "(2, 1, 1)": "Irish",
   "(3, 0, 1)": "Alma mater",
@@ -9,7 +9,7 @@
   "(4, 0, 1)": "Occupation",
   "(4, 1, 1)": "Actor",
   "(5, 0, 1)": "Years active",
-  "(5, 1, 1)": "1996–present",
+  "(5, 1, 1)": "1996 present",
   "(6, 0, 1)": "Spouse(s)",
   "(6, 1, 1)": "Yvonne McGuinness (m. 2004)",
   "(7, 0, 1)": "Children",

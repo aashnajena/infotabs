@@ -1,7 +1,6 @@
 {
   "(0, 0, 2)": "Dangal",
   "(1, 0, 1)": "Hindi",
-  "(1, 1, 1)": "दंगल",
   "(2, 0, 1)": "Directed by",
   "(2, 1, 1)": "Nitesh Tiwari",
   "(3, 0, 1)": "Produced by",
@@ -31,10 +30,10 @@
   "(9, 0, 1)": "Edited by",
   "(9, 1, 1)": "Ballu Saluja",
   "(10, 0, 1)": "Production",
-  "(10, 1, 1)": "company ",
+  "(10, 1, 1)": "company",
   "(10, 2, 1)": "Aamir Khan Productions",
   "(10, 3, 1)": "UTV Motion Pictures",
-  "(10, 4, 1)": "Walt Disney Pictures India ",
+  "(10, 4, 1)": "Walt Disney Pictures India",
   "(11, 0, 1)": "Distributed by",
   "(11, 1, 1)": "Walt Disney Studios",
   "(11, 2, 1)": "Motion Pictures",
@@ -47,10 +46,10 @@
   "(14, 0, 1)": "Country",
   "(14, 1, 1)": "India",
   "(15, 0, 1)": "Language",
-  "(15, 1, 1)": "Hindi ",
-  "(15, 2, 1)": " Haryanvi",
+  "(15, 1, 1)": "Hindi",
+  "(15, 2, 1)": "Haryanvi",
   "(16, 0, 1)": "Budget",
-  "(16, 1, 1)": " 70 crore",
+  "(16, 1, 1)": "70 crore",
   "(17, 0, 1)": "Box office",
-  "(17, 1, 1)": " 2,060–2,100 crore (US$312–340 million)"
+  "(17, 1, 1)": "2,060 2,100 crore (US$312 340 million)"
 }

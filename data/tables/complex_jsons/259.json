@@ -1,6 +1,5 @@
 {
   "(0, 0, 2)": "Corinth",
-  "(0, 1, 1)": "Κόρινθος",
   "(1, 0, 1)": "Country",
   "(1, 1, 1)": "Greece",
   "(2, 0, 1)": "Administrative region",
@@ -9,7 +8,7 @@
   "(3, 1, 1)": "Corinthia",
   "(4, 0, 1)": "Municipality",
   "(4, 1, 1)": "Corinth",
-  "(5, 0, 1)": " • Municipal unit",
+  "(5, 0, 1)": "Municipal unit",
   "(5, 1, 1)": "102.19 km2 (39.46 sq mi)",
   "(6, 0, 1)": "Highest elevation",
   "(6, 1, 1)": "10 m (30 ft)",

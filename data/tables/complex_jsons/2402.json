@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Hall & Oates",
   "(1, 0, 1)": "Origin",
-  "(1, 1, 1)": "Philadelphia, Pennsylvania, ",
+  "(1, 1, 1)": "Philadelphia, Pennsylvania",
   "(1, 2, 1)": "United States",
   "(2, 0, 1)": "Genres",
   "(2, 1, 1)": "Pop rock",
@@ -9,7 +9,7 @@
   "(2, 3, 1)": "soft rock",
   "(2, 4, 1)": "rhythm and blues",
   "(3, 0, 1)": "Years active",
-  "(3, 1, 1)": "1970–present",
+  "(3, 1, 1)": "1970 present",
   "(4, 0, 1)": "Labels",
   "(4, 1, 1)": "Atlantic",
   "(4, 2, 1)": "RCA",

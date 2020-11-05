@@ -11,13 +11,13 @@
   "(5, 0, 1)": "Political party",
   "(5, 1, 1)": "Democratic",
   "(6, 0, 1)": "Spouse(s)",
-  "(6, 1, 1)": "John F. Kennedy, (m. 1953; died 1963), Aristotle Onassis, (m. 1968; died 1975), ",
+  "(6, 1, 1)": "John F. Kennedy, (m. 1953; died 1963), Aristotle Onassis, (m. 1968; died 1975)",
   "(7, 0, 1)": "Domestic partner",
-  "(7, 1, 1)": "Maurice Tempelsman (1980–1994)",
+  "(7, 1, 1)": "Maurice Tempelsman (1980 1994)",
   "(8, 0, 1)": "Children",
-  "(8, 1, 1)": "Arabella, Caroline, John Jr., Patrick, ",
+  "(8, 1, 1)": "Arabella, Caroline, John Jr., Patrick",
   "(9, 0, 1)": "Parents",
-  "(9, 1, 1)": "John Vernou Bouvier III, Janet Lee Bouvier, ",
+  "(9, 1, 1)": "John Vernou Bouvier III, Janet Lee Bouvier",
   "(10, 0, 1)": "Education",
   "(10, 1, 1)": "Vassar College, George Washington University (BA)"
 }

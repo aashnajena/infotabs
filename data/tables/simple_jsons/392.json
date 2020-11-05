@@ -3,13 +3,13 @@
   "(1, 0, 1)": "Origin",
   "(1, 1, 1)": "London, England",
   "(2, 0, 1)": "Genres",
-  "(2, 1, 1)": "Acid jazz, funk, R&B, disco, ",
+  "(2, 1, 1)": "Acid jazz, funk, R&B, disco",
   "(3, 0, 1)": "Years active",
-  "(3, 1, 1)": "1992–present",
+  "(3, 1, 1)": "1992 present",
   "(4, 0, 1)": "Labels",
-  "(4, 1, 1)": "Acid Jazz, Sony Soho2, Columbia, Work, Epic, Universal, Mercury, Virgin EMI, ",
+  "(4, 1, 1)": "Acid Jazz, Sony Soho2, Columbia, Work, Epic, Universal, Mercury, Virgin EMI",
   "(5, 0, 1)": "Associated acts",
-  "(5, 1, 1)": "Brand New Heavies, Radio Silence, ",
+  "(5, 1, 1)": "Brand New Heavies, Radio Silence",
   "(6, 0, 1)": "Website",
   "(6, 1, 1)": "jamiroquai.com"
 }

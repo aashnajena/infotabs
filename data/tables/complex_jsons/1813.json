@@ -24,7 +24,7 @@
   "(7, 0, 1)": "Edited by",
   "(7, 1, 1)": "Julio C. Perez IV",
   "(8, 0, 1)": "Production",
-  "(8, 1, 1)": "company ",
+  "(8, 1, 1)": "company",
   "(8, 2, 1)": "Northern Lights Films",
   "(8, 3, 1)": "Animal Kingdom",
   "(8, 4, 1)": "Two Flints",
@@ -33,9 +33,6 @@
   "(10, 0, 1)": "Release date",
   "(10, 1, 1)": "May 17, 2014 (2014-05-17) (Cannes)",
   "(10, 2, 1)": "March 13, 2015 (2015-03-13) (United States)",
-  "(10, 3, 1)": "",
-  "(10, 4, 1)": "",
-  "(10, 5, 1)": "",
   "(11, 0, 1)": "Running time",
   "(11, 1, 1)": "100 minutes",
   "(12, 0, 1)": "Country",
@@ -45,5 +42,5 @@
   "(14, 0, 1)": "Budget",
   "(14, 1, 1)": "$2 million",
   "(15, 0, 1)": "Box office",
-  "(15, 1, 1)": "$23.3 million "
+  "(15, 1, 1)": "$23.3 million"
 }

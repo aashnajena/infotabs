@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "J4 College Park–Bethesda MetroExtra line",
+  "(0, 0, 2)": "J4 College Park Bethesda MetroExtra line",
   "(1, 0, 1)": "System",
   "(1, 1, 1)": "Metrobus",
   "(2, 0, 1)": "Operator",
@@ -17,9 +17,9 @@
   "(8, 0, 1)": "Communities served",
   "(8, 1, 1)": "College Park, Maryland, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Silver Spring, Maryland, Rock Creek Forest, Chevy Chase, Maryland, Bethesda, Maryland",
   "(9, 0, 1)": "Landmarks served",
-  "(9, 1, 1)": "College Park–University of Maryland station, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Takoma Langley Crossroads Transit Center, Silver Spring station, Rock Creek Forest, Chevy Chase, Maryland, Bethesda station",
+  "(9, 1, 1)": "College Park University of Maryland station, University Of Maryland, Langley Park, Maryland, Takoma Park, Maryland, Takoma Langley Crossroads Transit Center, Silver Spring station, Rock Creek Forest, Chevy Chase, Maryland, Bethesda station",
   "(10, 0, 1)": "Start",
-  "(10, 1, 1)": "College Park–University of Maryland station",
+  "(10, 1, 1)": "College Park University of Maryland station",
   "(11, 0, 1)": "Via",
   "(11, 1, 1)": "River Road, Paint Branch Parkway, Campus Drive, University Boulevard, New Hampshire Avenue, Piney Branch Road, Flower Avenue, Wayne Avenue, Colesville Road, East-West Highway",
   "(12, 0, 1)": "End",
@@ -29,7 +29,7 @@
   "(14, 0, 1)": "Frequency",
   "(14, 1, 1)": "20 minutes",
   "(15, 0, 1)": "Operates",
-  "(15, 1, 1)": "5:20 AM – 9:30 AM, 3:25 PM – 7:45 PM",
+  "(15, 1, 1)": "5:20 AM   9:30 AM, 3:25 PM   7:45 PM",
   "(16, 0, 1)": "Transfers",
   "(16, 1, 1)": "SmarTrip only"
 }

@@ -1,15 +1,15 @@
 {
   "(0, 0, 2)": "Culver City, California",
-  "(1, 0, 1)": " • Type",
+  "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Council-manager",
-  "(2, 0, 1)": " • Mayor",
+  "(2, 0, 1)": "Mayor",
   "(2, 1, 1)": "Thomas Aujero Small",
-  "(3, 0, 1)": " • Vice mayor",
+  "(3, 0, 1)": "Vice mayor",
   "(3, 1, 1)": "Meghan Sahli-Wells",
-  "(4, 0, 1)": " • City council",
-  "(4, 1, 1)": "Göran Eriksson ",
-  "(4, 2, 1)": " Alex Fisch ",
-  "(4, 3, 1)": " Daniel Lee",
-  "(5, 0, 1)": " • City Manager",
+  "(4, 0, 1)": "City council",
+  "(4, 1, 1)": "G ran Eriksson",
+  "(4, 2, 1)": "Alex Fisch",
+  "(4, 3, 1)": "Daniel Lee",
+  "(5, 0, 1)": "City Manager",
   "(5, 1, 1)": "John M. Nachbar"
 }

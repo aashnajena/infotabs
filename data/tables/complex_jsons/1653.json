@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Jeff Sessions",
   "(1, 0, 2)": "In office",
-  "(1, 1, 1)": "February 9, 2017 – November 7, 2018",
+  "(1, 1, 1)": "February 9, 2017  November 7, 2018",
   "(2, 0, 1)": "President",
   "(2, 1, 1)": "Donald Trump",
   "(3, 0, 1)": "Deputy",
@@ -10,6 +10,6 @@
   "(4, 0, 1)": "Preceded by",
   "(4, 1, 1)": "Loretta Lynch",
   "(5, 0, 1)": "Succeeded by",
-  "(5, 1, 1)": "Matthew Whitaker (acting) ",
-  "(5, 2, 1)": " William Barr (nominee)"
+  "(5, 1, 1)": "Matthew Whitaker (acting)",
+  "(5, 2, 1)": "William Barr (nominee)"
 }

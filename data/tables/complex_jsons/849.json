@@ -20,7 +20,7 @@
   "(8, 0, 1)": "Edited by",
   "(8, 1, 1)": "Hemanti Sarkar",
   "(9, 0, 1)": "Production",
-  "(9, 1, 1)": "companies ",
+  "(9, 1, 1)": "companies",
   "(9, 2, 1)": "Red Chillies Entertainment",
   "(9, 3, 1)": "Dharma Productions",
   "(9, 4, 1)": "Hope Productions",
@@ -29,9 +29,6 @@
   "(11, 0, 1)": "Release date",
   "(11, 1, 1)": "23 November 2016 (2016-11-23) (North America)",
   "(11, 2, 1)": "25 November 2016 (2016-11-25) (Worldwide)",
-  "(11, 3, 1)": "",
-  "(11, 4, 1)": "",
-  "(11, 5, 1)": "",
   "(12, 0, 1)": "Running time",
   "(12, 1, 1)": "150 minutes",
   "(13, 0, 1)": "Country",
@@ -39,7 +36,7 @@
   "(14, 0, 1)": "Language",
   "(14, 1, 1)": "Hindi",
   "(15, 0, 1)": "Budget",
-  "(15, 1, 1)": " 220 million",
+  "(15, 1, 1)": "220 million",
   "(16, 0, 1)": "Box office",
   "(16, 1, 1)": "est.  1392.9 million"
 }

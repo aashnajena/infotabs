@@ -1,13 +1,13 @@
 {
   "(0, 0, 2)": "Cagayan de Oro",
-  "(1, 0, 1)": " • Type",
+  "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Sangguniang Panlungsod",
-  "(2, 0, 1)": " • Mayor",
+  "(2, 0, 1)": "Mayor",
   "(2, 1, 1)": "Oscar Moreno (PDP-Laban)",
-  "(3, 0, 1)": " • Vice Mayor",
+  "(3, 0, 1)": "Vice Mayor",
   "(3, 1, 1)": "Rainier Joaquin Uy (PDP-Laban)",
-  "(4, 0, 1)": " • Congressman",
-  "(4, 1, 1)": "Rolando Uy (1st) (PDP-Laban), Maximo Rodriguez (2nd) (PDP-Laban), ",
-  "(5, 0, 1)": " • Electorate",
+  "(4, 0, 1)": "Congressman",
+  "(4, 1, 1)": "Rolando Uy (1st) (PDP-Laban), Maximo Rodriguez (2nd) (PDP-Laban)",
+  "(5, 0, 1)": "Electorate",
   "(5, 1, 1)": "305,321 voters (2016)"
 }

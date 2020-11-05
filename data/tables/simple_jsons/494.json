@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "Clément Ader",
+  "(0, 0, 2)": "Cl ment Ader",
   "(1, 0, 1)": "Born",
   "(1, 1, 1)": "(1841-04-02)2 April 1841, Muret, Haute-Garonne, France",
   "(2, 0, 1)": "Died",
@@ -10,11 +10,11 @@
   "(4, 1, 1)": "Engineer",
   "(5, 0, 2)": "Engineering career",
   "(6, 0, 1)": "Discipline",
-  "(6, 1, 1)": "Electrical engineering, mechanical engineering, aircraft design, ",
+  "(6, 1, 1)": "Electrical engineering, mechanical engineering, aircraft design",
   "(7, 0, 1)": "Projects",
-  "(7, 1, 1)": "Théâtrophone, L'Aviation Militaire, ",
+  "(7, 1, 1)": "Th trophone, L'Aviation Militaire",
   "(8, 0, 1)": "Significant design",
-  "(8, 1, 1)": "Éole, Avion III, ",
+  "(8, 1, 1)": "ole, Avion III",
   "(9, 0, 1)": "Significant advance",
   "(9, 1, 1)": "First self-propelled flight (1890)"
 }

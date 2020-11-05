@@ -1,13 +1,13 @@
 {
   "(0, 0, 2)": "Keerthy Suresh",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": " (1992-10-17) 17 October 1992 (age 26), Chennai, Tamil Nadu, India",
+  "(1, 1, 1)": "(1992-10-17) 17 October 1992 (age 26), Chennai, Tamil Nadu, India",
   "(2, 0, 1)": "Nationality",
   "(2, 1, 1)": "Indian",
   "(3, 0, 1)": "Occupation",
-  "(3, 1, 1)": "Actress, model, ",
-  "(4, 0, 1)": "Years active",
-  "(4, 1, 1)": "2000–2002; 2013–present",
+  "(3, 1, 1)": "Actress, model",
+  "(4, 0, 1)": "Years active",
+  "(4, 1, 1)": "2000 2002; 2013 present",
   "(5, 0, 1)": "Parent(s)",
   "(5, 1, 1)": "G. Suresh Kumar, Menaka"
 }

@@ -11,7 +11,7 @@
   "(5, 0, 1)": "Treatment",
   "(5, 1, 1)": "Surgery, radiation therapy, chemotherapy, hormonal therapy, targeted therapy",
   "(6, 0, 1)": "Prognosis",
-  "(6, 1, 1)": "Five-year survival rate ≈85% (US, UK)",
+  "(6, 1, 1)": "Five-year survival rate  85% (US, UK)",
   "(7, 0, 1)": "Frequency",
   "(7, 1, 1)": "2.1 million affected as of 2015",
   "(8, 0, 1)": "Deaths",

@@ -1,11 +1,9 @@
 {
   "(0, 0, 2)": "Gwonbeop",
   "(1, 0, 1)": "Hangul",
-  "(1, 1, 1)": "권법",
   "(2, 0, 1)": "Hanja",
-  "(2, 1, 1)": "拳法",
   "(3, 0, 1)": "Revised Romanization",
   "(3, 1, 1)": "Gwonbeop",
-  "(4, 0, 1)": "McCune–Reischauer",
-  "(4, 1, 1)": "Kwŏnpŏp"
+  "(4, 0, 1)": "McCune Reischauer",
+  "(4, 1, 1)": "Kw np p"
 }

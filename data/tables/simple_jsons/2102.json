@@ -1,10 +1,10 @@
 {
   "(0, 0, 2)": "Dongzhi Festival",
   "(1, 0, 1)": "Official name",
-  "(1, 1, 1)": "Dongzhi (冬至)",
+  "(1, 1, 1)": "Dongzhi ( )",
   "(2, 0, 1)": "Also called",
-  "(2, 1, 1)": "Tang-cheh (冬節), Tōji (冬至), Dongji (동지)",
-  "(3, 0, 1)": "Observed by",
+  "(2, 1, 1)": "Tang-cheh ( ), T ji ( ), Dongji ( )",
+  "(3, 0, 1)": "Observed by",
   "(3, 1, 1)": "Chinese, Japanese, Koreans",
   "(4, 0, 1)": "Type",
   "(4, 1, 1)": "Cultural",
@@ -16,6 +16,6 @@
   "(7, 1, 1)": "Winter solstice (between December 21 and December 23)",
   "(8, 0, 1)": "Frequency",
   "(8, 1, 1)": "annual",
-  "(9, 0, 1)": "Related to",
+  "(9, 0, 1)": "Related to",
   "(9, 1, 1)": "Winter solstice"
 }

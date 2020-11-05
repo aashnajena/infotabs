@@ -1,6 +1,5 @@
 {
   "(0, 0, 2)": "Chengdu",
-  "(0, 1, 1)": "成都市",
   "(1, 0, 1)": "Country",
   "(1, 1, 1)": "People's Republic of China",
   "(2, 0, 1)": "Province",
@@ -10,6 +9,6 @@
   "(4, 0, 1)": "Municipal seat",
   "(4, 1, 1)": "Wuhou District",
   "(5, 0, 1)": "Divisions",
-  "(5, 1, 1)": " - County-level",
+  "(5, 1, 1)": "- County-level",
   "(5, 2, 1)": "10 districts, 5 county-level cities, 5 counties"
 }

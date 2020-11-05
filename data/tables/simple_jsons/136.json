@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "Federation of Arab Republics, اتحاد الجمهوريات العربية, Ittiḥād al-Jumhūrīyāt al-‘Arabīyah",
+  "(0, 0, 2)": "Federation of Arab Republics,      , Itti d al-Jumh r y t al- Arab yah",
   "(1, 0, 1)": "Capital",
   "(1, 1, 1)": "Tripoli (Libya), Cairo (Egypt), Damascus (Syria)",
   "(2, 0, 1)": "Common languages",
@@ -10,10 +10,10 @@
   "(4, 1, 1)": "Federal National Assembly",
   "(5, 0, 1)": "Historical era",
   "(5, 1, 1)": "Arab Cold War",
-  "(6, 0, 1)": "• Referenda held ",
+  "(6, 0, 1)": "Referenda held",
   "(6, 1, 1)": "1 September 1971",
-  "(7, 0, 1)": "• Federation established ",
+  "(7, 0, 1)": "Federation established",
   "(7, 1, 1)": "1 January 1972",
-  "(8, 0, 1)": "• Disestablished ",
+  "(8, 0, 1)": "Disestablished",
   "(8, 1, 1)": "19 November 1977"
 }

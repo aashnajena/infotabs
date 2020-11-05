@@ -1,15 +1,15 @@
 {
   "(0, 0, 2)": "City of London",
-  "(1, 0, 1)": " • Body",
+  "(1, 0, 1)": "Body",
   "(1, 1, 1)": "City of London Corporation",
-  "(2, 0, 1)": " • Lord Mayor",
+  "(2, 0, 1)": "Lord Mayor",
   "(2, 1, 1)": "Peter Estlin",
-  "(3, 0, 1)": " • Town Clerk",
+  "(3, 0, 1)": "Town Clerk",
   "(3, 1, 1)": "John Barradell",
-  "(4, 0, 1)": " • Admin HQ",
+  "(4, 0, 1)": "Admin HQ",
   "(4, 1, 1)": "Guildhall",
-  "(5, 0, 1)": " • London Assembly",
+  "(5, 0, 1)": "London Assembly",
   "(5, 1, 1)": "Unmesh Desai (Lab; City and East)",
-  "(6, 0, 1)": " • UK Parliament",
+  "(6, 0, 1)": "UK Parliament",
   "(6, 1, 1)": "Mark Field (Con; Cities of London and Westminster)"
 }

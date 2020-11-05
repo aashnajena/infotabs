@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "Jaroslav Heyrovský",
+  "(0, 0, 2)": "Jaroslav Heyrovsk",
   "(1, 0, 1)": "Born",
   "(1, 1, 1)": "(1890-12-20)December 20, 1890, Prague, Bohemia",
   "(2, 0, 1)": "Died",
@@ -7,14 +7,14 @@
   "(3, 0, 1)": "Nationality",
   "(3, 1, 1)": "Czechoslovakia",
   "(4, 0, 1)": "Alma mater",
-  "(4, 1, 1)": "Charles University, University College London, ",
+  "(4, 1, 1)": "Charles University, University College London",
   "(5, 0, 1)": "Known for",
   "(5, 1, 1)": "Electroanalytical chemistry,  Polarography",
   "(6, 0, 1)": "Awards",
-  "(6, 1, 1)": "Nobel Prize for Chemistry (1959), ForMemRS, ",
+  "(6, 1, 1)": "Nobel Prize for Chemistry (1959), ForMemRS",
   "(7, 0, 2)": "Scientific career",
   "(8, 0, 1)": "Fields",
-  "(8, 1, 1)": "Polarography, Electroanalytical chemistry, ",
+  "(8, 1, 1)": "Polarography, Electroanalytical chemistry",
   "(9, 0, 1)": "Institutions",
   "(9, 1, 1)": "Royal Air Force"
 }

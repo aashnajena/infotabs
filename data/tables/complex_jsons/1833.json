@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Ivar Jacobson",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": " (1939-09-02) September 2, 1939 (age 79)",
+  "(1, 1, 1)": "(1939-09-02) September 2, 1939 (age 79)",
   "(1, 2, 1)": "Ystad, Sweden",
   "(2, 0, 1)": "Residence",
   "(2, 1, 1)": "Switzerland",
@@ -17,7 +17,7 @@
   "(8, 0, 1)": "Institutions",
   "(8, 1, 1)": "Ericsson, Objective Systems, Rational Software, IBM, Ivar Jacobson International",
   "(9, 0, 1)": "Influences",
-  "(9, 1, 1)": "Göran Hemdahl, Dines Bjørner, Grady Booch, James Rumbaugh",
+  "(9, 1, 1)": "G ran Hemdahl, Dines Bj rner, Grady Booch, James Rumbaugh",
   "(10, 0, 1)": "Influenced",
   "(10, 1, 1)": "Grady Booch, James Rumbaugh"
 }

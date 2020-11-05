@@ -1,7 +1,6 @@
 {
   "(0, 0, 1)": "Shaft, Inc.",
   "(1, 0, 1)": "Native name",
-  "(1, 1, 1)": "株式会社シャフト",
   "(2, 0, 1)": "Romanized name",
   "(2, 1, 1)": "Kabushiki-gaisha Shafuto",
   "(3, 0, 1)": "Type",
@@ -11,7 +10,7 @@
   "(5, 0, 1)": "Genre",
   "(5, 1, 1)": "Various",
   "(6, 0, 1)": "Founded",
-  "(6, 1, 1)": "September 1, 1975; 44 years ago (1975-09-01)",
+  "(6, 1, 1)": "September 1, 1975; 44 years ago (1975-09-01)",
   "(7, 0, 1)": "Founder",
   "(7, 1, 1)": "Hiroshi Wakao",
   "(8, 0, 1)": "Headquarters",
@@ -19,10 +18,10 @@
   "(9, 0, 1)": "Area served",
   "(9, 1, 1)": "Japan",
   "(10, 0, 1)": "Key people",
-  "(10, 1, 1)": "Mitsutoshi Kubota (President) ",
-  "(10, 2, 1)": " Akiyuki Shinbo (Executive director)",
+  "(10, 1, 1)": "Mitsutoshi Kubota (President)",
+  "(10, 2, 1)": "Akiyuki Shinbo (Executive director)",
   "(11, 0, 1)": "Subsidiaries",
-  "(11, 1, 1)": "Digital@Shaft (2004–present)",
+  "(11, 1, 1)": "Digital@Shaft (2004 present)",
   "(12, 0, 1)": "Website",
   "(12, 1, 1)": "www.shaft-web.co.jp"
 }

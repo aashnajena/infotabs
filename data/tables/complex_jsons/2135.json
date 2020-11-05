@@ -5,12 +5,12 @@
   "(2, 0, 1)": "Slogan",
   "(2, 1, 1)": "Why pay first class for first class?",
   "(3, 0, 1)": "Compatible networks",
-  "(3, 1, 1)": "GSM/GPRS/EDGE 850/900/1800/1900 ",
-  "(3, 2, 1)": "HSPA900/2100 ",
-  "(3, 3, 1)": "HSDPA 7.2 Mbps ",
+  "(3, 1, 1)": "GSM/GPRS/EDGE 850/900/1800/1900",
+  "(3, 2, 1)": "HSPA900/2100",
+  "(3, 3, 1)": "HSDPA 7.2 Mbps",
   "(3, 4, 1)": "HSUPA 5.76 Mbps",
   "(4, 0, 1)": "First released",
-  "(4, 1, 1)": "October 2012 (2012-10)",
+  "(4, 1, 1)": "October 2012 (2012-10)",
   "(5, 0, 1)": "Related",
   "(5, 1, 1)": "Huawei Ascend P1",
   "(6, 0, 1)": "Type",
@@ -18,5 +18,5 @@
   "(7, 0, 1)": "Operating system",
   "(7, 1, 1)": "Android  4.0.4",
   "(8, 0, 1)": "Display",
-  "(8, 1, 1)": "Size 4.0″, Resolution WVGA (800x480 pixels)"
+  "(8, 1, 1)": "Size 4.0 , Resolution WVGA (800x480 pixels)"
 }

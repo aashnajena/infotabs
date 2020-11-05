@@ -3,7 +3,6 @@
   "(1, 0, 1)": "Other name(s)",
   "(1, 1, 1)": "M8s, Phase 3 of Shanghai Metro Line 8 (planned name)",
   "(2, 0, 1)": "Native name",
-  "(2, 1, 1)": "浦江线",
   "(3, 0, 1)": "Type",
   "(3, 1, 1)": "Rubber-tyred metro",
   "(4, 0, 1)": "System",
@@ -17,7 +16,7 @@
   "(8, 0, 1)": "Stations",
   "(8, 1, 1)": "6",
   "(9, 0, 1)": "Opened",
-  "(9, 1, 1)": "March 31, 2018; 18 months ago (2018-03-31)",
+  "(9, 1, 1)": "March 31, 2018; 18 months ago (2018-03-31)",
   "(10, 0, 1)": "Owner",
   "(10, 1, 1)": "Shanghai Shentong Metro Group Co., Ltd.",
   "(11, 0, 1)": "Operator(s)",
@@ -27,9 +26,9 @@
   "(13, 0, 1)": "Rolling stock",
   "(13, 1, 1)": "Bombardier Innovia APM 300 4-car trains",
   "(14, 0, 1)": "Line length",
-  "(14, 1, 1)": "6.689 km (4.16 mi)",
+  "(14, 1, 1)": "6.689 km (4.16 mi)",
   "(15, 0, 1)": "Number of tracks",
   "(15, 1, 1)": "2",
   "(16, 0, 1)": "Operating speed",
-  "(16, 1, 1)": "80 km/h (50 mph)"
+  "(16, 1, 1)": "80 km/h (50 mph)"
 }

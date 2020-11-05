@@ -2,7 +2,7 @@
   "(0, 0, 2)": "Conor McGregor",
   "(1, 0, 1)": "Born",
   "(1, 1, 1)": "Conor Anthony McGregor",
-  "(1, 2, 1)": " (1988-07-14) 14 July 1988 (age 30)",
+  "(1, 2, 1)": "(1988-07-14) 14 July 1988 (age 30)",
   "(1, 3, 1)": "Crumlin, Dublin, Ireland",
   "(2, 0, 1)": "Nickname(s)",
   "(2, 1, 1)": "The Notorious",
@@ -12,8 +12,8 @@
   "(4, 0, 1)": "Weight",
   "(4, 1, 1)": "155 lb (70 kg; 11 st 1 lb)",
   "(5, 0, 1)": "Division",
-  "(5, 1, 1)": "Featherweight (2008–2015)",
-  "(5, 2, 1)": "Lightweight (2008–2012, 2016–present)",
+  "(5, 1, 1)": "Featherweight (2008 2015)",
+  "(5, 2, 1)": "Lightweight (2008 2012, 2016 present)",
   "(5, 3, 1)": "Welterweight (2016)",
   "(6, 0, 1)": "Reach",
   "(6, 1, 1)": "74 in (188 cm)",
@@ -25,11 +25,11 @@
   "(9, 1, 1)": "John Kavanagh: Head coach",
   "(9, 2, 1)": "Owen Roddy: Boxing",
   "(9, 3, 1)": "John Connor: S&C",
-  "(9, 4, 1)": " Ido Portal: Movement",
+  "(9, 4, 1)": "Ido Portal: Movement",
   "(9, 5, 1)": "Sergey Pikulskiy: Wrestling",
   "(9, 6, 1)": "George Lockhart: Nutrition",
   "(10, 0, 1)": "Rank",
   "(10, 1, 1)": "Brown belt in Brazilian Jiu-Jitsu under John Kavanagh",
   "(11, 0, 1)": "Years active",
-  "(11, 1, 1)": "2008–present"
+  "(11, 1, 1)": "2008 present"
 }

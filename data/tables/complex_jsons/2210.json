@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "Settle–Carlisle line",
+  "(0, 0, 2)": "Settle Carlisle line",
   "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Main line",
   "(2, 0, 1)": "System",
@@ -11,9 +11,9 @@
   "(4, 2, 1)": "Yorkshire and the Humber",
   "(5, 0, 1)": "Termini",
   "(5, 1, 1)": "Settle",
-  "(5, 2, 1)": "54°04′01″N 2°16′51″W﻿ / ﻿54.0669°N 2.2807°W﻿ / 54.0669; -2.2807﻿ (Settle station)",
+  "(5, 2, 1)": "54 04 01 N 2 16 51 W  /  54.0669 N 2.2807 W  / 54.0669; -2.2807  (Settle station)",
   "(5, 3, 1)": "Carlisle",
-  "(5, 4, 1)": "54°53′28″N 2°56′01″W﻿ / ﻿54.8911°N 2.9335°W﻿ / 54.8911; -2.9335﻿ (Carlisle station)",
+  "(5, 4, 1)": "54 53 28 N 2 56 01 W  /  54.8911 N 2.9335 W  / 54.8911; -2.9335  (Carlisle station)",
   "(6, 0, 1)": "Stations",
   "(6, 1, 1)": "10",
   "(7, 0, 1)": "Services",
@@ -29,13 +29,13 @@
   "(12, 0, 1)": "Rolling stock",
   "(12, 1, 1)": "Primarily Class 158 and Class 153",
   "(13, 0, 1)": "Line length",
-  "(13, 1, 1)": "71.75 mi (115.47 km)",
+  "(13, 1, 1)": "71.75 mi (115.47 km)",
   "(14, 0, 1)": "Number of tracks",
   "(14, 1, 1)": "Double (except on the Ribblehead Viaduct)",
   "(15, 0, 1)": "Track gauge",
-  "(15, 1, 1)": "Standard gauge 4 ft 8 1⁄2 in (1,435 mm)",
+  "(15, 1, 1)": "Standard gauge 4 ft 8 1 2 in (1,435 mm)",
   "(16, 0, 1)": "Operating speed",
-  "(16, 1, 1)": "60 mph",
+  "(16, 1, 1)": "60 mph",
   "(17, 0, 1)": "Highest elevation",
-  "(17, 1, 1)": "Ais Gill (1,169 feet (356 m))"
+  "(17, 1, 1)": "Ais Gill (1,169 feet (356 m))"
 }

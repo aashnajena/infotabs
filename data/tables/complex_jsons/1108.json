@@ -1,15 +1,15 @@
 {
   "(0, 0, 2)": "Caloocan",
-  "(1, 0, 1)": " • Type",
+  "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Sangguniang Panlungsod",
-  "(2, 0, 1)": " • Mayor",
+  "(2, 0, 1)": "Mayor",
   "(2, 1, 1)": "Oscar Malapitan",
-  "(3, 0, 1)": " • Vice Mayor",
+  "(3, 0, 1)": "Vice Mayor",
   "(3, 1, 1)": "Macario Asistio III",
-  "(4, 0, 1)": " • Representative, 1st District",
+  "(4, 0, 1)": "Representative, 1st District",
   "(4, 1, 1)": "Dale Gonzalo Malapitan",
-  "(5, 0, 1)": " • Representative, 2nd District",
+  "(5, 0, 1)": "Representative, 2nd District",
   "(5, 1, 1)": "Edgar Erice",
-  "(6, 0, 1)": " • Electorate",
+  "(6, 0, 1)": "Electorate",
   "(6, 1, 1)": "648,933 voters (2016)"
 }

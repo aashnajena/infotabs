@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "George V",
   "(1, 0, 1)": "Reign",
-  "(1, 1, 1)": "6 May 1910 – 20 January 1936",
+  "(1, 1, 1)": "6 May 1910  20 January 1936",
   "(2, 0, 1)": "Coronation",
   "(2, 1, 1)": "22 June 1911",
   "(3, 0, 1)": "Imperial Durbar",
@@ -10,6 +10,6 @@
   "(4, 1, 1)": "Edward VII",
   "(5, 0, 1)": "Successor",
   "(5, 1, 1)": "Edward VIII",
-  "(6, 0, 1)": "Prime Ministers",
+  "(6, 0, 1)": "Prime Ministers",
   "(6, 1, 1)": "See list"
 }

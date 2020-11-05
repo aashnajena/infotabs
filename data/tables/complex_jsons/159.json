@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Kees Schouhamer Immink",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": " (1946-12-18) December 18, 1946 (age 72)",
+  "(1, 1, 1)": "(1946-12-18) December 18, 1946 (age 72)",
   "(1, 2, 1)": "Rotterdam, Netherlands",
   "(2, 0, 1)": "Residence",
   "(2, 1, 1)": "Netherlands",
@@ -24,6 +24,6 @@
   "(9, 0, 1)": "Institutions",
   "(9, 1, 1)": "Turing Machines Inc",
   "(9, 2, 1)": "Philips Research Laboratories",
-  "(9, 3, 1)": " Institute for Experimental Mathematics",
+  "(9, 3, 1)": "Institute for Experimental Mathematics",
   "(9, 4, 1)": "National University of Singapore"
 }

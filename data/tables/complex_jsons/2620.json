@@ -1,12 +1,12 @@
 {
   "(0, 0, 1)": "Booking Holdings Inc.",
   "(1, 0, 1)": "Formerly",
-  "(1, 1, 1)": "Priceline.com Incorporated (1998–2014)",
-  "(1, 2, 1)": "The Priceline Group Inc. (2014–2018)",
+  "(1, 1, 1)": "Priceline.com Incorporated (1998 2014)",
+  "(1, 2, 1)": "The Priceline Group Inc. (2014 2018)",
   "(2, 0, 1)": "Type",
   "(2, 1, 1)": "Public",
-  "(3, 0, 1)": "Traded as",
-  "(3, 1, 1)": "NASDAQ: BKNG",
+  "(3, 0, 1)": "Traded as",
+  "(3, 1, 1)": "NASDAQ: BKNG",
   "(3, 2, 1)": "NASDAQ-100 component",
   "(3, 3, 1)": "S&P 100 component",
   "(3, 4, 1)": "S&P 500 component",
@@ -14,7 +14,7 @@
   "(4, 1, 1)": "Travel",
   "(4, 2, 1)": "Technology",
   "(5, 0, 1)": "Founded",
-  "(5, 1, 1)": "1997; 22 years ago (1997)",
+  "(5, 1, 1)": "1997; 22 years ago (1997)",
   "(6, 0, 1)": "Founder",
   "(6, 1, 1)": "Jay S. Walker",
   "(7, 0, 1)": "Headquarters",
@@ -37,5 +37,5 @@
   "(10, 1, 1)": "24,500 (2019)",
   "(11, 0, 1)": "Website",
   "(11, 1, 1)": "bookingholdings.com",
-  "(12, 0, 2)": "Footnotes / references"
+  "(12, 0, 2)": "Footnotes / references"
 }

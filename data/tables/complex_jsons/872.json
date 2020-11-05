@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Cebu City",
-  "(0, 1, 1)": "Dakbayan sa Sugbu ",
-  "(0, 2, 1)": " Lungsod ng Cebu",
+  "(0, 1, 1)": "Dakbayan sa Sugbu",
+  "(0, 2, 1)": "Lungsod ng Cebu",
   "(1, 0, 1)": "Region",
   "(1, 1, 1)": "Central Visayas (Region VII)",
   "(2, 0, 1)": "Province",
@@ -12,7 +12,7 @@
   "(4, 1, 1)": "(as Spanish colony)",
   "(4, 2, 1)": "Reincorporated  (as city)",
   "(4, 3, 1)": "1565",
-  "(4, 4, 1)": " 24 February 1937",
+  "(4, 4, 1)": "24 February 1937",
   "(5, 0, 1)": "Barangays",
   "(5, 1, 1)": "80 (see Barangays)"
 }

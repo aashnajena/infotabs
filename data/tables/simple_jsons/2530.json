@@ -1,12 +1,12 @@
 {
   "(0, 0, 2)": "Chelsea Manning",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": "Bradley Edward Manning,  (1987-12-17) December 17, 1987 (age 31), Crescent, Oklahoma, U.S.",
+  "(1, 1, 1)": "Bradley Edward Manning,  (1987-12-17) December 17, 1987 (age 31), Crescent, Oklahoma, U.S.",
   "(2, 0, 1)": "Residence",
   "(2, 1, 1)": "North Bethesda, Maryland, U.S.",
   "(3, 0, 1)": "Nationality",
   "(3, 1, 1)": "American",
-  "(4, 0, 1)": "Known for",
+  "(4, 0, 1)": "Known for",
   "(4, 1, 1)": "Classified document disclosure to WikiLeaks",
   "(5, 0, 1)": "Political party",
   "(5, 1, 1)": "Democratic",
@@ -19,10 +19,10 @@
   "(9, 1, 1)": "United States",
   "(10, 0, 1)": "Service/branch",
   "(10, 1, 1)": "United States Army",
-  "(11, 0, 1)": "Years of service",
-  "(11, 1, 1)": "Active duty: 2007–2010, Confinement: 2010–2017, ",
+  "(11, 0, 1)": "Years of service",
+  "(11, 1, 1)": "Active duty: 2007 2010, Confinement: 2010 2017",
   "(12, 0, 1)": "Unit",
   "(12, 1, 1)": "2nd BCT, 10th Mountain Division (former)",
   "(13, 0, 1)": "Awards",
-  "(13, 1, 1)": "National Defense Service Medal, Global War on Terrorism Service Medal, Army Service Ribbon, Overseas Service Ribbon, Iraq Campaign Medal, "
+  "(13, 1, 1)": "National Defense Service Medal, Global War on Terrorism Service Medal, Army Service Ribbon, Overseas Service Ribbon, Iraq Campaign Medal"
 }

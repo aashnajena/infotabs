@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Seoul Subway Line 3",
   "(1, 0, 1)": "Native name",
-  "(1, 1, 1)": "3호선（三號線）",
+  "(1, 1, 1)": "3",
   "(1, 2, 1)": "Sam Hoseon",
   "(2, 0, 1)": "Type",
   "(2, 1, 1)": "Rapid transit",
@@ -21,9 +21,9 @@
   "(8, 0, 1)": "Operator(s)",
   "(8, 1, 1)": "Seoul Metro & Korail",
   "(9, 0, 1)": "Line length",
-  "(9, 1, 1)": "57.4 km (35.7 mi)",
-  "(9, 2, 1)": "38.2 km (23.7 mi) Seoul Metro",
-  "(9, 3, 1)": "19.2 km (11.9 mi) Korail",
+  "(9, 1, 1)": "57.4 km (35.7 mi)",
+  "(9, 2, 1)": "38.2 km (23.7 mi) Seoul Metro",
+  "(9, 3, 1)": "19.2 km (11.9 mi) Korail",
   "(10, 0, 1)": "Number of tracks",
   "(10, 1, 1)": "2"
 }

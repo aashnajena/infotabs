@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Jacques Charles",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": "November 12, 1746 (1746-11-12), Beaugency, Orléanais",
+  "(1, 1, 1)": "November 12, 1746 (1746-11-12), Beaugency, Orl anais",
   "(2, 0, 1)": "Died",
   "(2, 1, 1)": "April 7, 1823 (1823-04-08) (aged 76), Paris",
   "(3, 0, 1)": "Nationality",
@@ -12,5 +12,5 @@
   "(6, 0, 1)": "Fields",
   "(6, 1, 1)": "physics, mathematics, hot air ballooning",
   "(7, 0, 1)": "Institutions",
-  "(7, 1, 1)": "Academíe des sciences"
+  "(7, 1, 1)": "Academ e des sciences"
 }

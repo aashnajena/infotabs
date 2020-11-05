@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Yoshiyuki Sankai",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": "1958/1959 (age 60–61)",
+  "(1, 1, 1)": "1958/1959 (age 60 61)",
   "(2, 0, 1)": "Residence",
   "(2, 1, 1)": "Ibaraki, Japan",
   "(3, 0, 1)": "Nationality",
@@ -10,8 +10,8 @@
   "(4, 1, 1)": "University of Tsukuba",
   "(5, 0, 1)": "Occupation",
   "(5, 1, 1)": "Founder, president and CEO, Cyberdyne",
-  "(6, 0, 1)": "Known for",
+  "(6, 0, 1)": "Known for",
   "(6, 1, 1)": "HAL",
-  "(7, 0, 1)": "Net worth",
+  "(7, 0, 1)": "Net worth",
   "(7, 1, 1)": "$1.03 billion (June 2018)"
 }

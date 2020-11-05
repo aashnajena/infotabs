@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "David Byrne",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": " (1952-05-14) 14 May 1952 (age 66)",
+  "(1, 1, 1)": "(1952-05-14) 14 May 1952 (age 66)",
   "(1, 2, 1)": "Dumbarton, West Dunbartonshire, Scotland, UK",
   "(2, 0, 1)": "Origin",
   "(2, 1, 1)": "Arbutus, Maryland, U.S.",
@@ -35,7 +35,7 @@
   "(5, 12, 1)": "accordion",
   "(5, 13, 1)": "buildings",
   "(6, 0, 1)": "Years active",
-  "(6, 1, 1)": "1971–present",
+  "(6, 1, 1)": "1971 present",
   "(7, 0, 1)": "Labels",
   "(7, 1, 1)": "Todo Mundo",
   "(7, 2, 1)": "Luaka Bop",

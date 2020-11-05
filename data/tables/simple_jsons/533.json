@@ -15,7 +15,7 @@
   "(7, 0, 1)": "Distributed by",
   "(7, 1, 1)": "Bryanston Distributing Company",
   "(8, 0, 1)": "Release date",
-  "(8, 1, 1)": "June 12, 1972 (1972-06-12), ",
+  "(8, 1, 1)": "June 12, 1972 (1972-06-12)",
   "(9, 0, 1)": "Running time",
   "(9, 1, 1)": "61 minutes",
   "(10, 0, 1)": "Country",
@@ -25,5 +25,5 @@
   "(12, 0, 1)": "Budget",
   "(12, 1, 1)": "$47,500",
   "(13, 0, 1)": "Box office",
-  "(13, 1, 1)": "$600 million (claimed), $30–50 million (confirmed)"
+  "(13, 1, 1)": "$600 million (claimed), $30 50 million (confirmed)"
 }

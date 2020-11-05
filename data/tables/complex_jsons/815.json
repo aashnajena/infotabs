@@ -1,6 +1,5 @@
 {
   "(0, 0, 2)": "Colony of Aden",
-  "(0, 1, 1)": "مستعمرة عدن",
   "(1, 0, 1)": "Status",
   "(1, 1, 1)": "Crown colony",
   "(2, 0, 1)": "Capital",
@@ -9,12 +8,12 @@
   "(3, 1, 1)": "English",
   "(3, 2, 1)": "Arabic stamp",
   "(4, 0, 1)": "History",
-  "(5, 0, 1)": "• Aden Settlement established ",
+  "(5, 0, 1)": "Aden Settlement established",
   "(5, 1, 1)": "1839",
-  "(6, 0, 1)": "• Colony of Aden established ",
+  "(6, 0, 1)": "Colony of Aden established",
   "(6, 1, 1)": "1937",
-  "(7, 0, 1)": "• State of Aden established ",
+  "(7, 0, 1)": "State of Aden established",
   "(7, 1, 1)": "18 January 1963",
-  "(8, 0, 1)": "• State of Aden disestablished ",
+  "(8, 0, 1)": "State of Aden disestablished",
   "(8, 1, 1)": "30 November 1967"
 }
