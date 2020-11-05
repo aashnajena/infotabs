@@ -17,7 +17,7 @@
   "(8, 0, 1)": "Alcohol by volume of wine (minimum)",
   "(8, 1, 1)": "10.5%",
   "(9, 0, 1)": "Net dry extract (minimum)",
-  "(9, 1, 1)": "15.0",
+  "(9, 1, 1)": "15.0‰",
   "(10, 0, 1)": "Origin",
   "(10, 1, 1)": "Province of Alessandria, around Gavi",
   "(11, 0, 1)": "Ingredient grapes",

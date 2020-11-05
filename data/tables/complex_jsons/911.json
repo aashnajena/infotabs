@@ -1,8 +1,9 @@
 {
   "(0, 0, 2)": "Wei",
+  "(0, 1, 1)": "魏",
   "(1, 0, 1)": "Capital",
   "(1, 1, 1)": "Luoyang",
-  "(2, 0, 1)": "Common languages",
+  "(2, 0, 1)": "Common languages",
   "(2, 1, 1)": "Old Chinese",
   "(3, 0, 1)": "Religion",
   "(3, 1, 1)": "Taoism, Confucianism, Chinese folk religion",

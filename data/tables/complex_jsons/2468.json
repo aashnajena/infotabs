@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "Kahl a",
+  "(0, 0, 2)": "Kahlúa",
   "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Coffee Liqueur",
   "(2, 0, 1)": "Manufacturer",
@@ -7,7 +7,7 @@
   "(3, 0, 1)": "Country of origin",
   "(3, 1, 1)": "Mexico",
   "(4, 0, 1)": "Introduced",
-  "(4, 1, 1)": "1936; 83 years ago (1936)",
+  "(4, 1, 1)": "1936; 83 years ago (1936)",
   "(5, 0, 1)": "Alcohol by volume",
   "(5, 1, 1)": "20.0%",
   "(6, 0, 1)": "Website",

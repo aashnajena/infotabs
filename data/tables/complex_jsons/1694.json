@@ -1,7 +1,8 @@
 {
   "(0, 0, 2)": "Japanese snack food",
   "(1, 0, 2)": "Kara Mucho (Karamucho)",
-  "(2, 0, 1)": "Japanese name",
+  "(2, 0, 1)": "Japanese name",
+  "(2, 1, 1)": "カラムーチョ",
   "(3, 0, 1)": "Maker",
   "(3, 1, 1)": "Koikeya",
   "(4, 0, 1)": "Ingredients",

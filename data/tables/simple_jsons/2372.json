@@ -1,13 +1,13 @@
 {
   "(0, 0, 2)": "Golconda",
   "(1, 0, 1)": "Artist",
-  "(1, 1, 1)": "Ren  Magritte",
+  "(1, 1, 1)": "René Magritte",
   "(2, 0, 1)": "Year",
   "(2, 1, 1)": "1953",
   "(3, 0, 1)": "Medium",
   "(3, 1, 1)": "Oil on canvas",
   "(4, 0, 1)": "Dimensions",
-  "(4, 1, 1)": "81 cm   100 cm (31.9 in   39.37 in)",
+  "(4, 1, 1)": "81 cm   100 cm (31.9 in   39.37 in)",
   "(5, 0, 1)": "Location",
   "(5, 1, 1)": "The Menil Collection, Houston, Texas"
 }

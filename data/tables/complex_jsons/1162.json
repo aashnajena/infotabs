@@ -13,7 +13,7 @@
   "(6, 1, 1)": "January 1, 1983, with Eastern Air Lines",
   "(7, 0, 1)": "Status",
   "(7, 1, 1)": "In service",
-  "(8, 0, 1)": "Primary users",
+  "(8, 0, 1)": "Primary users",
   "(8, 1, 1)": "Delta Air Lines",
   "(8, 2, 1)": "FedEx Express",
   "(8, 3, 1)": "United Airlines",
@@ -23,8 +23,8 @@
   "(10, 0, 1)": "Number built",
   "(10, 1, 1)": "1,050",
   "(11, 0, 1)": "Unit cost",
-  "(11, 1, 1)": "757-200: US$65 million (2002)",
-  "(11, 2, 1)": "757-300: US$80 million (2002)",
+  "(11, 1, 1)": "757-200: US$65 million (2002)",
+  "(11, 2, 1)": "757-300: US$80 million (2002)",
   "(12, 0, 1)": "Variants",
   "(12, 1, 1)": "Boeing C-32"
 }

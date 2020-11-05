@@ -1,10 +1,10 @@
 {
-  "(0, 0, 2)": "Changchun",
+  "(0, 0, 2)": "Changchun, 长春市",
   "(1, 0, 1)": "Country",
   "(1, 1, 1)": "People's Republic of China",
   "(2, 0, 1)": "Province",
   "(2, 1, 1)": "Jilin",
-  "(3, 0, 1)": "County-level divisions",
+  "(3, 0, 1)": "County-level divisions",
   "(3, 1, 1)": "7 districts, 2 county-level divisions, 1 county",
   "(4, 0, 1)": "Incorporated (town)",
   "(4, 1, 1)": "1889",

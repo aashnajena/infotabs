@@ -1,8 +1,9 @@
 {
   "(0, 0, 2)": "Hong Kong Special Administrative Region of the People's Republic of China",
-  "(0, 1, 1)": "(Chinese in Traditional characters)",
-  "(0, 2, 1)": "J ng'w h Y hnm hn Guhng'w hgwok H ungg ng Dahkbiht H hngjingk ui",
-  "(0, 3, 1)": "(Hong Kong Cantonese in Yale romanisation)",
+  "(0, 1, 1)": "中華人民共和國香港特別行政區",
+  "(0, 2, 1)": "(Chinese in Traditional characters)",
+  "(0, 3, 1)": "Jūng'wàh Yàhnmàhn Guhng'wòhgwok Hēunggóng Dahkbiht Hàhngjingkēui",
+  "(0, 4, 1)": "(Hong Kong Cantonese in Yale romanisation)",
   "(1, 0, 1)": "Official languages",
   "(1, 1, 1)": "Chinese",
   "(1, 2, 1)": "English",

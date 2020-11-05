@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Crohn's disease",
   "(1, 0, 1)": "Other names",
-  "(1, 1, 1)": "Crohn syndrome, regional enteritis, Le niowski-Crohn's disease",
+  "(1, 1, 1)": "Crohn syndrome, regional enteritis, Leśniowski-Crohn's disease",
   "(2, 0, 1)": "Specialty",
   "(2, 1, 1)": "Gastroenterology",
   "(3, 0, 1)": "Symptoms",
@@ -17,7 +17,7 @@
   "(8, 0, 1)": "Diagnostic method",
   "(8, 1, 1)": "Biopsy, medical imaging",
   "(9, 0, 1)": "Differential diagnosis",
-  "(9, 1, 1)": "Irritable bowel syndrome, celiac disease, Beh et's disease, nonsteroidal anti-inflammatory drug enteropathy, intestinal tuberculosis",
+  "(9, 1, 1)": "Irritable bowel syndrome, celiac disease, Behçet's disease, nonsteroidal anti-inflammatory drug enteropathy, intestinal tuberculosis",
   "(10, 0, 1)": "Medication",
   "(10, 1, 1)": "Corticosteroids, methotrexate",
   "(11, 0, 1)": "Prognosis",

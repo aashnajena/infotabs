@@ -1,8 +1,9 @@
 {
   "(0, 0, 2)": "Byun Baek-hyun",
   "(1, 0, 1)": "Native name",
+  "(1, 1, 1)": "변백현",
   "(2, 0, 1)": "Pronunciation",
-  "(2, 1, 1)": "[bj n b k  hj n]; byun-baek-hyun",
+  "(2, 1, 1)": "[bjʌ̹n b k̚ hjʌ̹n]; byun-baek-hyun",
   "(3, 0, 1)": "Born",
   "(3, 1, 1)": "Byun Baek-hyun",
   "(3, 2, 1)": "(1992-05-06) May 6, 1992 (age 26)",
@@ -29,5 +30,5 @@
   "(11, 2, 1)": "Exo-K",
   "(11, 3, 1)": "Exo-CBX",
   "(11, 4, 1)": "SM Town",
-  "(12, 0, 2)": "The template Infobox Korean name is being considered for merging."
+  "(12, 0, 2)": "‹ The template Infobox Korean name is being considered for merging. ›"
 }

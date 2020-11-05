@@ -1,6 +1,7 @@
 {
   "(0, 0, 2)": "Ramadan",
-  "(1, 0, 1)": "Observed by",
+  "(0, 1, 1)": "رمضان",
+  "(1, 0, 1)": "Observed by",
   "(1, 1, 1)": "Muslims",
   "(2, 0, 1)": "Type",
   "(2, 1, 1)": "Religious",
@@ -19,12 +20,12 @@
   "(6, 1, 1)": "At the last night of the month of Ramadan",
   "(7, 0, 1)": "Date",
   "(7, 1, 1)": "Variable (follows the Islamic lunar calendar)",
-  "(8, 0, 1)": "2019 date",
-  "(8, 1, 1)": "6 May - 3 June",
-  "(9, 0, 1)": "2020 date",
-  "(9, 1, 1)": "evening of 23 April (22 April for Mali; 24 April for Australia, Bangladesh, Brunei Darussalam, India, Iran, Morocco, Nepal, Oman, Pakistan, South Africa and Sri Lanka) - 23 May (expected)",
+  "(8, 0, 1)": "2019 date",
+  "(8, 1, 1)": "6 May - 3 June",
+  "(9, 0, 1)": "2020 date",
+  "(9, 1, 1)": "evening of 23 April (22 April for Mali; 24 April for Australia, Bangladesh, Brunei Darussalam, India, Iran, Morocco, Nepal, Oman, Pakistan, South Africa and Sri Lanka) - 23 May (expected)",
   "(10, 0, 1)": "Frequency",
   "(10, 1, 1)": "every year (lunar calendar)",
-  "(11, 0, 1)": "Related to",
+  "(11, 0, 1)": "Related to",
   "(11, 1, 1)": "Eid al-Fitr, Laylat al-Qadr"
 }

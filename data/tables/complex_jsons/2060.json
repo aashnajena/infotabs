@@ -7,7 +7,7 @@
   "(3, 0, 1)": "Previous owner(s)",
   "(3, 1, 1)": "Antoine Rumpelmayer",
   "(4, 0, 1)": "Food type",
-  "(4, 1, 1)": "P tisserie",
+  "(4, 1, 1)": "Pâtisserie",
   "(5, 0, 1)": "Street address",
   "(5, 1, 1)": "226 Rue de Rivoli",
   "(6, 0, 1)": "City",
@@ -17,10 +17,10 @@
   "(8, 0, 1)": "Country",
   "(8, 1, 1)": "France",
   "(9, 0, 1)": "Coordinates",
-  "(9, 1, 1)": "48 51 54 N 2 19 42 E  /  48.8649357 N 2.3284259 E  / 48.8649357; 2.3284259Coordinates: 48 51 54 N 2 19 42 E  /  48.8649357 N 2.3284259 E  / 48.8649357; 2.3284259",
+  "(9, 1, 1)": "48°51′54″N 2°19′42″E﻿ / ﻿48.8649357°N 2.3284259°E﻿ / 48.8649357; 2.3284259Coordinates: 48°51′54″N 2°19′42″E﻿ / ﻿48.8649357°N 2.3284259°E﻿ / 48.8649357; 2.3284259",
   "(10, 0, 1)": "Other locations",
   "(10, 1, 1)": "Boulevard Haussmann",
   "(10, 2, 1)": "Palace of Versailles",
-  "(10, 3, 1)": "Mus e du Luxembourg",
+  "(10, 3, 1)": "Musée du Luxembourg",
   "(10, 4, 1)": "Rue du Bac"
 }

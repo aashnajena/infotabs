@@ -1,6 +1,7 @@
 {
   "(0, 0, 2)": "Howl's Moving Castle",
   "(1, 0, 1)": "Japanese",
+  "(1, 1, 1)": "ハウルの動く城",
   "(2, 0, 1)": "Hepburn",
   "(2, 1, 1)": "Hauru no Ugoku Shiro",
   "(3, 0, 1)": "Directed by",
@@ -37,9 +38,9 @@
   "(16, 0, 1)": "Language",
   "(16, 1, 1)": "Japanese",
   "(17, 0, 1)": "Budget",
-  "(17, 1, 1)": "2.4 billion",
+  "(17, 1, 1)": "¥2.4 billion",
   "(17, 2, 1)": "US$24 million",
   "(18, 0, 1)": "Box office",
-  "(18, 1, 1)": "23.2 billion",
+  "(18, 1, 1)": "¥23.2 billion",
   "(18, 2, 1)": "US$235.1 million (worldwide)"
 }

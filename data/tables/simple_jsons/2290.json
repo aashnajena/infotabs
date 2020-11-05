@@ -1,11 +1,11 @@
 {
-  "(0, 0, 2)": "Country of Cura ao, Land Cura ao (Dutch), Pais K rsou (Papiamento)",
+  "(0, 0, 2)": "Country of Curaçao, Land Curaçao  (Dutch), Pais Kòrsou  (Papiamento)",
   "(1, 0, 1)": "Capital, and largest city",
-  "(1, 1, 1)": "Willemstad, 12 7 N 68 56 W  /  12.117 N 68.933 W  / 12.117; -68.933",
-  "(2, 0, 1)": "Official languages",
+  "(1, 1, 1)": "Willemstad, 12°7′N 68°56′W﻿ / ﻿12.117°N 68.933°W﻿ / 12.117; -68.933",
+  "(2, 0, 1)": "Official languages",
   "(2, 1, 1)": "Papiamentu, Dutch, English",
   "(3, 0, 1)": "Demonym(s)",
-  "(3, 1, 1)": "Cura aoan ,  Dutch",
+  "(3, 1, 1)": "Curaçaoan ,  Dutch",
   "(4, 0, 1)": "Government",
   "(4, 1, 1)": "Unitary parliamentary representative democracy under constitutional monarchy",
   "(5, 0, 1)": "Monarch",
@@ -15,5 +15,5 @@
   "(7, 0, 1)": "Prime Minister",
   "(7, 1, 1)": "Eugene Rhuggenaath",
   "(8, 0, 1)": "Legislature",
-  "(8, 1, 1)": "Estates of Cura ao"
+  "(8, 1, 1)": "Estates of Curaçao"
 }

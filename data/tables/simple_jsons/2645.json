@@ -1,6 +1,7 @@
 {
   "(0, 0, 2)": "Shaft, Inc.",
   "(1, 0, 1)": "Native name",
+  "(1, 1, 1)": "株式会社シャフト",
   "(2, 0, 1)": "Romanized name",
   "(2, 1, 1)": "Kabushiki-gaisha Shafuto",
   "(3, 0, 1)": "Type",
@@ -10,7 +11,7 @@
   "(5, 0, 1)": "Genre",
   "(5, 1, 1)": "Various",
   "(6, 0, 1)": "Founded",
-  "(6, 1, 1)": "September 1, 1975; 44 years ago (1975-09-01)",
+  "(6, 1, 1)": "September 1, 1975; 44 years ago (1975-09-01)",
   "(7, 0, 1)": "Founder",
   "(7, 1, 1)": "Hiroshi Wakao",
   "(8, 0, 1)": "Headquarters",

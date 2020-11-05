@@ -1,7 +1,9 @@
 {
   "(0, 0, 2)": "Cretan State",
-  "(0, 1, 1)": "Kritiki Politia",
-  "(0, 2, 1)": "Girit Devleti",
+  "(0, 1, 1)": "Κρητική Πολιτεία",
+  "(0, 2, 1)": "Kritiki Politia",
+  "(0, 3, 1)": "كريد دولتى",
+  "(0, 4, 1)": "Girit Devleti",
   "(1, 0, 1)": "Status",
   "(1, 1, 1)": "Autonomous state of the Ottoman Empire",
   "(2, 0, 1)": "Capital",

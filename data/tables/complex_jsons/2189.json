@@ -1,9 +1,9 @@
 {
-  "(0, 0, 2)": "Poincar  conjecture",
+  "(0, 0, 2)": "Poincaré conjecture",
   "(1, 0, 1)": "Field",
   "(1, 1, 1)": "Geometric topology",
   "(2, 0, 1)": "Conjectured by",
-  "(2, 1, 1)": "Henri Poincar",
+  "(2, 1, 1)": "Henri Poincaré",
   "(3, 0, 1)": "Conjectured in",
   "(3, 1, 1)": "1904",
   "(4, 0, 1)": "First proof by",
@@ -17,5 +17,5 @@
   "(7, 1, 1)": "Spherical space form conjecture",
   "(7, 2, 1)": "Thurston elliptization conjecture",
   "(8, 0, 1)": "Generalizations",
-  "(8, 1, 1)": "Generalized Poincar  conjecture"
+  "(8, 1, 1)": "Generalized Poincaré conjecture"
 }

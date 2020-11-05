@@ -2,8 +2,8 @@
   "(0, 0, 2)": "Royal Dutch Shell PLC",
   "(1, 0, 1)": "Type",
   "(1, 1, 1)": "Public limited company",
-  "(2, 0, 1)": "Traded as",
-  "(2, 1, 1)": "LSE: RDSA, RDSB, Euronext: RDSA, RDSB, NYSE: RDS.A, RDS.B, FTSE 100 Component",
+  "(2, 0, 1)": "Traded as",
+  "(2, 1, 1)": "LSE: RDSA, RDSB, Euronext: RDSA, RDSB, NYSE: RDS.A, RDS.B, FTSE 100 Component",
   "(3, 0, 1)": "ISIN",
   "(3, 1, 1)": "GB00B03MLX29",
   "(4, 0, 1)": "Industry",
@@ -11,7 +11,7 @@
   "(5, 0, 1)": "Predecessor",
   "(5, 1, 1)": "Royal Dutch Petroleum Co. (1890), The \"Shell\" Transport and Trading Company Limited of the United Kingdom (1897)",
   "(6, 0, 1)": "Founded",
-  "(6, 1, 1)": "April 1907; 112 years ago (1907-04) in London",
+  "(6, 1, 1)": "April 1907; 112 years ago (1907-04) in London",
   "(7, 0, 1)": "Founders",
   "(7, 1, 1)": "August Kessler, Henri Deterding and Hugo Loudon (Royal Dutch Petroleum Co.), Marcus Samuel, 1st Viscount Bearsted and Samuel Samuel (The \"Shell\" Transport and Trading Company)",
   "(8, 0, 1)": "Headquarters",
@@ -23,10 +23,10 @@
   "(11, 0, 1)": "Products",
   "(11, 1, 1)": "Petroleum, natural gas, LNG, lubricants, petrochemicals",
   "(12, 0, 1)": "Number of employees",
-  "(12, 1, 1)": "82,000 (2018)",
+  "(12, 1, 1)": "82,000 (2018)",
   "(13, 0, 1)": "Subsidiaries",
   "(13, 1, 1)": "Shell Australia, Shell South Africa, Shell Canada, Shell Chemicals, Shell Gas & Power, Shell Hong Kong, Shell Nigeria, Shell Oil Company, Shell India, Shell Pakistan, Shell Philippines, Shell Egypt",
   "(14, 0, 1)": "Website",
   "(14, 1, 1)": "www.shell.com",
-  "(15, 0, 2)": "Footnotes / references"
+  "(15, 0, 2)": "Footnotes / references"
 }

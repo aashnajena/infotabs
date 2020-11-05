@@ -1,9 +1,9 @@
 {
   "(0, 0, 2)": "Democratic Republic of Afghanistan (1979-87)",
-  "(0, 1, 1)": "(Dari)",
-  "(0, 2, 1)": "(Pashto)Republic of Afghanistan (1987-92)",
-  "(0, 3, 1)": "(Dari)",
-  "(0, 4, 1)": "(Pashto)",
+  "(0, 1, 1)": "جمهوری دمکراتی افغانستان  (Dari)",
+  "(0, 2, 1)": "دافغانستان دمکراتی جمهوریت  (Pashto)Republic of Afghanistan (1987-92)",
+  "(0, 3, 1)": "جمهوری افغانستان (Dari)",
+  "(0, 4, 1)": "د افغانستان جمهوریت  (Pashto)",
   "(1, 0, 1)": "Capital",
   "(1, 1, 1)": "Kabul",
   "(2, 0, 1)": "Common languages",

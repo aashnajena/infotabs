@@ -1,7 +1,7 @@
 {
-  "(0, 0, 2)": "Hungary, Magyarorsz g (Hungarian)",
+  "(0, 0, 2)": "Hungary, Magyarország (Hungarian)",
   "(1, 0, 1)": "Capital, and largest city",
-  "(1, 1, 1)": "Budapest, 47 26 N 19 15 E / 47.433 N 19.250 E / 47.433; 19.250",
+  "(1, 1, 1)": "Budapest, 47°26′N 19°15′E / 47.433°N 19.250°E / 47.433; 19.250",
   "(2, 0, 1)": "Other languages",
   "(2, 1, 1)": "Hungarian",
   "(3, 0, 1)": "Ethnic groups  (census 2011)",
@@ -13,11 +13,11 @@
   "(6, 0, 1)": "Government",
   "(6, 1, 1)": "Unitary parliamentary republic",
   "(7, 0, 1)": "President",
-  "(7, 1, 1)": "J nos  der",
+  "(7, 1, 1)": "János Áder",
   "(8, 0, 1)": "Prime Minister",
-  "(8, 1, 1)": "Viktor Orb n",
+  "(8, 1, 1)": "Viktor Orbán",
   "(9, 0, 1)": "Speaker of the National Assembly",
-  "(9, 1, 1)": "L szl  K v r",
+  "(9, 1, 1)": "László Kövér",
   "(10, 0, 1)": "Legislature",
-  "(10, 1, 1)": "Orsz ggy l s"
+  "(10, 1, 1)": "Országgyűlés"
 }

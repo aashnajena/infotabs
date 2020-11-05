@@ -1,6 +1,7 @@
 {
   "(0, 0, 2)": "Buyid Dynasty",
-  "(0, 1, 1)": "l-e Buye",
+  "(0, 1, 1)": "آل بویِه",
+  "(0, 2, 1)": "Āl-e Buye",
   "(1, 0, 1)": "Capital",
   "(1, 1, 1)": "Shiraz",
   "(1, 2, 1)": "(Buyids of Fars, 934-1062)",
@@ -8,7 +9,7 @@
   "(1, 4, 1)": "(Buyids of Jibal, 943-1029)",
   "(1, 5, 1)": "Baghdad",
   "(1, 6, 1)": "(Buyids of Iraq, 945-1055)",
-  "(2, 0, 1)": "Common languages",
+  "(2, 0, 1)": "Common languages",
   "(2, 1, 1)": "Arabic (official and court language; lingua franca)",
   "(2, 2, 1)": "Middle Persian (secondary court language)",
   "(2, 3, 1)": "Persian (popular)",

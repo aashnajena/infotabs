@@ -1,7 +1,9 @@
 {
   "(0, 0, 2)": "Iraqi Republic",
-  "(0, 1, 1)": "al-Jumh r yah al-'Ir q yah",
-  "(0, 2, 1)": "Komar-i ' raq",
+  "(0, 1, 1)": "الجمهورية العراقية",
+  "(0, 2, 1)": "al-Jumhūrīyah al-'Irāqīyah",
+  "(0, 3, 1)": "كۆماری عێراق",
+  "(0, 4, 1)": "Komar-i 'Êraq",
   "(1, 0, 1)": "Capital",
   "(1, 1, 1)": "and largest city",
   "(1, 2, 1)": "Baghdad",

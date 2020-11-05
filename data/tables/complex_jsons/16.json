@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Ethiopian Empire",
-  "(0, 1, 1)": "(Amharic)",
-  "(0, 2, 1)": "(M ng st  Ityop'p'ya)",
+  "(0, 1, 1)": "የኢትዮጵያ ንጉሠ ነገሥት መንግሥተ (Amharic)",
+  "(0, 2, 1)": "(Mäng stä Ityop'p'ya)",
   "(1, 0, 1)": "Capital",
   "(1, 1, 1)": "Unspecified (1270-1635)",
   "(1, 2, 1)": "Gondar (1635-1855)",
@@ -47,7 +47,7 @@
   "(20, 1, 1)": "5 May 1941",
   "(21, 0, 1)": "Admitted to the United Nations",
   "(21, 1, 1)": "13 November 1945",
-  "(22, 0, 1)": "Coup d' tat by Derg",
+  "(22, 0, 1)": "Coup d'état by Derg",
   "(22, 1, 1)": "12 September 1974",
   "(23, 0, 1)": "Monarchy abolished",
   "(23, 1, 1)": "21 March 1975"

@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Republic of Estonia, Eesti Vabariik (Estonian)",
   "(1, 0, 1)": "Capital, and largest city",
-  "(1, 1, 1)": "Tallinn, 59 25 N 24 45 E / 59.417 N 24.750 E / 59.417; 24.750",
+  "(1, 1, 1)": "Tallinn, 59°25′N 24°45′E / 59.417°N 24.750°E / 59.417; 24.750",
   "(2, 0, 1)": "Official languages",
   "(2, 1, 1)": "Estonian",
   "(3, 0, 1)": "Ethnic groups  (2018)",
@@ -13,7 +13,7 @@
   "(6, 0, 1)": "President",
   "(6, 1, 1)": "Kersti Kaljulaid",
   "(7, 0, 1)": "Prime Minister",
-  "(7, 1, 1)": "J ri Ratas",
+  "(7, 1, 1)": "Jüri Ratas",
   "(8, 0, 1)": "Legislature",
   "(8, 1, 1)": "Riigikogu"
 }

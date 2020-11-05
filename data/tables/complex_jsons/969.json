@@ -1,8 +1,8 @@
 {
   "(0, 0, 2)": "Catalonia",
-  "(0, 1, 1)": "Catalunya (Catalan)",
-  "(0, 2, 1)": "Catalonha (Occitan)",
-  "(0, 3, 1)": "Catalu a (Spanish)",
+  "(0, 1, 1)": "Catalunya (Catalan)",
+  "(0, 2, 1)": "Catalonha (Occitan)",
+  "(0, 3, 1)": "Cataluña (Spanish)",
   "(1, 0, 1)": "Country",
   "(1, 1, 1)": "Spain",
   "(2, 0, 1)": "Status",
@@ -20,7 +20,7 @@
   "(5, 0, 1)": "Capital",
   "(5, 1, 1)": "and largest city",
   "(5, 2, 1)": "Barcelona",
-  "(5, 3, 1)": "41 23 N 2 11 E  /  41.383 N 2.183 E  / 41.383; 2.183",
+  "(5, 3, 1)": "41°23′N 2°11′E﻿ / ﻿41.383°N 2.183°E﻿ / 41.383; 2.183",
   "(6, 0, 1)": "Provinces",
   "(6, 1, 1)": "Barcelona, Girona, Lleida, Tarragona"
 }

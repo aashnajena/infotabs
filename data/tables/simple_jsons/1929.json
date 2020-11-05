@@ -1,11 +1,11 @@
 {
-  "(0, 0, 2)": "Sh wa",
+  "(0, 0, 2)": "Shōwa",
   "(1, 0, 1)": "Born",
-  "(1, 1, 1)": "Hirohito, (1901-04-29)29 April 1901, T g  Palace, Aoyama, Tokyo, Japan",
+  "(1, 1, 1)": "Hirohito, (1901-04-29)29 April 1901, Tōgū Palace, Aoyama, Tokyo, Japan",
   "(2, 0, 1)": "Died",
   "(2, 1, 1)": "7 January 1989(1989-01-07) (aged 87), Fukiage Palace, Japan",
   "(3, 0, 1)": "Burial",
-  "(3, 1, 1)": "24 February 1989, Musashi Imperial Graveyard, Hachi ji, Tokyo, Japan",
+  "(3, 1, 1)": "24 February 1989, Musashi Imperial Graveyard, Hachiōji, Tokyo, Japan",
   "(4, 0, 1)": "Spouse",
   "(4, 1, 1)": "Princess Nagako Kuni, (m. 1924; died 2000)",
   "(5, 0, 1)": "Issue",
@@ -13,7 +13,7 @@
   "(6, 0, 1)": "House",
   "(6, 1, 1)": "Imperial House of Japan",
   "(7, 0, 1)": "Father",
-  "(7, 1, 1)": "Emperor Taish",
+  "(7, 1, 1)": "Emperor Taishō",
   "(8, 0, 1)": "Mother",
   "(8, 1, 1)": "Empress Teimei"
 }

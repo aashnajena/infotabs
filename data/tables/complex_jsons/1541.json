@@ -2,7 +2,7 @@
   "(0, 0, 2)": "John Wayne Gacy",
   "(1, 0, 1)": "Victims",
   "(1, 1, 1)": "33+",
-  "(2, 0, 1)": "Span of crimes",
+  "(2, 0, 1)": "Span of crimes",
   "(2, 1, 1)": "January 3, 1972-December 11, 1978",
   "(3, 0, 1)": "Country",
   "(3, 1, 1)": "United States",
@@ -10,6 +10,6 @@
   "(4, 1, 1)": "Illinois",
   "(5, 0, 1)": "Date apprehended",
   "(5, 1, 1)": "December 21, 1978",
-  "(6, 0, 1)": "Imprisoned at",
+  "(6, 0, 1)": "Imprisoned at",
   "(6, 1, 1)": "Menard Correctional Center"
 }

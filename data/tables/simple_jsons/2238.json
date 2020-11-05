@@ -1,8 +1,8 @@
 {
-  "(0, 0, 2)": "Vaisakhi, Baisakhi, Punjabi:",
+  "(0, 0, 2)": "Vaisakhi, Baisakhi, Punjabi: ਵਿਸਾਖੀ",
   "(1, 0, 1)": "Also called",
   "(1, 1, 1)": "Baisakh, Vaisakh",
-  "(2, 0, 1)": "Observed by",
+  "(2, 0, 1)": "Observed by",
   "(2, 1, 1)": "Sikhs, Hindus",
   "(3, 0, 1)": "Type",
   "(3, 1, 1)": "religious, cultural",
@@ -12,10 +12,10 @@
   "(5, 1, 1)": "Parades and Nagar Kirtan, Fairs, Amrit Sanchaar (baptism) for new Khalsa",
   "(6, 0, 1)": "Observances",
   "(6, 1, 1)": "Prayers, processions, raising of the Nishan Sahib flag, Fairs.",
-  "(7, 0, 1)": "2018 date",
+  "(7, 0, 1)": "2018 date",
   "(7, 1, 1)": "Sat, 14 April",
-  "(8, 0, 1)": "2019 date",
+  "(8, 0, 1)": "2019 date",
   "(8, 1, 1)": "Sun, 14 April",
-  "(9, 0, 1)": "2020 date",
+  "(9, 0, 1)": "2020 date",
   "(9, 1, 1)": "Mon, 13 April"
 }

@@ -2,7 +2,7 @@
   "(0, 0, 2)": "Jeffrey Dahmer",
   "(1, 0, 1)": "Victims",
   "(1, 1, 1)": "17",
-  "(2, 0, 1)": "Span of crimes",
+  "(2, 0, 1)": "Span of crimes",
   "(2, 1, 1)": "June 18, 1978-July 19, 1991",
   "(3, 0, 1)": "Country",
   "(3, 1, 1)": "United States",
@@ -10,6 +10,6 @@
   "(4, 1, 1)": "Ohio, Wisconsin",
   "(5, 0, 1)": "Date apprehended",
   "(5, 1, 1)": "July 22, 1991",
-  "(6, 0, 1)": "Imprisoned at",
+  "(6, 0, 1)": "Imprisoned at",
   "(6, 1, 1)": "Columbia Correctional Institution"
 }

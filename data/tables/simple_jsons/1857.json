@@ -1,7 +1,7 @@
 {
-  "(0, 0, 2)": "Iceland,  sland (Icelandic)",
+  "(0, 0, 2)": "Iceland, Ísland (Icelandic)",
   "(1, 0, 1)": "Capital, and largest city",
-  "(1, 1, 1)": "Reykjav k, 64 08 N 21 56 W / 64.133 N 21.933 W / 64.133; -21.933",
+  "(1, 1, 1)": "Reykjavík, 64°08′N 21°56′W / 64.133°N 21.933°W / 64.133; -21.933",
   "(2, 0, 1)": "Official language, and national language",
   "(2, 1, 1)": "Icelandic",
   "(3, 0, 1)": "Ethnic groups  (2017)",
@@ -13,13 +13,13 @@
   "(6, 0, 1)": "Government",
   "(6, 1, 1)": "Unitary parliamentary republic",
   "(7, 0, 1)": "President",
-  "(7, 1, 1)": "Gu ni Th. J hannesson",
+  "(7, 1, 1)": "Guðni Th. Jóhannesson",
   "(8, 0, 1)": "Prime Minister",
-  "(8, 1, 1)": "Katr n Jakobsd ttir",
+  "(8, 1, 1)": "Katrín Jakobsdóttir",
   "(9, 0, 1)": "President of Parliament",
-  "(9, 1, 1)": "Steingr mur J. Sigf sson",
+  "(9, 1, 1)": "Steingrímur J. Sigfússon",
   "(10, 0, 1)": "President of Supreme Court",
-  "(10, 1, 1)": "orgeir  rlygsson",
+  "(10, 1, 1)": "Þorgeir Örlygsson",
   "(11, 0, 1)": "Legislature",
   "(11, 1, 1)": "Althing"
 }
