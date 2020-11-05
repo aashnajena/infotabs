@@ -11,7 +11,7 @@
   "(5, 0, 1)": "Causes",
   "(5, 1, 1)": "Usually unknown",
   "(6, 0, 1)": "Risk factors",
-  "(6, 1, 1)": "Neurofibromatosis, exposure to vinyl chloride, Epstein Barr virus, ionizing radiation",
+  "(6, 1, 1)": "Neurofibromatosis, exposure to vinyl chloride, Epstein-Barr virus, ionizing radiation",
   "(7, 0, 1)": "Diagnostic method",
   "(7, 1, 1)": "Computed tomography, magnetic resonance imaging, tissue biopsy",
   "(8, 0, 1)": "Treatment",

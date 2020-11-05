@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "University of Washington",
   "(1, 0, 1)": "Former name",
-  "(1, 1, 1)": "Territorial University of Washington (1861 1889)",
+  "(1, 1, 1)": "Territorial University of Washington (1861-1889)",
   "(2, 0, 1)": "Motto",
   "(2, 1, 1)": "Lux sit (Latin)",
   "(3, 0, 1)": "Motto in English",
@@ -39,7 +39,7 @@
   "(19, 0, 1)": "Nickname",
   "(19, 1, 1)": "Huskies",
   "(20, 0, 1)": "Sporting affiliations",
-  "(20, 1, 1)": "NCAA Division I   Pac-12",
+  "(20, 1, 1)": "NCAA Division I - Pac-12",
   "(21, 0, 1)": "Mascot",
   "(21, 1, 1)": "Harry the Husky,, and Dubs (live Husky)",
   "(22, 0, 1)": "Website",

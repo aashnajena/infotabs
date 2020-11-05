@@ -11,7 +11,7 @@
   "(5, 0, 1)": "Genre",
   "(5, 1, 1)": "Science fiction",
   "(6, 0, 1)": "Publication date",
-  "(6, 1, 1)": "Dark Empire I, December 1991   October 1992, Dark Empire II, December 1994   May 1995, Empire's End, October November 1995",
+  "(6, 1, 1)": "Dark Empire I, December 1991 - October 1992, Dark Empire II, December 1994 - May 1995, Empire's End, October-November 1995",
   "(7, 0, 1)": "Number of issues",
   "(7, 1, 1)": "Dark Empire I: 6, Dark Empire II: 6, Empire's End: 2"
 }

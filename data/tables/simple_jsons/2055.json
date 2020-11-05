@@ -7,7 +7,7 @@
   "(3, 0, 1)": "Symptoms",
   "(3, 1, 1)": "Stage 1: Fevers, headaches, itchiness, joint pains, Stage 2: Trouble sleeping, confusion, poor coordination",
   "(4, 0, 1)": "Usual onset",
-  "(4, 1, 1)": "1 3 weeks post exposure",
+  "(4, 1, 1)": "1-3 weeks post exposure",
   "(5, 0, 1)": "Causes",
   "(5, 1, 1)": "Trypanosoma brucei spread by tsetse flies",
   "(6, 0, 1)": "Diagnostic method",

@@ -10,7 +10,7 @@
   "(2, 3, 1)": "singer",
   "(2, 4, 1)": "songwriter",
   "(3, 0, 1)": "Years active",
-  "(3, 1, 1)": "2002 present",
+  "(3, 1, 1)": "2002-present",
   "(4, 0, 1)": "Parent(s)",
   "(4, 1, 1)": "Will Smith",
   "(4, 2, 1)": "Jada Pinkett Smith",

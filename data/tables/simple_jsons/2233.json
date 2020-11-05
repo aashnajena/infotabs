@@ -7,7 +7,7 @@
   "(3, 0, 1)": "Complications",
   "(3, 1, 1)": "Megacolon, inflammation of the eye, joints, or liver, colon cancer",
   "(4, 0, 1)": "Usual onset",
-  "(4, 1, 1)": "15 30 years or > 60 years",
+  "(4, 1, 1)": "15-30 years or > 60 years",
   "(5, 0, 1)": "Duration",
   "(5, 1, 1)": "Long term",
   "(6, 0, 1)": "Causes",

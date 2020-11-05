@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Stony Brook University",
   "(1, 0, 1)": "Former names",
-  "(1, 1, 1)": "State University College on Long Island (1957 1962)",
+  "(1, 1, 1)": "State University College on Long Island (1957-1962)",
   "(2, 0, 1)": "Type",
   "(2, 1, 1)": "Public,   Research university,   Sea-grant,   Space-grant",
   "(3, 0, 1)": "Established",
@@ -31,7 +31,7 @@
   "(15, 0, 1)": "Nickname",
   "(15, 1, 1)": "Seawolves",
   "(16, 0, 1)": "Sporting affiliations",
-  "(16, 1, 1)": "NCAA Division I FCS   , America East, CAA, MVC",
+  "(16, 1, 1)": "NCAA Division I FCS - , America East, CAA, MVC",
   "(17, 0, 1)": "Mascot",
   "(17, 1, 1)": "Wolfie the Seawolf",
   "(18, 0, 1)": "Website",

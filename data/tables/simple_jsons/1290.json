@@ -7,7 +7,7 @@
   "(3, 0, 1)": "Occupation",
   "(3, 1, 1)": "Professional wrestler, mixed martial artist, American football player",
   "(4, 0, 1)": "Years active",
-  "(4, 1, 1)": "2000 2007, 2012 present (Professional wrestling), 2004 (Football), 2007 2011, 2016, 2018 present (MMA)",
+  "(4, 1, 1)": "2000-2007, 2012-present (Professional wrestling), 2004 (Football), 2007-2011, 2016, 2018-present (MMA)",
   "(5, 0, 1)": "Spouse(s)",
   "(5, 1, 1)": "Sable,  (m. 2006)",
   "(6, 0, 1)": "Children",
@@ -47,5 +47,5 @@
   "(24, 0, 1)": "Wrestling",
   "(24, 1, 1)": "NCAA Division I Wrestling",
   "(25, 0, 1)": "Years active",
-  "(25, 1, 1)": "2006 2011, 2016, 2018 present"
+  "(25, 1, 1)": "2006-2011, 2016, 2018-present"
 }

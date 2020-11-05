@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "2005 Nias Simeulue earthquake",
+  "(0, 0, 2)": "2005 Nias-Simeulue earthquake",
   "(1, 0, 1)": "UTC time",
   "(1, 1, 1)": "2005-03-28 16:09:36",
   "(2, 0, 1)": "ISC event",
@@ -21,5 +21,5 @@
   "(10, 0, 1)": "Max. intensity",
   "(10, 1, 1)": "VIII (Severe)",
   "(11, 0, 1)": "Casualties",
-  "(11, 1, 1)": "915 1,314 deaths  ,  340 1,146 injured"
+  "(11, 1, 1)": "915-1,314 deaths  ,  340-1,146 injured"
 }

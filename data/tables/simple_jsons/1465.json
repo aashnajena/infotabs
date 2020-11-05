@@ -9,9 +9,9 @@
   "(4, 0, 1)": "Occupation",
   "(4, 1, 1)": "Actor, director, producer, musician",
   "(5, 0, 1)": "Years active",
-  "(5, 1, 1)": "1984 present",
+  "(5, 1, 1)": "1984-present",
   "(6, 0, 1)": "Partner(s)",
-  "(6, 1, 1)": "Jennifer Syme (1998 2000)",
+  "(6, 1, 1)": "Jennifer Syme (1998-2000)",
   "(7, 0, 1)": "Children",
   "(7, 1, 1)": "1 (deceased)"
 }

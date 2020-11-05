@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Clemson University",
   "(1, 0, 1)": "Former names",
-  "(1, 1, 1)": "Clemson Agricultural College of South Carolina (1889 1964)",
+  "(1, 1, 1)": "Clemson Agricultural College of South Carolina (1889-1964)",
   "(2, 0, 1)": "Type",
   "(2, 1, 1)": "Public, Land-grant university, Sea-grant university",
   "(3, 0, 1)": "Established",
@@ -31,7 +31,7 @@
   "(15, 0, 1)": "Nickname",
   "(15, 1, 1)": "Tigers",
   "(16, 0, 1)": "Sporting affiliations",
-  "(16, 1, 1)": "NCAA Division I    ACC",
+  "(16, 1, 1)": "NCAA Division I -  ACC",
   "(17, 0, 1)": "Mascot",
   "(17, 1, 1)": "The Tiger, The Cub",
   "(18, 0, 1)": "Website",

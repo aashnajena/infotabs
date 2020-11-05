@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "North Carolina State University",
   "(1, 0, 1)": "Former names",
-  "(1, 1, 1)": "North Carolina College of Agriculture and Mechanic Arts (1887 1918), North Carolina State College (1918 1962)",
+  "(1, 1, 1)": "North Carolina College of Agriculture and Mechanic Arts (1887-1918), North Carolina State College (1918-1962)",
   "(2, 0, 1)": "Motto",
   "(2, 1, 1)": "Think and Do",
   "(3, 0, 1)": "Type",
@@ -33,7 +33,7 @@
   "(16, 0, 1)": "Nickname",
   "(16, 1, 1)": "Wolfpack",
   "(17, 0, 1)": "Sporting affiliations",
-  "(17, 1, 1)": "NCAA Division I FBS   ACC",
+  "(17, 1, 1)": "NCAA Division I FBS - ACC",
   "(18, 0, 1)": "Website",
   "(18, 1, 1)": "www.ncsu.edu"
 }

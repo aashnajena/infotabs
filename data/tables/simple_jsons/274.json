@@ -10,7 +10,7 @@
   "(5, 0, 1)": "Occupation",
   "(5, 1, 1)": "Actor, singer",
   "(6, 0, 1)": "Years active",
-  "(6, 1, 1)": "2001 present",
+  "(6, 1, 1)": "2001-present",
   "(7, 0, 1)": "Known for",
   "(7, 1, 1)": "Humsafar, Zindagi Gulzar Hai, Khoobsurat (2014 film), Kapoor & Sons",
   "(8, 0, 1)": "Spouse(s)",
@@ -23,7 +23,7 @@
   "(12, 0, 1)": "Instruments",
   "(12, 1, 1)": "Vocals, guitar, bass, drums",
   "(13, 0, 1)": "Labels",
-  "(13, 1, 1)": "Lips Music (2002 2007) ,  Independent (2009 2015)",
+  "(13, 1, 1)": "Lips Music (2002-2007) ,  Independent (2009-2015)",
   "(14, 0, 1)": "Associated acts",
   "(14, 1, 1)": "Entity Paradigm, Coke Studio, Pepsi Battle of the Bands"
 }

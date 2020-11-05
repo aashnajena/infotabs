@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "Hillary Clinton",
   "(1, 0, 2)": "In role",
-  "(1, 1, 1)": "January 11, 1983   December 12, 1992",
+  "(1, 1, 1)": "January 11, 1983 - December 12, 1992",
   "(2, 0, 1)": "Governor",
   "(2, 1, 1)": "Bill Clinton",
   "(3, 0, 1)": "Preceded by",
@@ -9,7 +9,7 @@
   "(4, 0, 1)": "Succeeded by",
   "(4, 1, 1)": "Betty Tucker",
   "(5, 0, 2)": "In role",
-  "(5, 1, 1)": "January 9, 1979   January 19, 1981",
+  "(5, 1, 1)": "January 9, 1979 - January 19, 1981",
   "(6, 0, 1)": "Governor",
   "(6, 1, 1)": "Bill Clinton",
   "(7, 0, 1)": "Preceded by",

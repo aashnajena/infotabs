@@ -13,7 +13,7 @@
   "(4, 2, 1)": "film",
   "(4, 3, 1)": "television",
   "(5, 0, 1)": "Years active",
-  "(5, 1, 1)": "1980 2017",
+  "(5, 1, 1)": "1980-2017",
   "(6, 0, 1)": "Genres",
   "(6, 1, 1)": "Observational comedy",
   "(6, 2, 1)": "physical comedy",

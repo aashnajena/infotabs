@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "16G, 16H Columbia Pike Pentagon City line",
+  "(0, 0, 2)": "16G, 16H Columbia Pike-Pentagon City line",
   "(1, 0, 1)": "System",
   "(1, 1, 1)": "Metrobus",
   "(2, 0, 1)": "Operator",
@@ -31,9 +31,9 @@
   "(15, 0, 1)": "Frequency",
   "(15, 1, 1)": "10-15 minutes (Rush Hour) , 20-25 minutes (Midday and Weekday Evening Service) , 30 minutes (Weekends)",
   "(16, 0, 1)": "Operates",
-  "(16, 1, 1)": "4:52 AM   11:24 PM (Weekdays) , 5:35 AM   11:22 PM (Weekends)",
+  "(16, 1, 1)": "4:52 AM - 11:24 PM (Weekdays) , 5:35 AM - 11:22 PM (Weekends)",
   "(17, 0, 1)": "Transfers",
   "(17, 1, 1)": "SmarTrip only",
   "(18, 0, 1)": "Timetable",
-  "(18, 1, 1)": "Columbia Pike Pentagon City Line"
+  "(18, 1, 1)": "Columbia Pike-Pentagon City Line"
 }

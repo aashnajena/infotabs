@@ -5,7 +5,7 @@
   "(2, 0, 1)": "Genres",
   "(2, 1, 1)": "Pop, dance-pop, R&B",
   "(3, 0, 1)": "Years active",
-  "(3, 1, 1)": "1997 2001, 2006 2007, 2012 present",
+  "(3, 1, 1)": "1997-2001, 2006-2007, 2012-present",
   "(4, 0, 1)": "Labels",
   "(4, 1, 1)": "BMG, RCA, Arista",
   "(5, 0, 1)": "Associated acts",

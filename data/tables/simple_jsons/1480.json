@@ -1,7 +1,7 @@
 {
   "(0, 0, 2)": "John McCain",
   "(1, 0, 1)": "Years of service",
-  "(1, 1, 1)": "1958 1981",
+  "(1, 1, 1)": "1958-1981",
   "(2, 0, 1)": "Battles/wars",
   "(2, 1, 1)": "Vietnam War (POW)Operation Rolling Thunder (WIA)",
   "(3, 0, 1)": "Awards",

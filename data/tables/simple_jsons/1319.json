@@ -14,7 +14,7 @@
   "(8, 0, 1)": "Maximum resolution",
   "(8, 1, 1)": "4,256   2,832 (12.1 million)",
   "(9, 0, 1)": "ASA/ISO range",
-  "(9, 1, 1)": "200 6400, extended mode to 100 12800, HI2 mode 25600",
+  "(9, 1, 1)": "200-6400, extended mode to 100-12800, HI2 mode 25600",
   "(10, 0, 1)": "Storage",
   "(10, 1, 1)": "CompactFlash (Type I only)",
   "(11, 0, 2)": "Focusing",

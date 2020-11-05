@@ -1,5 +1,5 @@
 {
-  "(0, 0, 2)": "Rosenheim Salzburg Railway",
+  "(0, 0, 2)": "Rosenheim-Salzburg Railway",
   "(1, 0, 1)": "Native name",
   "(1, 1, 1)": "Bahnstrecke Rosenheim-Salzburg",
   "(2, 0, 1)": "Type",
@@ -16,7 +16,7 @@
   "(6, 0, 1)": "Stations",
   "(6, 1, 1)": "13",
   "(7, 0, 1)": "Line number",
-  "(7, 1, 1)": "5703 (Rosenheim Border of the states)",
+  "(7, 1, 1)": "5703 (Rosenheim-Border of the states)",
   "(7, 2, 1)": "217 01 (Border of the states-Salzburg)",
   "(8, 0, 1)": "Opened",
   "(8, 1, 1)": "Two stages in 1860",
@@ -37,5 +37,5 @@
   "(14, 1, 1)": "160 km/h (99 mph)",
   "(15, 0, 1)": "Route number",
   "(15, 1, 1)": "951",
-  "(15, 2, 1)": "200 (Freilassing   Saalfelden)"
+  "(15, 2, 1)": "200 (Freilassing - Saalfelden)"
 }

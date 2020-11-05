@@ -1,6 +1,6 @@
 {
   "(0, 0, 2)": "World War II",
-  "(1, 0, 1)": "1 September 1939  2 September 1945 (1939-09-01  1945-09-02)",
+  "(1, 0, 1)": "1 September 1939 - 2 September 1945 (1939-09-01 - 1945-09-02)",
   "(1, 1, 1)": "(6 years and 1 day)",
   "(1, 2, 1)": "Allied victory",
   "(1, 3, 1)": "Collapse of Nazi Germany",
@@ -10,7 +10,7 @@
   "(1, 7, 1)": "Dissolution of the League of Nations and creation of the United Nations",
   "(1, 8, 1)": "Emergence of the United States and the Soviet Union as rival superpowers and beginning of the Cold War (more...)",
   "(1, 9, 1)": "Date",
-  "(1, 10, 1)": "1 September 1939  2 September 1945 (1939-09-01  1945-09-02)",
+  "(1, 10, 1)": "1 September 1939 - 2 September 1945 (1939-09-01 - 1945-09-02)",
   "(1, 11, 1)": "(6 years and 1 day)",
   "(1, 12, 1)": "Location",
   "(1, 13, 1)": "Europe, Pacific, Atlantic, South-East Asia, China, Middle East, Mediterranean, North Africa, Horn of Africa, Australia, briefly North and South America",
@@ -23,7 +23,7 @@
   "(1, 20, 1)": "Dissolution of the League of Nations and creation of the United Nations",
   "(1, 21, 1)": "Emergence of the United States and the Soviet Union as rival superpowers and beginning of the Cold War (more...)",
   "(2, 0, 1)": "Date",
-  "(2, 1, 1)": "1 September 1939  2 September 1945 (1939-09-01  1945-09-02)",
+  "(2, 1, 1)": "1 September 1939 - 2 September 1945 (1939-09-01 - 1945-09-02)",
   "(2, 2, 1)": "(6 years and 1 day)",
   "(3, 0, 1)": "Location",
   "(3, 1, 1)": "Europe, Pacific, Atlantic, South-East Asia, China, Middle East, Mediterranean, North Africa, Horn of Africa, Australia, briefly North and South America",
@@ -46,7 +46,7 @@
   "(9, 3, 1)": "Over 45,000,000",
   "(9, 4, 1)": "Total dead:",
   "(9, 5, 1)": "Over 61,000,000",
-  "(9, 6, 1)": "(1937 1945)",
+  "(9, 6, 1)": "(1937-1945)",
   "(9, 7, 1)": "...further details",
   "(9, 8, 1)": "Military dead:",
   "(9, 9, 1)": "Over 8,000,000",
@@ -54,6 +54,6 @@
   "(9, 11, 1)": "Over 4,000,000",
   "(9, 12, 1)": "Total dead:",
   "(9, 13, 1)": "Over 12,000,000",
-  "(9, 14, 1)": "(1937 1945)",
+  "(9, 14, 1)": "(1937-1945)",
   "(9, 15, 1)": "...further details"
 }

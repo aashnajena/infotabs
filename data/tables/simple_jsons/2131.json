@@ -17,13 +17,13 @@
   "(8, 0, 1)": "Date",
   "(8, 1, 1)": "25 Kislev, 26 Kislev, 27 Kislev, 28 Kislev, 29 Kislev, 30 Kislev, 1 Tevet, 2 Tevet, 3 Tevet",
   "(9, 0, 1)": "2018 date",
-  "(9, 1, 1)": "Sunset, 2 December  , nightfall, 10 December",
+  "(9, 1, 1)": "Sunset, 2 December -, nightfall, 10 December",
   "(10, 0, 1)": "2019 date",
-  "(10, 1, 1)": "Sunset, 22 December  , nightfall, 30 December",
+  "(10, 1, 1)": "Sunset, 22 December -, nightfall, 30 December",
   "(11, 0, 1)": "2020 date",
-  "(11, 1, 1)": "Sunset, 10 December  , nightfall, 18 December",
+  "(11, 1, 1)": "Sunset, 10 December -, nightfall, 18 December",
   "(12, 0, 1)": "2021 date",
-  "(12, 1, 1)": "Sunset, 28 November  , nightfall, 6 December",
+  "(12, 1, 1)": "Sunset, 28 November -, nightfall, 6 December",
   "(13, 0, 1)": "Related to",
   "(13, 1, 1)": "Purim, as a rabbinically decreed holiday."
 }

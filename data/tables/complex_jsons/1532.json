@@ -5,7 +5,7 @@
   "(2, 0, 1)": "Genres",
   "(2, 1, 1)": "Rock, hard rock, psychedelic rock, progressive rock, soft rock",
   "(3, 0, 1)": "Years active",
-  "(3, 1, 1)": "1970 1984, 1992 present",
+  "(3, 1, 1)": "1970-1984, 1992-present",
   "(4, 0, 1)": "Labels",
   "(4, 1, 1)": "RCA, Grunt, Epic",
   "(5, 0, 1)": "Associated acts",

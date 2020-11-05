@@ -9,9 +9,9 @@
   "(4, 0, 1)": "Succeeded by:",
   "(4, 1, 1)": "Taih",
   "(5, 0, 1)": "Built:",
-  "(5, 1, 1)": "1938 1941",
+  "(5, 1, 1)": "1938-1941",
   "(6, 0, 1)": "In commission:",
-  "(6, 1, 1)": "1941 1944",
+  "(6, 1, 1)": "1941-1944",
   "(7, 0, 1)": "Completed:",
   "(7, 1, 1)": "2",
   "(8, 0, 1)": "Lost:",
@@ -42,7 +42,7 @@
   "(21, 0, 1)": "Armament:",
   "(21, 1, 1)": "8   twin 127 mm (5 in) Type 89 dual-purpose guns, 12   triple 25 mm (1 in) Type 96 AA guns",
   "(22, 0, 1)": "Armor:",
-  "(22, 1, 1)": "Waterline belt: 46 165 mm (1.8 6.5 in), Deck: 65 132 mm (2.6 5.2 in)",
+  "(22, 1, 1)": "Waterline belt: 46-165 mm (1.8-6.5 in), Deck: 65-132 mm (2.6-5.2 in)",
   "(23, 0, 1)": "Aircraft carried:",
   "(23, 1, 1)": "72 (+12 spares), 7 December 1941:, 18   Mitsubishi A6M Zeros, 27 Aichi D3A \"Val\"s, 27 Nakajima B5N \"Kate\"s"
 }

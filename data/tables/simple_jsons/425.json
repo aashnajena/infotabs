@@ -9,7 +9,7 @@
   "(4, 0, 1)": "Setup time",
   "(4, 1, 1)": "~1 min + 1 min to determine starting position",
   "(5, 0, 1)": "Playing time",
-  "(5, 1, 1)": "Casual games: 10 60 min, Tournament games: from 10 min (fast chess) to >6 h",
+  "(5, 1, 1)": "Casual games: 10-60 min, Tournament games: from 10 min (fast chess) to >6 h",
   "(6, 0, 1)": "Random chance",
   "(6, 1, 1)": "None",
   "(7, 0, 1)": "Skill(s) required",

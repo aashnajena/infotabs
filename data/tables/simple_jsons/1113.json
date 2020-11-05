@@ -9,7 +9,7 @@
   "(4, 0, 1)": "Occupation",
   "(4, 1, 1)": "Actor, producer, director, screenwriter",
   "(5, 0, 1)": "Years active",
-  "(5, 1, 1)": "1980 present",
+  "(5, 1, 1)": "1980-present",
   "(6, 0, 1)": "Title",
   "(6, 1, 1)": "Buddy",
   "(7, 0, 1)": "Spouse(s)",

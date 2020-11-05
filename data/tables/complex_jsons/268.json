@@ -9,7 +9,7 @@
   "(3, 0, 1)": "Occupation",
   "(3, 1, 1)": "Actor, martial artist, film producer, screenwriter, air policeman (U.S. Air Force)",
   "(4, 0, 1)": "Years active",
-  "(4, 1, 1)": "1968 present",
+  "(4, 1, 1)": "1968-present",
   "(5, 0, 1)": "Height",
   "(5, 1, 1)": "5 ft 10 in (178 cm)",
   "(6, 0, 1)": "Political party",
@@ -23,7 +23,7 @@
   "(8, 1, 1)": "5, including Mike and Eric Norris",
   "(9, 0, 2)": "Military career",
   "(10, 0, 1)": "Years of service",
-  "(10, 1, 1)": "1958 1962",
+  "(10, 1, 1)": "1958-1962",
   "(11, 0, 1)": "Website",
   "(11, 1, 1)": "chucknorris.com"
 }

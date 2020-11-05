@@ -11,9 +11,9 @@
   "(5, 0, 1)": "Subclasses:",
   "(5, 1, 1)": "Type 001",
   "(6, 0, 1)": "Built:",
-  "(6, 1, 1)": "1 April 1982 present",
+  "(6, 1, 1)": "1 April 1982-present",
   "(7, 0, 1)": "In commission:",
-  "(7, 1, 1)": "25 December 1990 present",
+  "(7, 1, 1)": "25 December 1990-present",
   "(8, 0, 1)": "Completed:",
   "(8, 1, 1)": "2",
   "(9, 0, 1)": "Active:",
@@ -40,7 +40,7 @@
   "(20, 0, 1)": "Armament:",
   "(20, 1, 1)": "12 P-700 Granit (SS-N-19 Shipwreck) anti-ship missiles, 192 3K95 Kinzhal (SA-N-9 Gauntlet) SAMs, 8 Kashtan CIWS mounts, 6 AK-630 AA guns, 1 UDAV-1 ASW rocket launcher",
   "(21, 0, 1)": "Aircraft carried:",
-  "(21, 1, 1)": "30 50, 18 32   fixed wing aircraft, 18 24   helicopters",
+  "(21, 1, 1)": "30-50, 18-32   fixed wing aircraft, 18-24   helicopters",
   "(22, 0, 1)": "Aviation facilities:",
   "(22, 1, 1)": "Angled arrested landing flight deck, Bow ski-jump"
 }

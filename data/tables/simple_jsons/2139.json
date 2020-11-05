@@ -23,7 +23,7 @@
   "(11, 0, 1)": "Update method",
   "(11, 1, 1)": "iTunes (formerly) or OTA (iOS 5 or later)",
   "(12, 0, 1)": "Platforms",
-  "(12, 1, 1)": "ARMv8-A (iOS 7 and later), ARMv7-A (iPhone OS 3 iOS 10), ARMv6 (iPhone OS 1 iOS 4.2.1)",
+  "(12, 1, 1)": "ARMv8-A (iOS 7 and later), ARMv7-A (iPhone OS 3-iOS 10), ARMv6 (iPhone OS 1-iOS 4.2.1)",
   "(13, 0, 1)": "Kernel type",
   "(13, 1, 1)": "Hybrid (XNU)",
   "(14, 0, 1)": "Default user interface",
