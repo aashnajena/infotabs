@@ -45,7 +45,7 @@
   "(22, 0, 1)": "Electronegativity",
   "(22, 1, 1)": "Pauling scale: no data",
   "(23, 0, 1)": "Ionization energies",
-  "(23, 1, 1)": "1st: 1520.6 kJ/mol , 2nd: 2665.8 kJ/mol , 3rd: 3931 kJ/mol , (more) ",
+  "(23, 1, 1)": "1st: 1520.6 kJ/mol , 2nd: 2665.8 kJ/mol , 3rd: 3931 kJ/mol , (more)",
   "(24, 0, 1)": "Covalent radius",
   "(24, 1, 1)": "106 10 pm",
   "(25, 0, 1)": "Van der Waals radius",

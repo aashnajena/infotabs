@@ -43,7 +43,7 @@
   "(21, 0, 1)": "Electronegativity",
   "(21, 1, 1)": "Pauling scale: 2.96",
   "(22, 0, 1)": "Ionisation energies",
-  "(22, 1, 1)": "1st: 1139.9 kJ/mol , 2nd: 2103 kJ/mol , 3rd: 3470 kJ/mol ,  ",
+  "(22, 1, 1)": "1st: 1139.9 kJ/mol , 2nd: 2103 kJ/mol , 3rd: 3470 kJ/mol ,",
   "(23, 0, 1)": "Atomic radius",
   "(23, 1, 1)": "empirical: 120 pm",
   "(24, 0, 1)": "Covalent radius",

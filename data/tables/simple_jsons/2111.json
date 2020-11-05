@@ -41,7 +41,7 @@
   "(20, 0, 1)": "Electronegativity",
   "(20, 1, 1)": "Pauling scale: 1.2",
   "(21, 0, 1)": "Ionization energies",
-  "(21, 1, 1)": "1st: 547.1 kJ/mol , 2nd: 1085 kJ/mol , 3rd: 2404 kJ/mol ,  ",
+  "(21, 1, 1)": "1st: 547.1 kJ/mol , 2nd: 1085 kJ/mol , 3rd: 2404 kJ/mol ,",
   "(22, 0, 1)": "Atomic radius",
   "(22, 1, 1)": "empirical: 180 pm",
   "(23, 0, 1)": "Natural occurrence",

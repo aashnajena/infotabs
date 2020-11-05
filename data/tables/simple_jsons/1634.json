@@ -9,9 +9,9 @@
   "(4, 0, 1)": "Genre",
   "(4, 1, 1)": "Horror, Superhero",
   "(5, 0, 1)": "Publication date",
-  "(5, 1, 1)": "List(vol. 1),  June 1952   February 1966 ,  (vol. 2) ,  October 1972   October 1975, (Thor vol. 1 cont.),  November 1996   June 1998 ,  (vol. 1 cont.),  June 2011   October 2013 ",
+  "(5, 1, 1)": "List(vol. 1),  June 1952   February 1966 ,  (vol. 2) ,  October 1972   October 1975, (Thor vol. 1 cont.),  November 1996   June 1998 ,  (vol. 1 cont.),  June 2011   October 2013",
   "(6, 0, 1)": "No. of issues",
   "(6, 1, 1)": "List(vol. 1): 125 , (vol. 2): 19 ,  (Thor vol. 1 cont.): 20 ,  (vol. 1 cont.): 35",
   "(7, 0, 1)": "Main character(s)",
-  "(7, 1, 1)": "ListThor (#83-125) ,  Loki (#622-645) ,  Sif (#646-655) "
+  "(7, 1, 1)": "ListThor (#83-125) ,  Loki (#622-645) ,  Sif (#646-655)"
 }
