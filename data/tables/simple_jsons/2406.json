@@ -1,9 +1,10 @@
 {
-  "(0, 0, 2)": "Tournament details",
-  "(1, 0, 1)": "Dates",
-  "(1, 1, 1)": "6–21 August 2016",
-  "(2, 0, 1)": "Teams",
-  "(2, 1, 1)": "24 (from 5 confederations)",
-  "(3, 0, 1)": "Venue(s)",
-  "(3, 1, 1)": "1 (in 1 host city)"
+  "(0, 0, 1)": "Handball at the Games of the XXXI Olympiad",
+  "(1, 0, 2)": "Tournament details",
+  "(2, 0, 1)": "Dates",
+  "(2, 1, 1)": "6–21 August 2016",
+  "(3, 0, 1)": "Teams",
+  "(3, 1, 1)": "24 (from 5 confederations)",
+  "(4, 0, 1)": "Venue(s)",
+  "(4, 1, 1)": "1 (in 1 host city)"
 }

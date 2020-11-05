@@ -1,14 +1,15 @@
 {
-  "(0, 0, 1)": "Manufacturer",
-  "(0, 1, 1)": "Bundaberg Distilling Company",
-  "(1, 0, 1)": "Distributor",
-  "(1, 1, 1)": "Diageo",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Australia",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "1888",
-  "(4, 0, 1)": "Colour",
-  "(4, 1, 1)": "Dark and White",
-  "(5, 0, 1)": "Website",
-  "(5, 1, 1)": "http://www.bundabergrum.com.au"
+  "(0, 0, 1)": "Bundaberg Rum",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "Bundaberg Distilling Company",
+  "(2, 0, 1)": "Distributor",
+  "(2, 1, 1)": "Diageo",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Australia",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "1888",
+  "(5, 0, 1)": "Colour",
+  "(5, 1, 1)": "Dark and White",
+  "(6, 0, 1)": "Website",
+  "(6, 1, 1)": "http://www.bundabergrum.com.au"
 }

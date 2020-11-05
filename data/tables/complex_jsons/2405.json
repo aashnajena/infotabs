@@ -1,10 +1,11 @@
 {
-  "(0, 0, 2)": "Tournament details",
-  "(1, 0, 1)": "Matches",
-  "(1, 1, 1)": "38",
-  "(2, 0, 1)": "Goals scored",
-  "(2, 1, 1)": "1973 (51.92 per match)",
-  "(3, 0, 1)": "Attendance",
-  "(3, 1, 1)": "209,625 (5,516 per match)",
-  "(4, 0, 2)": "← Previous Next → "
+  "(0, 0, 1)": "Men's handball at the Games of the XXX Olympiad",
+  "(1, 0, 2)": "Tournament details",
+  "(2, 0, 1)": "Matches",
+  "(2, 1, 1)": "38",
+  "(3, 0, 1)": "Goals scored",
+  "(3, 1, 1)": "1973 (51.92 per match)",
+  "(4, 0, 1)": "Attendance",
+  "(4, 1, 1)": "209,625 (5,516 per match)",
+  "(5, 0, 2)": "← Previous Next → "
 }

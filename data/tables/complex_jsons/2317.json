@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Wheat beer",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "Hofbräu Kaltenhausen",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Salzburg, Austria",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "1475",
-  "(4, 0, 1)": "Ingredients",
-  "(4, 1, 1)": "Water, wheat malt, barley malt, hops and top fermented yeast"
+  "(0, 0, 1)": "Edelweiss",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Wheat beer",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "Hofbräu Kaltenhausen",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Salzburg, Austria",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "1475",
+  "(5, 0, 1)": "Ingredients",
+  "(5, 1, 1)": "Water, wheat malt, barley malt, hops and top fermented yeast"
 }

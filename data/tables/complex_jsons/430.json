@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Soft-drink",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "PepsiCo",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Peru",
-  "(3, 0, 1)": "Variants",
-  "(3, 1, 1)": "(current) orange, strawberry, pineapple",
-  "(4, 0, 1)": "Related products",
-  "(4, 1, 1)": "Kola Real, Perú Cola, Crush Naranja"
+  "(0, 0, 1)": "Concordia",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Soft-drink",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "PepsiCo",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Peru",
+  "(4, 0, 1)": "Variants",
+  "(4, 1, 1)": "(current) orange, strawberry, pineapple",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Kola Real, Perú Cola, Crush Naranja"
 }

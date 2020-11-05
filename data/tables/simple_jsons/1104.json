@@ -1,14 +1,1 @@
-{
-  "(0, 0, 1)": "Players",
-  "(0, 1, 1)": "4",
-  "(1, 0, 1)": "Setup time",
-  "(1, 1, 1)": "About 1 min.",
-  "(2, 0, 1)": "Playing time",
-  "(2, 1, 1)": "Usually 5–10 mins.",
-  "(3, 0, 1)": "Random chance",
-  "(3, 1, 1)": "None",
-  "(4, 0, 1)": "Skill(s) required",
-  "(4, 1, 1)": "Strategy, tactics, blitz chess",
-  "(5, 0, 1)": "Synonym(s)",
-  "(5, 1, 1)": "Exchange chess , Siamese chess , Tandem chess , Tandem Put-Back , Transfer chess , Double chess , Double blitz, Double speed , Double bughouse, bughouse , Double bug, bug , Double Drop-In , New England Double Bughouse , Cross chess , Simultaneous chess ,  Team chess , Pass-On chess , Pass the Pieces"
-}
+{}

@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Alternative names",
-  "(0, 1, 1)": "Frankfurter, frank, wiener, weenie, tube steak, sausage, banger",
-  "(1, 0, 1)": "Serving temperature",
-  "(1, 1, 1)": "Hot",
-  "(2, 0, 1)": "Main ingredients",
-  "(2, 1, 1)": "Sausage made from pork, beef, chicken, turkey or combinations thereof, and a bun",
-  "(3, 0, 1)": "Variations",
-  "(3, 1, 1)": "Multiple",
-  "(4, 0, 1)": "Food energy, (per serving)",
-  "(4, 1, 1)": "210 kcal"
+  "(0, 0, 1)": "Hot dog",
+  "(1, 0, 1)": "Alternative names",
+  "(1, 1, 1)": "Frankfurter, frank, wiener, weenie, tube steak, sausage, banger",
+  "(2, 0, 1)": "Serving temperature",
+  "(2, 1, 1)": "Hot",
+  "(3, 0, 1)": "Main ingredients",
+  "(3, 1, 1)": "Sausage made from pork, beef, chicken, turkey or combinations thereof, and a bun",
+  "(4, 0, 1)": "Variations",
+  "(4, 1, 1)": "Multiple",
+  "(5, 0, 1)": "Food energy, (per serving)",
+  "(5, 1, 1)": "210 kcal"
 }

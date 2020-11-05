@@ -1,10 +1,11 @@
 {
-  "(0, 0, 2)": "Tournament details",
-  "(1, 0, 1)": "Matches played",
-  "(1, 1, 1)": "30",
-  "(2, 0, 1)": "Goals scored",
-  "(2, 1, 1)": "154 (5.13 per match)",
-  "(3, 0, 1)": "Attendance",
-  "(3, 1, 1)": "138,327 (4,611 per match)",
-  "(4, 0, 2)": "← 2014 2022 → "
+  "(0, 0, 1)": "2018 Winter Olympics",
+  "(1, 0, 2)": "Tournament details",
+  "(2, 0, 1)": "Matches played",
+  "(2, 1, 1)": "30",
+  "(3, 0, 1)": "Goals scored",
+  "(3, 1, 1)": "154 (5.13 per match)",
+  "(4, 0, 1)": "Attendance",
+  "(4, 1, 1)": "138,327 (4,611 per match)",
+  "(5, 0, 2)": "← 2014 2022 → "
 }

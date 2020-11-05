@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Orange-Pineapple Flavored soft drink",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "Keurig Dr Pepper",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "United States",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "late 1960s",
-  "(4, 0, 1)": "Related products",
-  "(4, 1, 1)": "Fanta, Slice, Orange Crush, Sunkist"
+  "(0, 0, 1)": "Cactus Cooler",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Orange-Pineapple Flavored soft drink",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "Keurig Dr Pepper",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "United States",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "late 1960s",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Fanta, Slice, Orange Crush, Sunkist"
 }

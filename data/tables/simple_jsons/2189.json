@@ -1,18 +1,1 @@
-{
-  "(0, 0, 1)": "Field",
-  "(0, 1, 1)": "Geometric topology",
-  "(1, 0, 1)": "Conjectured by",
-  "(1, 1, 1)": "Henri Poincaré",
-  "(2, 0, 1)": "Conjectured in",
-  "(2, 1, 1)": "1904",
-  "(3, 0, 1)": "First proof by",
-  "(3, 1, 1)": "Grigori Perelman",
-  "(4, 0, 1)": "First proof in",
-  "(4, 1, 1)": "2006",
-  "(5, 0, 1)": "Implied by",
-  "(5, 1, 1)": "Geometrization conjecture, Zeeman conjecture, ",
-  "(6, 0, 1)": "Equivalent to",
-  "(6, 1, 1)": "Spherical space form conjecture, Thurston elliptization conjecture, ",
-  "(7, 0, 1)": "Generalizations",
-  "(7, 1, 1)": "Generalized Poincaré conjecture"
-}
+{}

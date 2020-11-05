@@ -1,10 +1,11 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Pastry",
-  "(1, 0, 1)": "Place of origin",
-  "(1, 1, 1)": "England",
-  "(2, 0, 1)": "Region or state",
-  "(2, 1, 1)": "Chorley, Lancashire",
-  "(3, 0, 1)": "Main ingredients",
-  "(3, 1, 1)": "Shortcrust pastry, raisins"
+  "(0, 0, 1)": "Chorley cake",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Pastry",
+  "(2, 0, 1)": "Place of origin",
+  "(2, 1, 1)": "England",
+  "(3, 0, 1)": "Region or state",
+  "(3, 1, 1)": "Chorley, Lancashire",
+  "(4, 0, 1)": "Main ingredients",
+  "(4, 1, 1)": "Shortcrust pastry, raisins"
 }

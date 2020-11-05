@@ -1,14 +1,15 @@
 {
-  "(0, 0, 1)": "Alternative names",
-  "(0, 1, 1)": "Caldo; Galician broth",
-  "(1, 0, 1)": "Type",
-  "(1, 1, 1)": "Soup",
-  "(2, 0, 1)": "Place of origin",
-  "(2, 1, 1)": "Galicia (Spain)",
-  "(3, 0, 1)": "Created by",
-  "(3, 1, 1)": "Traditional",
-  "(4, 0, 1)": "Serving temperature",
-  "(4, 1, 1)": "Hot",
-  "(5, 0, 1)": "Main ingredients",
-  "(5, 1, 1)": "Cabbage or other greens, potatoes, white beans, fatty pork"
+  "(0, 0, 1)": "Caldo galego",
+  "(1, 0, 1)": "Alternative names",
+  "(1, 1, 1)": "Caldo; Galician broth",
+  "(2, 0, 1)": "Type",
+  "(2, 1, 1)": "Soup",
+  "(3, 0, 1)": "Place of origin",
+  "(3, 1, 1)": "Galicia (Spain)",
+  "(4, 0, 1)": "Created by",
+  "(4, 1, 1)": "Traditional",
+  "(5, 0, 1)": "Serving temperature",
+  "(5, 1, 1)": "Hot",
+  "(6, 0, 1)": "Main ingredients",
+  "(6, 1, 1)": "Cabbage or other greens, potatoes, white beans, fatty pork"
 }

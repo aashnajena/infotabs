@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Cola",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "Enrique Cassinelli and Sons",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Peru",
-  "(3, 0, 1)": "Variants",
-  "(3, 1, 1)": "cola, champagne, strawberry, pineapple, orange, soda and dorada",
-  "(4, 0, 1)": "Related products",
-  "(4, 1, 1)": "Kola Real, Crush Naranja, Concordia, Perú Cola"
+  "(0, 0, 1)": "Cassinelli",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Cola",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "Enrique Cassinelli and Sons",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Peru",
+  "(4, 0, 1)": "Variants",
+  "(4, 1, 1)": "cola, champagne, strawberry, pineapple, orange, soda and dorada",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Kola Real, Crush Naranja, Concordia, Perú Cola"
 }

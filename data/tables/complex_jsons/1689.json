@@ -1,8 +1,9 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Pancake",
-  "(1, 0, 1)": "Place of origin",
-  "(1, 1, 1)": "Austria-Hungary",
-  "(2, 0, 1)": "Main ingredients",
-  "(2, 1, 1)": "Flour, eggs, sugar, milk, butter"
+  "(0, 0, 1)": "Kaiserschmarrn",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Pancake",
+  "(2, 0, 1)": "Place of origin",
+  "(2, 1, 1)": "Austria-Hungary",
+  "(3, 0, 1)": "Main ingredients",
+  "(3, 1, 1)": "Flour, eggs, sugar, milk, butter"
 }

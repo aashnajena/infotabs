@@ -1,18 +1,1 @@
-{
-  "(0, 0, 1)": "Breed",
-  "(0, 1, 1)": "Thoroughbred",
-  "(1, 0, 1)": "Sire",
-  "(1, 1, 1)": "Henry Lee",
-  "(2, 0, 1)": "Grandsire",
-  "(2, 1, 1)": "Your Majesty",
-  "(3, 0, 1)": "Dam",
-  "(3, 1, 1)": "Trémula",
-  "(4, 0, 1)": "Maternal grandsire",
-  "(4, 1, 1)": "Lomond",
-  "(5, 0, 1)": "Sex",
-  "(5, 1, 1)": "Stallion",
-  "(6, 0, 1)": "Foaled",
-  "(6, 1, 1)": "1933",
-  "(7, 0, 1)": "Colour",
-  "(7, 1, 1)": "Chestnut"
-}
+{}

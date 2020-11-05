@@ -1,14 +1,15 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Soft drink",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "The Coca-Cola Company",
-  "(2, 0, 1)": "Introduced",
-  "(2, 1, 1)": "1975",
-  "(3, 0, 1)": "Colour",
-  "(3, 1, 1)": "Caramel",
-  "(4, 0, 1)": "Flavour",
-  "(4, 1, 1)": "Rosy vanilla, fruity",
-  "(5, 0, 1)": "Website",
-  "(5, 1, 1)": "cocacola.co.za/brands/ironBrew.html"
+  "(0, 0, 1)": "Iron Brew",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Soft drink",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "The Coca-Cola Company",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1975",
+  "(4, 0, 1)": "Colour",
+  "(4, 1, 1)": "Caramel",
+  "(5, 0, 1)": "Flavour",
+  "(5, 1, 1)": "Rosy vanilla, fruity",
+  "(6, 0, 1)": "Website",
+  "(6, 1, 1)": "cocacola.co.za/brands/ironBrew.html"
 }

@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Orange-flavoured Cola",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "The Coca-Cola Company",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Belgium",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "2005",
-  "(4, 0, 1)": "Related products",
-  "(4, 1, 1)": "Coke Citra, Diet Coke/Coke Light with Lime, Diet Coke/Coke Light with Lemon, Mezzo Mix"
+  "(0, 0, 1)": "Coca-Cola Light Sango",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Orange-flavoured Cola",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "The Coca-Cola Company",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Belgium",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "2005",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Coke Citra, Diet Coke/Coke Light with Lime, Diet Coke/Coke Light with Lemon, Mezzo Mix"
 }

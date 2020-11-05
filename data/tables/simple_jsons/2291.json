@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Scotch Whisky",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "The Edrington Group",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Scotland",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "23 March 1923",
-  "(4, 0, 1)": "Alcohol by volume",
-  "(4, 1, 1)": "40%"
+  "(0, 0, 1)": "Cutty Sark",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Scotch Whisky",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "The Edrington Group",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Scotland",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "23 March 1923",
+  "(5, 0, 1)": "Alcohol by volume",
+  "(5, 1, 1)": "40%"
 }

@@ -1,14 +1,1 @@
-{
-  "(0, 0, 1)": "Highest governing body",
-  "(0, 1, 1)": "International Federation for Equestrian Sports (FEI)",
-  "(1, 0, 1)": "Contact",
-  "(1, 1, 1)": "no",
-  "(2, 0, 1)": "Team members",
-  "(2, 1, 1)": "individual and team at international levels",
-  "(3, 0, 1)": "Mixed gender",
-  "(3, 1, 1)": "yes",
-  "(4, 0, 1)": "Type",
-  "(4, 1, 1)": "outdoor",
-  "(5, 0, 1)": "Equipment",
-  "(5, 1, 1)": "horse, carriage, horse harness equipment"
-}
+{}

@@ -1,11 +1,12 @@
 {
-  "(0, 0, 1)": "Country of origin",
-  "(0, 1, 1)": "Jersey",
-  "(1, 0, 1)": "Weight",
-  "(1, 1, 1)": "Male: 540–820 kilograms (1,190–1,810 lb)",
-  "(1, 2, 1)": "Female: 400–500 kilograms (880–1,100 lb)",
-  "(2, 0, 1)": "Coat",
-  "(2, 1, 1)": "Fawn",
-  "(3, 0, 1)": "Cattle",
-  "(3, 1, 1)": "Bos (primigenius) taurus"
+  "(0, 0, 1)": "Jersey Cattle",
+  "(1, 0, 1)": "Country of origin",
+  "(1, 1, 1)": "Jersey",
+  "(2, 0, 1)": "Weight",
+  "(2, 1, 1)": "Male: 540–820 kilograms (1,190–1,810 lb)",
+  "(2, 2, 1)": "Female: 400–500 kilograms (880–1,100 lb)",
+  "(3, 0, 1)": "Coat",
+  "(3, 1, 1)": "Fawn",
+  "(4, 0, 1)": "Cattle",
+  "(4, 1, 1)": "Bos (primigenius) taurus"
 }

@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Soft drink",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "Maspex",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Poland",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "1996.",
-  "(4, 0, 1)": "Variants",
-  "(4, 1, 1)": "Caprio Plus"
+  "(0, 0, 1)": "Caprio",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Soft drink",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "Maspex",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Poland",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "1996.",
+  "(5, 0, 1)": "Variants",
+  "(5, 1, 1)": "Caprio Plus"
 }

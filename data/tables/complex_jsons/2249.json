@@ -1,17 +1,1 @@
-{
-  "(0, 0, 1)": "Names",
-  "(0, 1, 1)": "Aerospace engineer ",
-  "(0, 2, 1)": "Engineer",
-  "(1, 0, 1)": "Occupation type",
-  "(1, 1, 1)": "Profession",
-  "(2, 0, 1)": "Activity sectors",
-  "(2, 1, 1)": "Aeronautics, astronautics, science",
-  "(3, 0, 1)": "Competencies",
-  "(3, 1, 1)": "Technical knowledge, management skills ",
-  "(3, 2, 1)": "(see also glossary of aerospace engineering)",
-  "(4, 0, 1)": "Education required",
-  "(4, 1, 1)": "Bachelor's Degree",
-  "(5, 0, 1)": "Fields of",
-  "(5, 1, 1)": "employment",
-  "(5, 2, 1)": "Technology, science, space exploration, military"
-}
+{}

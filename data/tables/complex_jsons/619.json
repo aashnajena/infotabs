@@ -1,13 +1,14 @@
 {
-  "(0, 0, 1)": "Original author(s)",
-  "(0, 1, 1)": "Mark B. Gerstein",
-  "(0, 2, 1)": "Werner G. Krebs",
-  "(1, 0, 1)": "Developer(s)",
-  "(1, 1, 1)": "molmovdb.org team at Yale University",
-  "(2, 0, 1)": "Initial release",
-  "(2, 1, 1)": "1996; 23 years ago (1996)",
-  "(3, 0, 1)": "Type",
-  "(3, 1, 1)": "bioinformatics database, Software as a service",
-  "(4, 0, 1)": "Website",
-  "(4, 1, 1)": "molmovdb.org"
+  "(0, 0, 1)": "Database of Macromolecular Motions",
+  "(1, 0, 1)": "Original author(s)",
+  "(1, 1, 1)": "Mark B. Gerstein",
+  "(1, 2, 1)": "Werner G. Krebs",
+  "(2, 0, 1)": "Developer(s)",
+  "(2, 1, 1)": "molmovdb.org team at Yale University",
+  "(3, 0, 1)": "Initial release",
+  "(3, 1, 1)": "1996; 23 years ago (1996)",
+  "(4, 0, 1)": "Type",
+  "(4, 1, 1)": "bioinformatics database, Software as a service",
+  "(5, 0, 1)": "Website",
+  "(5, 1, 1)": "molmovdb.org"
 }

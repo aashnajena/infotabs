@@ -1,14 +1,15 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Flavored water",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "Kraft Foods",
-  "(2, 0, 1)": "Introduced",
-  "(2, 1, 1)": "1982",
-  "(3, 0, 1)": "Color",
-  "(3, 1, 1)": "All",
-  "(4, 0, 1)": "Variants",
-  "(4, 1, 1)": "On The Go (single-serve packets of beverage mix), multi-serve canisters (multi-serve packets of beverage mix), liquid",
-  "(5, 0, 1)": "Website",
-  "(5, 1, 1)": "www.CrystalLight.com"
+  "(0, 0, 1)": "Crystal Light",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Flavored water",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "Kraft Foods",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1982",
+  "(4, 0, 1)": "Color",
+  "(4, 1, 1)": "All",
+  "(5, 0, 1)": "Variants",
+  "(5, 1, 1)": "On The Go (single-serve packets of beverage mix), multi-serve canisters (multi-serve packets of beverage mix), liquid",
+  "(6, 0, 1)": "Website",
+  "(6, 1, 1)": "www.CrystalLight.com"
 }

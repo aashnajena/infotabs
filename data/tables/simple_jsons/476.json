@@ -1,14 +1,1 @@
-{
-  "(0, 0, 1)": "Species",
-  "(0, 1, 1)": "Felis domesticus",
-  "(1, 0, 1)": "Sex",
-  "(1, 1, 1)": "Male",
-  "(2, 0, 1)": "Born",
-  "(2, 1, 1)": "(1989-08-01)August 1, 1989, Oregon, United States",
-  "(3, 0, 1)": "Died",
-  "(3, 1, 1)": "c. November 2016 (age 27), Oregon, United States",
-  "(4, 0, 1)": "Known for",
-  "(4, 1, 1)": "Oldest living cat",
-  "(5, 0, 1)": "Owner",
-  "(5, 1, 1)": "Ashley Reed Okura"
-}
+{}

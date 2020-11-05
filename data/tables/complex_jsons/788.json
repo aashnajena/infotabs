@@ -1,10 +1,11 @@
 {
-  "(0, 0, 1)": "Manufacturer",
-  "(0, 1, 1)": "S. M. Jaleel and Company",
-  "(1, 0, 1)": "Country of origin",
-  "(1, 1, 1)": "Trinidad and Tobago",
-  "(2, 0, 1)": "Introduced",
-  "(2, 1, 1)": "1981",
-  "(3, 0, 1)": "Variants",
-  "(3, 1, 1)": "Banana, diet banana, Pear-d, pineapple, ginger beer, grape, kola champagne, diet kola champagne, orange, diet orange, cream soda, green crush and club soda"
+  "(0, 0, 1)": "Cole Cold",
+  "(1, 0, 1)": "Manufacturer",
+  "(1, 1, 1)": "S. M. Jaleel and Company",
+  "(2, 0, 1)": "Country of origin",
+  "(2, 1, 1)": "Trinidad and Tobago",
+  "(3, 0, 1)": "Introduced",
+  "(3, 1, 1)": "1981",
+  "(4, 0, 1)": "Variants",
+  "(4, 1, 1)": "Banana, diet banana, Pear-d, pineapple, ginger beer, grape, kola champagne, diet kola champagne, orange, diet orange, cream soda, green crush and club soda"
 }

@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Diet Cola",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "Keurig Dr Pepper",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "United States",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "1958",
-  "(4, 0, 1)": "Related products",
-  "(4, 1, 1)": "Diet Coke, Diet Pepsi, Diet Dr. Pepper, and Tab"
+  "(0, 0, 1)": "Diet Rite Pure Zero",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Diet Cola",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "Keurig Dr Pepper",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "United States",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "1958",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Diet Coke, Diet Pepsi, Diet Dr. Pepper, and Tab"
 }

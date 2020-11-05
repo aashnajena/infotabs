@@ -1,9 +1,10 @@
 {
-  "(0, 0, 2)": "Tournament details",
-  "(1, 0, 1)": "Dates",
-  "(1, 1, 1)": "7–19 February",
-  "(2, 0, 1)": "Teams",
-  "(2, 1, 1)": "12",
-  "(3, 0, 1)": "Venue(s)",
-  "(3, 1, 1)": "Olympic Hall Zetra, Skenderija Olympic Hall (in 1 host city)"
+  "(0, 0, 1)": "Ice hockey at the 1984 Winter Olympics",
+  "(1, 0, 2)": "Tournament details",
+  "(2, 0, 1)": "Dates",
+  "(2, 1, 1)": "7–19 February",
+  "(3, 0, 1)": "Teams",
+  "(3, 1, 1)": "12",
+  "(4, 0, 1)": "Venue(s)",
+  "(4, 1, 1)": "Olympic Hall Zetra, Skenderija Olympic Hall (in 1 host city)"
 }

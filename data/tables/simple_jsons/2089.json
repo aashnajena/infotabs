@@ -1,14 +1,1 @@
-{
-  "(0, 0, 1)": "Names",
-  "(0, 1, 1)": "pharmacist-scientist, apothecary-scientist",
-  "(1, 0, 1)": "Occupation type",
-  "(1, 1, 1)": "profession",
-  "(2, 0, 1)": "Activity sectors",
-  "(2, 1, 1)": "academia, industry, government (including regulators), healthcare",
-  "(3, 0, 1)": "Competencies",
-  "(3, 1, 1)": "Translational medicine, independent research skills, pharmacy practice, residency or fellowship training",
-  "(4, 0, 1)": "Education required",
-  "(4, 1, 1)": "Doctor of Pharmacy, often with an academic research certificate, master's or doctorate degree",
-  "(5, 0, 1)": "Related jobs",
-  "(5, 1, 1)": "scientist, pharmacist, physician-scientist"
-}
+{}

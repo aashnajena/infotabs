@@ -1,16 +1,1 @@
-{
-  "(0, 0, 1)": "Names",
-  "(0, 1, 1)": "Psychiatrist, alienist (archaic), ",
-  "(1, 0, 1)": "Occupation type",
-  "(1, 1, 1)": "Profession, specialization, ",
-  "(2, 0, 1)": "Activity sectors",
-  "(2, 1, 1)": "Medicine, psychiatry, ",
-  "(3, 0, 1)": "Competencies",
-  "(3, 1, 1)": "Analytical mind, patience, ",
-  "(4, 0, 1)": "Education required",
-  "(4, 1, 1)": "Doctor of Medicine (M.D.),  Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB),  Doctor of Osteopathic Medicine (D.O.)",
-  "(5, 0, 1)": "Fields of, employment",
-  "(5, 1, 1)": "Psychiatric clinics",
-  "(6, 0, 1)": "Related jobs",
-  "(6, 1, 1)": "Psychologist, psychotherapist, "
-}
+{}

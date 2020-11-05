@@ -1,16 +1,1 @@
-{
-  "(0, 0, 2)": "Exoplanet",
-  "(0, 1, 1)": "List of exoplanets",
-  "(1, 0, 2)": "Discovery date",
-  "(1, 1, 1)": "November 1, 2010 (announced)",
-  "(1, 2, 1)": "November 22, 2010 (published)",
-  "(2, 0, 2)": "Discoverer(s)",
-  "(2, 1, 1)": "Marois et al.",
-  "(3, 0, 2)": "Discovery method",
-  "(3, 1, 1)": "Direct imaging",
-  "(4, 0, 2)": "Discovery site",
-  "(4, 1, 1)": "Keck and Gemini",
-  "(4, 2, 1)": "observatories in Hawaii",
-  "(5, 0, 2)": "Discovery status",
-  "(5, 1, 1)": "Published"
-}
+{}

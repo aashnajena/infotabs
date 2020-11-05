@@ -1,11 +1,12 @@
 {
-  "(0, 0, 2)": "No. 0 – Denver Nuggets",
-  "(1, 0, 1)": "Born",
-  "(1, 1, 1)": " (1989-02-07) February 7, 1989 (age 29), Tacoma, Washington",
-  "(2, 0, 1)": "Nationality",
-  "(2, 1, 1)": "American",
-  "(3, 0, 1)": "Listed height",
-  "(3, 1, 1)": "5 ft 9 in (1.75 m)",
-  "(4, 0, 1)": "Listed weight",
-  "(4, 1, 1)": "185 lb (84 kg)"
+  "(0, 0, 1)": "Isaiah Thomas",
+  "(1, 0, 2)": "No. 0 – Denver Nuggets",
+  "(2, 0, 1)": "Born",
+  "(2, 1, 1)": " (1989-02-07) February 7, 1989 (age 29), Tacoma, Washington",
+  "(3, 0, 1)": "Nationality",
+  "(3, 1, 1)": "American",
+  "(4, 0, 1)": "Listed height",
+  "(4, 1, 1)": "5 ft 9 in (1.75 m)",
+  "(5, 0, 1)": "Listed weight",
+  "(5, 1, 1)": "185 lb (84 kg)"
 }

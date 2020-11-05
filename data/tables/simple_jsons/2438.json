@@ -1,10 +1,11 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Soup",
-  "(1, 0, 1)": "Place of origin",
-  "(1, 1, 1)": "Japan",
-  "(2, 0, 1)": "Region or state",
-  "(2, 1, 1)": "Yamanashi Prefecture",
-  "(3, 0, 1)": "Main ingredients",
-  "(3, 1, 1)": "Miso soup, udon noodles, vegetables"
+  "(0, 0, 1)": "Hōtō",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Soup",
+  "(2, 0, 1)": "Place of origin",
+  "(2, 1, 1)": "Japan",
+  "(3, 0, 1)": "Region or state",
+  "(3, 1, 1)": "Yamanashi Prefecture",
+  "(4, 0, 1)": "Main ingredients",
+  "(4, 1, 1)": "Miso soup, udon noodles, vegetables"
 }

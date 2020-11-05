@@ -1,14 +1,1 @@
-{
-  "(0, 0, 1)": "Breed",
-  "(0, 1, 1)": "Quarter Horse",
-  "(1, 0, 1)": "Sex",
-  "(1, 1, 1)": "Gelding",
-  "(2, 0, 1)": "Foaled",
-  "(2, 1, 1)": "April 13, 1941, Wyoming",
-  "(3, 0, 1)": "Died",
-  "(3, 1, 1)": "October 7, 1972 , California",
-  "(4, 0, 1)": "Color",
-  "(4, 1, 1)": "Buckskin",
-  "(5, 0, 1)": "Owner",
-  "(5, 1, 1)": "Dale Evans"
-}
+{}

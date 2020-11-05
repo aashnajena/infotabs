@@ -1,10 +1,11 @@
 {
-  "(0, 0, 1)": "Alternative names",
-  "(0, 1, 1)": "Gebrannte Mandeln, Garrapiñadas",
-  "(1, 0, 1)": "Place of origin",
-  "(1, 1, 1)": "Switzerland, Germany, Spain",
-  "(2, 0, 1)": "Main ingredients",
-  "(2, 1, 1)": "Nuts",
-  "(3, 0, 1)": "Ingredients generally used",
-  "(3, 1, 1)": "Sugar"
+  "(0, 0, 1)": "Candied almonds",
+  "(1, 0, 1)": "Alternative names",
+  "(1, 1, 1)": "Gebrannte Mandeln, Garrapiñadas",
+  "(2, 0, 1)": "Place of origin",
+  "(2, 1, 1)": "Switzerland, Germany, Spain",
+  "(3, 0, 1)": "Main ingredients",
+  "(3, 1, 1)": "Nuts",
+  "(4, 0, 1)": "Ingredients generally used",
+  "(4, 1, 1)": "Sugar"
 }

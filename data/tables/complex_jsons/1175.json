@@ -1,12 +1,1 @@
-{
-  "(0, 0, 1)": "Players",
-  "(0, 1, 1)": "1 versus 1, plus an optional arbiter or referee",
-  "(1, 0, 1)": "Setup time",
-  "(1, 1, 1)": "2 to 3 minutes",
-  "(2, 0, 1)": "Playing time",
-  "(2, 1, 1)": "30 to 120 minutes (player-dependent)",
-  "(3, 0, 1)": "Random chance",
-  "(3, 1, 1)": "Yes",
-  "(4, 0, 1)": "Skill(s) required",
-  "(4, 1, 1)": "Strategy, tactics, memory, bluffing, inter-player communication"
-}
+{}

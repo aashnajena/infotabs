@@ -1,18 +1,1 @@
-{
-  "(0, 0, 1)": "Species",
-  "(0, 1, 1)": "Spanish Fighting Bull",
-  "(1, 0, 1)": "Breed",
-  "(1, 1, 1)": "Miura",
-  "(2, 0, 1)": "Sex",
-  "(2, 1, 1)": "Male",
-  "(3, 0, 1)": "Born",
-  "(3, 1, 1)": "Seville, Andalusia, Spain",
-  "(4, 0, 1)": "Nation from",
-  "(4, 1, 1)": "Spain",
-  "(5, 0, 1)": "Known for",
-  "(5, 1, 1)": "Gored and killed Manolete",
-  "(6, 0, 1)": "Owner",
-  "(6, 1, 1)": "Eduardo Miura Fernández",
-  "(7, 0, 1)": "Weight",
-  "(7, 1, 1)": "495 Kg"
-}
+{}

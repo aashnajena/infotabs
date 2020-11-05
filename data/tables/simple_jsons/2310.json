@@ -1,10 +1,11 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Cola",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "PepsiCo",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "India",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "1889"
+  "(0, 0, 1)": "Duke and Sons",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Cola",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "PepsiCo",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "India",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "1889"
 }

@@ -1,10 +1,11 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Stew",
-  "(1, 0, 1)": "Place of origin",
-  "(1, 1, 1)": "Germany",
-  "(2, 0, 1)": "Region or state",
-  "(2, 1, 1)": "Swabia",
-  "(3, 0, 1)": "Main ingredients",
-  "(3, 1, 1)": "Meat, beef broth, potatoes, Spätzle"
+  "(0, 0, 1)": "Gaisburger Marsch",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Stew",
+  "(2, 0, 1)": "Place of origin",
+  "(2, 1, 1)": "Germany",
+  "(3, 0, 1)": "Region or state",
+  "(3, 1, 1)": "Swabia",
+  "(4, 0, 1)": "Main ingredients",
+  "(4, 1, 1)": "Meat, beef broth, potatoes, Spätzle"
 }

@@ -1,12 +1,13 @@
 {
-  "(0, 0, 1)": "Type",
-  "(0, 1, 1)": "Soft drink",
-  "(1, 0, 1)": "Manufacturer",
-  "(1, 1, 1)": "Corporación José R. Lindley S.A.",
-  "(2, 0, 1)": "Country of origin",
-  "(2, 1, 1)": "Peru",
-  "(3, 0, 1)": "Introduced",
-  "(3, 1, 1)": "1935",
-  "(4, 0, 1)": "Related products",
-  "(4, 1, 1)": "Coca-Cola, Kola Real"
+  "(0, 0, 1)": "Inca Kola",
+  "(1, 0, 1)": "Type",
+  "(1, 1, 1)": "Soft drink",
+  "(2, 0, 1)": "Manufacturer",
+  "(2, 1, 1)": "Corporación José R. Lindley S.A.",
+  "(3, 0, 1)": "Country of origin",
+  "(3, 1, 1)": "Peru",
+  "(4, 0, 1)": "Introduced",
+  "(4, 1, 1)": "1935",
+  "(5, 0, 1)": "Related products",
+  "(5, 1, 1)": "Coca-Cola, Kola Real"
 }
