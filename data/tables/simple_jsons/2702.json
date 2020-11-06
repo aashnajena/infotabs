@@ -16,13 +16,9 @@
   "(8, 0, 1)": "Producer",
   "(8, 1, 1)": "Pink Floyd",
   "(9, 0, 2)": "Pink Floyd chronology",
-  "(10, 0, 2)": "Obscured by Clouds, (1972)The Dark Side of the Moon, (1973)Wish You Were Here, (1975)",
-  "(10, 1, 1)": "Obscured by Clouds, (1972)",
-  "(10, 2, 1)": "The Dark Side of the Moon, (1973)",
-  "(10, 3, 1)": "Wish You Were Here, (1975)",
-  "(11, 0, 1)": "Obscured by Clouds, (1972)",
-  "(11, 1, 1)": "The Dark Side of the Moon, (1973)",
-  "(11, 2, 1)": "Wish You Were Here, (1975)",
-  "(12, 0, 2)": "Singles from The Dark Side of the Moon",
-  "(13, 0, 2)": "\"Money\" / \"Any Colour You Like\", Released: 7 May 1973, \"Us and Them\" / \"Time\", Released: 4 February 1974"
+  "(10, 0, 1)": "Obscured by Clouds, (1972)",
+  "(10, 1, 1)": "The Dark Side of the Moon, (1973)",
+  "(10, 2, 1)": "Wish You Were Here, (1975)",
+  "(11, 0, 2)": "Singles from The Dark Side of the Moon",
+  "(12, 0, 2)": "\"Money\" / \"Any Colour You Like\", Released: 7 May 1973, \"Us and Them\" / \"Time\", Released: 4 February 1974"
 }

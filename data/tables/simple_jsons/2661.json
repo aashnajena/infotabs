@@ -14,11 +14,8 @@
   "(6, 1, 1)": "Mainland China,  Hong Kong,  United States,  United Kingdom",
   "(7, 0, 1)": "Products",
   "(7, 1, 1)": "Fixedline telephony, mobile telephony, Internet access, digital television",
-  "(8, 0, 1)": "Subsidiaries",
-  "(8, 1, 1)": "China Unicom Global,   CUniq HK,   CUniq UK ,  CUniq US,  PCCW 18.48%,  China Tower 28.1%",
-  "(8, 2, 1)": "China Unicom Global,   CUniq HK,   CUniq UK ,  CUniq US",
-  "(9, 0, 1)": "China Unicom Global,   CUniq HK,   CUniq UK ,  CUniq US",
-  "(10, 0, 1)": "Website",
-  "(10, 1, 1)": "www.chinaunicom.com, Mainland China, www.10010.com , Hong Kong, www.cuniq.com/hk, United Kingdom, www.cuniq.com/uk, United States, www.cuniq.com/us",
-  "(11, 0, 2)": "Footnotes / references, data obtained from China United Network Communications Ltd. (the accounts of the parent company was not disclosed); in consolidated financial statement; excluding minority interests to red chip minority shareholders"
+  "(8, 0, 1)": "China Unicom Global,   CUniq HK,   CUniq UK ,  CUniq US",
+  "(9, 0, 1)": "Website",
+  "(9, 1, 1)": "www.chinaunicom.com, Mainland China, www.10010.com , Hong Kong, www.cuniq.com/hk, United Kingdom, www.cuniq.com/uk, United States, www.cuniq.com/us",
+  "(10, 0, 2)": "Footnotes / references, data obtained from China United Network Communications Ltd. (the accounts of the parent company was not disclosed); in consolidated financial statement; excluding minority interests to red chip minority shareholders"
 }
